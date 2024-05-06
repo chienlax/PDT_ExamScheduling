@@ -117,10 +117,19 @@ void Solver::run() {
                 expr1 += w_ijt[i][j][t];
             }
         }
+        model.add(expr1 <= 1);
     }
 
     // (2) số sinh viên tham gia phòng thi r thỏa mãn điều kiện giới hạn 
     // số sinh viên của phòng tại thời điểm t bất kỳ
-
+    for (int i = 0; i < S; i++) {
+        IloExpr expr1(env);
+        for (int j = 0; j < E; j++) {
+            for (int t = 0; t < T; t++) {
+                expr1 += w_ijt[i][j][t];
+            }
+        }
+        model.add(expr1 <= 1);
+    }
 
 }

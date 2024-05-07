@@ -131,29 +131,31 @@ void Solver::run() {
 
     // (2) số sinh viên tham gia phòng thi r thỏa mãn điều kiện giới hạn 
     // số sinh viên của phòng tại thời điểm t bất kỳ
-    for (int i = 0; i < S; i++) {
-        IloExpr expr2(env);
-        for (int j = 0; j < E; j++) {
-            for (int t = 0; t < T; t++) {
-                expr2 += w_ijt[i][j][t];
+    for (int r = 0; r < R; r++) {
+        for (int t = 0; t < T; t++) {
+            IloExpr expr2(env);
+            for (int i = 0; i < S; i++) {
+                for (int j = 0; j < E; j++) {
+                    expr2 += w_ijrt[i][j][r][t];
+                }
             }
+            model.add(expr2 <= capacity[r]);
         }
-        model.add(expr2 <= 1);
     }
 
     // (3) sinh viên i phải thi môn j ở phòng r và ở tại thời điểm t
     // nào đó với mọi cặp ( i, t) mà sinh viên i thi môn t
     // Với mọi sinh viên, tại 1 thời điểm, chỉ thi 1 môn tại 1 phòng nhất định
     // need fixing
-    for (int i = 0; i < E; i++) {
-        for (int t = 0; t < T; t++) {
+    for (int i = 0; i < S; i++) {
+        for (int j = 0; j < E; j++) {
+            IloExpr expr3(env);
             for (int r = 0; r < R; r++) {
-                IloExpr expr3(env);
-                for (int j = 0; j < E; j++) {
+                for (int t = 0; t < T; t++) {
                     expr3 += w_ijrt[i][j][r][t];
                 }
-                model.add(expr3 == 1);
             }
+            model.add(expr3 == 1);
         }
     }
 
@@ -249,7 +251,8 @@ void Solver::run() {
         IloExpr expr7(env);
         for (int p = 0; p < T; p++) {
             for (int q = 0; q < T; q++) {
-                if (p <= q) expr7 += wi_pq[i][p][q];
+                if (p <= q) 
+                    expr7 += wi_pq[i][p][q];
             }
         }
         model.add(expr7 == 1);
@@ -274,18 +277,15 @@ void Solver::run() {
         for (int t = 0; t < T; t++) {
             for (int p = 0; p < T; p++) {
                 for (int q = 0; q < T; q++) {
-                    if (p <= q) {
-                        if (t < p || t > q) {
-                            model.add(w_it[i][t] + wi_pq[i][p][q] <= 1);
-                        }
+                    if (p <= q && (t < p || t > q)) {
+                        model.add(w_it[i][t] + wi_pq[i][p][q] <= 1);
                     }
-                    
                 }
             }
         }
     }
 
-    // (12)  nếu [p, q] là khoảng được chọn thì sinh viên ko thi sau thời điểm p.
+    // (12) nếu [p, q] là khoảng được chọn thì sinh viên ko thi sau thời điểm p.
     for (int i = 0; i < S; i++) {
         for (int p = 0; p < T; p++) {
             for (int q = 0; q < T; q++) {
@@ -295,7 +295,7 @@ void Solver::run() {
                         expr8 += w_it[i][t];
                     }
                     model.add(expr8 <= (p - 1) * (1 - wi_pq[i][p][q]));
-                }  
+                }
             }
         }
     }
@@ -321,7 +321,8 @@ void Solver::run() {
         IloExpr expr10(env);
         for (int p = 0; p < T; p++) {
             for (int q = 0; q < T; q++) {
-                if (p<=q) expr10 += zj_pq[j][p][q];
+                if (p<=q) 
+                    expr10 += zj_pq[j][p][q];
             }
         }
         model.add(expr10 == 1);
@@ -373,8 +374,10 @@ void Solver::run() {
     for (int i = 0; i < S; i++) {
         for (int p = 0; p < T; p++) {
             for (int q = p; q < T; q++) {
-                if (p <= 6 || q >= 6) 
-                    obj3 += wi_pq[i][p][q] * (q - p);
+                if (p <= q) {
+                    if (p <= 6 || q >= 6)
+                        obj3 += wi_pq[i][p][q] * (q - p);
+                }
             }
         }
     }

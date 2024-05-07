@@ -16,7 +16,7 @@ using namespace std;
 class Instance {
 public:
     int E, S, R, T, C; // Number of exam, student, room, timeslot, course
-    vector<int> capacity; // Room's capacity
+    vector<int> capacity; // Room's capacity at time slot t
     map<int, int> numberOfStudentInExam; // Number of student in each exam
 
     map<string, string> exam_and_infor;

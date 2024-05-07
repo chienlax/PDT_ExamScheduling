@@ -26,8 +26,8 @@ student_and_exam: map chứa id sinh viên + môn thi của sv đó
 exam_and_infor: mã học phần + tên học phần tương ứng
 exam_and_student: map chứa id exam + sinh viên thi môn đó
 
-output_student_and_exam: map chứa id sinh viên + set id (số) môn thi cuả sinh viên đó
-output_exam_and_student: map chứa id môn thi + id sinh viên thi môn đó
+output_student_and_exam: map chứa id sinh viên + set id (đánh theo số) môn thi cuả sinh viên đó
+output_exam_and_student: map chứa id môn thi + set id sinh viên thi môn đó
 
 encoding_exam, encoding_student: map chứa id sinh viên và số thứ tự tương ứng, từ 1
 decoding_exam, decoding_student: map chứa thứ tự sinh viên và exam cùng với id tương ứng
@@ -53,7 +53,7 @@ void Process::process_input(string inputFile)
 
 	// Read file
 	string input;
-	int input_line = 1000; cout << "Number of input line: " << input_line << endl;
+	int input_line = 500; cout << "Number of input line: " << input_line << endl;
 	getline(instream, input);
 	for (int i = 0; i < input_line; i++) {
 		getline(instream, input);

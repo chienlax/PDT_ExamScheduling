@@ -54,6 +54,35 @@ void Instance::read_input(string inputFile)
 		cout << it << " ";
 	}
 	cout << endl;*/
+
+	// Each student and their respective exam:
+	for (int i = 0; i < S; i++) {
+		getline(instream, input);
+		vector<string> lines;
+		stringstream ss(input);
+		string line;
+
+		while (getline(ss, line, ':')) {
+			lines.push_back(line);
+		}
+		
+		set<int> push_int;
+		stringstream ss1(lines[1]);
+		string line2;
+		cout << lines[1] << endl;
+		while (ss1 >> line2) {
+			push_int.insert(stoi(line2));
+		}
+		examOfStudent[i] = push_int;
+	}
+
+	/*for (auto it1 : examOfStudent) {
+		cout << it1.first << " ";
+		for (auto it2 : it1.second) {
+			cout << it2 << " ";
+		}
+		cout << endl;
+	}*/
 	
 	// The rest of the exam and its number of register
 	string input2;

@@ -19,6 +19,7 @@ public:
     int E, S, R, T, C;
     vector<int> capacity;
     map<int, int> numberOfStudentInExam;
+    map<int, set<int>> examOfStudent;
 
     map<string, string> exam_and_infor;
     map<string, string> student_and_infor;

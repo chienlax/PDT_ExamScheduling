@@ -165,8 +165,17 @@ void Process::process_input(string inputFile)
 		}
 		else outstream << 40;
 	}
-	
+
 	outstream << endl;
+
+	for (auto it1 : output_student_and_exam) {
+		outstream << it1.first << ":";
+		for (auto it2 : it1.second){
+			outstream << it2 << " ";
+		}
+		outstream << endl;
+	}
+
 
 	for (auto it1 : output_exam_and_student) {
 		outstream << it1.first << " " << it1.second.size() << endl;

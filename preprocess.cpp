@@ -53,7 +53,7 @@ void Process::process_input(string inputFile)
 
 	// Read file
 	string input;
-	int input_line = 5047; cout << "Number of input line: " << input_line << endl;
+	int input_line = 1000; cout << "Number of input line: " << input_line << endl;
 	getline(instream, input);
 	for (int i = 0; i < input_line; i++) {
 		getline(instream, input);

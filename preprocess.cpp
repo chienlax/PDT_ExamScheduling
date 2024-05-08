@@ -53,8 +53,10 @@ void Process::process_input(string inputFile)
 
 	// Read file
 	string input;
-	int input_line = 500; cout << "Number of input line: " << input_line << endl;
-	getline(instream, input);
+	int input_line = 50; 
+	cout << "Number of input line: " << input_line << endl;
+	getline(instream, input); //Remove first line of the csv file
+
 	for (int i = 0; i < input_line; i++) {
 		getline(instream, input);
 		vector<string> lines;
@@ -80,18 +82,6 @@ void Process::process_input(string inputFile)
 		student_and_infor[lines[1]] = student_name;
 		exam_and_infor[lines[4]] = lines[6];
 	}
-
-	/*for (auto x : exam_input) {
-		cout << x << " ";
-	}*/
-
-	/*for (auto it1 : student_and_exam) {
-		cout << it1.first << ": ";
-		for (auto it2 : x.second) {
-			cout << it2 << " ";
-		}
-		cout << endl;
-	}*/
 
 	// Encoding exam and student to the respective number.
 	map <string, int> encoding_exam;
@@ -135,19 +125,10 @@ void Process::process_input(string inputFile)
 		}
 	}
 
-	// Print
-	/*for (auto it1 : output_exam_and_student) {
-		cout << it1.first << ": ";
-		for (auto it2 : it1.second) {
-			cout << it2 << " ";
-		}
-		cout << endl;
-	}*/
-
 	int num_exam = exam_input.size();
 	int num_student = student_input.size();
-	int num_room = 15;
-	int num_slot = 12;
+	int num_room = 30;
+	int num_slot = 30;
 	int num_course = exam_and_infor.size();
 
 	cout << "Number of exam: " << num_exam << "\n" << "Number of student: " << num_student 

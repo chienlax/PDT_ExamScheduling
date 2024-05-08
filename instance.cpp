@@ -50,11 +50,6 @@ void Instance::read_input(string inputFile)
 		capacity.push_back(stoi(line2));
 	}
 
-	/*for (auto it : capacity) {
-		cout << it << " ";
-	}
-	cout << endl;*/
-
 	// Each student and their respective exam:
 	for (int i = 0; i < S; i++) {
 		getline(instream, input);
@@ -69,20 +64,12 @@ void Instance::read_input(string inputFile)
 		set<int> push_int;
 		stringstream ss1(lines[1]);
 		string line2;
-		cout << lines[1] << endl;
+		
 		while (ss1 >> line2) {
 			push_int.insert(stoi(line2));
 		}
 		examOfStudent[i] = push_int;
 	}
-
-	/*for (auto it1 : examOfStudent) {
-		cout << it1.first << " ";
-		for (auto it2 : it1.second) {
-			cout << it2 << " ";
-		}
-		cout << endl;
-	}*/
 	
 	// The rest of the exam and its number of register
 	string input2;
@@ -100,10 +87,6 @@ void Instance::read_input(string inputFile)
 		numberOfStudentInExam[stoi(lines[0])] = stoi(lines[1]);
 	}
 
-	/*for (auto it : numberOfStudentInExam) {
-		cout << it.first << " " << it.second << endl;
-	}*/
-
 	// Exam and its name:
 	string input3;
 	for (int i = 0; i < C; i++) {
@@ -118,10 +101,6 @@ void Instance::read_input(string inputFile)
 
 		exam_and_infor[lines[0]] = lines[1];
 	}
-
-	/*for (auto it : exam_and_infor) {
-		cout << it.first << " " << it.second << endl;
-	}*/
 	
 	// Students and their name
 	string input4;
@@ -138,10 +117,6 @@ void Instance::read_input(string inputFile)
 		student_and_infor[lines[0]] = lines[1];
 	}
 
-	/*for (auto it : student_and_infor) {
-		cout << it.first << " " << it.second << endl;
-	}*/
-
 	// Decoding exam
 	string input5;
 	for (int i = 0; i < E; i++) {
@@ -157,10 +132,6 @@ void Instance::read_input(string inputFile)
 		decoding_exam[stoi(lines[0])] = lines[1];
 	}
 
-	/*for (auto it : decoding_exam) {
-		cout << it.first << " " << it.second << endl;
-	}*/
-
 	// Decoding student
 	string input6;
 	for (int i = 0; i < S; i++) {
@@ -175,8 +146,4 @@ void Instance::read_input(string inputFile)
 
 		decoding_student[stoi(lines[0])] = lines[1];
 	}
-
-	/*for (auto it : decoding_student) {
-		cout << it.first << " " << it.second << endl;
-	}*/
 }

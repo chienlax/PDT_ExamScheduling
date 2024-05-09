@@ -28,6 +28,7 @@ public:
     map<int, string> decoding_student;
 
     void run();
+    void test();
 };
 
 #endif

@@ -36,6 +36,8 @@ void Solver::run() {
 			x_jrt[j][r] = IloNumVarArray(env, T);
 			for (int t = 0; t < T; t++) {
 				x_jrt[j][r][t] = IloNumVar(env, 0, 1, ILOINT);
+				string name = "x_jrt(" + to_string(j) + "," + to_string(r) + "," + to_string(t) + ")";
+				x_jrt[j][r][t].setName(name.c_str());
 			}
 		}
 	}
@@ -45,6 +47,8 @@ void Solver::run() {
 		x_jt[j] = IloNumVarArray(env, T);
 		for (int t = 0; t < T; t++) {
 			x_jt[j][t] = IloNumVar(env, 0, 1, ILOINT);
+			string name = "x_jt(" + to_string(j) + "," + to_string(t) + ")";
+			x_jt[j][t].setName(name.c_str());
 		}
 	}
 
@@ -57,10 +61,15 @@ void Solver::run() {
 				w_ijrt[i][j][r] = IloNumVarArray(env, T);
 				for (int t = 0; t < T; t++) {
 					w_ijrt[i][j][r][t] = IloNumVar(env, 0, 1, ILOINT);
+					string name = "w_ijrt(" + to_string(i) + "," + to_string(j) + "," +
+						to_string(r) + "," + to_string (t) + ")";
+					w_ijrt[i][j][r][t].setName(name.c_str());
 				}
 			}
 		}
 	}
+
+
 
 	IloArray<IloArray<IloNumVarArray>> w_ijt(env, S); // sinh viên i thi môn j ở time slot t
 	for (int i = 0; i < S; i++) {
@@ -69,6 +78,8 @@ void Solver::run() {
 			w_ijt[i][j] = IloNumVarArray(env, T);
 			for (int t = 0; t < T; t++) {
 				w_ijt[i][j][t] = IloNumVar(env, 0, 1, ILOINT);
+				string name = "w_ijt(" + to_string(i) + "," + to_string(j) + "," + to_string(t) + ")";
+				w_ijt[i][j][t].setName(name.c_str());
 			}
 		}
 	}
@@ -78,6 +89,8 @@ void Solver::run() {
 		w_it[i] = IloNumVarArray(env, T);
 		for (int t = 0; t < T; t++) {
 			w_it[i][t] = IloNumVar(env, 0, 1, ILOINT);
+			string name = "w_it(" + to_string(i) + "," + to_string(t) + ")";
+			w_it[i][t].setName(name.c_str());
 		}
 	}
 
@@ -88,6 +101,8 @@ void Solver::run() {
 			wi_pq[i][p] = IloNumVarArray(env, T);
 			for (int q = p; q < T; q++) {
 				wi_pq[i][p][q] = IloNumVar(env, 0, 1, ILOINT);
+				string name = "wi_pq[" + to_string(i) + ",(" + to_string(p) + "," + to_string(q) + ")]";
+				wi_pq[i][p][q].setName(name.c_str());
 			}
 		}
 	}
@@ -99,36 +114,40 @@ void Solver::run() {
 			zj_pq[j][p] = IloNumVarArray(env, T);
 			for (int q = p; q < T; q++) {
 				zj_pq[j][p][q] = IloNumVar(env, 0, 1, ILOINT);
+				string name = "zj_pq[" + to_string(j) + ",(" + to_string(p) + "," + to_string(q) + ")]";
+				zj_pq[j][p][q].setName(name.c_str());
 			}
 		}
 	}
 
-	IloArray<IloArray<IloArray<IloNumVarArray>>> xij_rt(env, E); // hai môn i và j cùng thi tại phòng (r, t)
+	IloArray<IloArray<IloArray<IloNumVarArray>>> Xij_rt(env, E); // hai môn i và j cùng thi tại phòng (r, t)
 	for (int j1 = 0; j1 < E; j1++) {
-		xij_rt[j1] = IloArray<IloArray<IloNumVarArray>>(env, E);
+		Xij_rt[j1] = IloArray<IloArray<IloNumVarArray>>(env, E);
 		for (int j2 = 0; j2 < E; j2++) {
-			xij_rt[j1][j2] = IloArray<IloNumVarArray>(env, R);
+			Xij_rt[j1][j2] = IloArray<IloNumVarArray>(env, R);
 			for (int r = 0; r < R; r++) {
-				xij_rt[j1][j2][r] = IloNumVarArray(env, T);
+				Xij_rt[j1][j2][r] = IloNumVarArray(env, T);
 				for (int t = 0; t < T; t++) {
-					xij_rt[j1][j2][r][t] = IloNumVar(env, 0, 1, ILOINT);
+					Xij_rt[j1][j2][r][t] = IloNumVar(env, 0, 1, ILOINT);
+					string name = "Xij_rt[" + to_string(j1) + "," + to_string(j2)
+						+ ",(" + to_string(r) + "," + to_string(t) + ")]";
+					Xij_rt[j1][j2][r][t].setName(name.c_str());
 				}
 			}
 		}
 	}
 
 	// Constraints:
-	// (1) sinh viên i tham gia không quá một môn ở thời điểm t với mọi cặp (i, j)
+	// (1) sinh viên i tham gia không quá một môn ở thời điểm t với mọi cặp (i, t)
 	for (int i = 0; i < S; i++) {
 		for (int t = 0; t < T; t++) {
 			IloExpr expr1(env);
-			for (int j = 0; j < E; j++) {
+			for (auto j : examOfStudent[i]) {
 				for (int r = 0; r < R; r++) {
 					expr1 += w_ijrt[i][j][r][t];
 				}
 			}
-			model.add(expr1 <= 1).setName(("Student " + to_string(i) + "at time" +
-			to_string(t) + "take only 1 exam").c_str());
+			model.add(expr1 <= 1).setName("C1");
 		}
 	}
 
@@ -138,11 +157,11 @@ void Solver::run() {
 		for (int t = 0; t < T; t++) {
 			IloExpr expr2(env);
 			for (int i = 0; i < S; i++) {
-				for (int j = 0; j < E; j++) {
+				for (auto j : examOfStudent[i]) {
 					expr2 += w_ijrt[i][j][r][t];
 				}
 			}
-			model.add(expr2 <= capacity[r]);
+			model.add(expr2 <= capacity[r]).setName("C2");
 		}
 	}
 
@@ -158,17 +177,17 @@ void Solver::run() {
 					expr3 += w_ijrt[i][j][r][t];
 				}
 			}
-			model.add(expr3 == 1);
+			model.add(expr3 == 1).setName("C3");
 		}
 	}
 
 	// (4) sinh viên chỉ thi tại phòng mà nó được mở; và môn thi được tổ chức ở timeslot đó
 
 	for (int i = 0; i < S; i++) {
-		for (int j = 0; j < E; j++) {
+		for (auto j : examOfStudent[i]) {
 			for (int r = 0; r < R; r++) {
 				for (int t = 0; t < T; t++) {
-					model.add(w_ijrt[i][j][r][t] <= x_jrt[j][r][t]);
+					model.add(w_ijrt[i][j][r][t] <= x_jrt[j][r][t]).setName("C4.1");
 				}
 			}
 		}
@@ -177,7 +196,7 @@ void Solver::run() {
 	for (int j = 0; j < E; j++) {
 		for (int r = 0; r < R; r++) {
 			for (int t = 0; t < T; t++) {
-				model.add(x_jrt[j][r][t] <= x_jt[j][t]);
+				model.add(x_jrt[j][r][t] <= x_jt[j][t]).setName("C4.2");
 			}
 		}
 	}
@@ -189,40 +208,14 @@ void Solver::run() {
 			for (int r = 0; r < R; r++) {
 				expr4 += x_jrt[j][r][t];
 			}
-			model.add(expr4 >= x_jt[j][t]);
+			model.add(expr4 >= x_jt[j][t]).setName("C5");
 		}
 	}
 
-	// (6) Hội constraint chia phòng
-	for (int j1 = 0; j1 < E; j1++) {
-		for (int j2 = j1 + 1; j2 < E; j2++) {
-			for (int r = 0; r < R; r++) {
-				for (int t = 0; t < T; t++) {
-					model.add(xij_rt[j1][j2][r][t] <= x_jrt[j1][r][t]);
-				}
-			}
-		}
-	}
-	for (int j1 = 0; j1 < E; j1++) {
-		for (int j2 = j1 + 1; j2 < E; j2++) {
-			for (int r = 0; r < R; r++) {
-				for (int t = 0; t < T; t++) {
-					model.add(xij_rt[j1][j2][r][t] <= x_jrt[j2][r][t]);
-				}
-			}
-		}
-	}
-	for (int j1 = 0; j1 < E; j1++) {
-		for (int j2 = j1 + 1; j2 < E; j2++) {
-			for (int r = 0; r < R; r++) {
-				for (int t = 0; t < T; t++) {
-					model.add(xij_rt[j1][j2][r][t] >= x_jrt[j1][r][t] + x_jrt[j2][r][t] - 1);
-				}
-			}
-		}
-	}
+	// (6) phải có ít nhất một sinh viên i thi môn j ở thời điểm t
 
-	// (7) phải có ít nhất một sinh viên i thi môn j ở thời điểm t
+	/*IloRange cons(env, lb, x, ub, "");
+	model.add(cons)*/
 	for (int j = 0; j < E; j++) {
 		for (int r = 0; r < R; r++) {
 			for (int t = 0; t < T; t++) {
@@ -230,12 +223,12 @@ void Solver::run() {
 				for (int i = 0; i < S; i++) {
 					expr5 += w_ijrt[i][j][r][t];
 				}
-				model.add(expr5 >= x_jrt[j][r][t]);
+				model.add(expr5 >= x_jrt[j][r][t]).setName("C6");
 			}
 		}
 	}
 
-	// (8) số phòng mở phục vụ môn học j phải thỏa mãn số sinh
+	// (7) số phòng mở phục vụ môn học j phải thỏa mãn số sinh
 	// viên cho môn này
 	for (int j = 0; j < E; j++) {
 		IloExpr expr6(env);
@@ -244,73 +237,122 @@ void Solver::run() {
 				expr6 += (x_jrt[j][r][t] * capacity[r]);
 			}
 		}
-		model.add(expr6 >= numberOfStudentInExam[j]);
+		model.add(expr6 >= numberOfStudentInExam[j]).setName("C7");
 	}
 
-	// (9) sinh viên i sẽ thi tất cả các môn ở trong time slot từ
-	// p..q với p, q nào đó(nghĩa là sẽ thi trong một vài slot ở trong này)
+	// (8) Constraint chia phòng
+	for (int j1 = 0; j1 < E; j1++) {
+		for (int j2 = j1 + 1; j2 < E; j2++) {
+			for (int r = 0; r < R; r++) {
+				for (int t = 0; t < T; t++) {
+					model.add(Xij_rt[j1][j2][r][t] <= x_jrt[j1][r][t]).setName("C8.1");
+				}
+			}
+		}
+	}
+
+	for (int j1 = 0; j1 < E; j1++) {
+		for (int j2 = j1 + 1; j2 < E; j2++) {
+			for (int r = 0; r < R; r++) {
+				for (int t = 0; t < T; t++) {
+					model.add(Xij_rt[j1][j2][r][t] <= x_jrt[j2][r][t]).setName("C8.2");
+				}
+			}
+		}
+	}
+
+	for (int j1 = 0; j1 < E; j1++) {
+		for (int j2 = j1 + 1; j2 < E; j2++) {
+			for (int r = 0; r < R; r++) {
+				for (int t = 0; t < T; t++) {
+					model.add(Xij_rt[j1][j2][r][t] >= x_jrt[j1][r][t] + x_jrt[j2][r][t] - 1).setName("C8.3");
+				}
+			}
+		}
+	}
+
+	// (9)  mỗi sinh viên sẽ chỉ chọn thi trong một khoảng time
+	// slot[p, q] duy nhất
 	for (int i = 0; i < S; i++) {
 		IloExpr expr7(env);
 		for (int p = 0; p < T; p++) {
 			for (int q = p; q < T; q++) {
 				expr7 += wi_pq[i][p][q];
 			}
-			model.add(expr7 == 1);
+			model.add(expr7 == 1).setName("C9");
 		}
 	}
 
-	// (10) nếu khoảng [p,q] là khoảng thời gian mà sinh viên i thi thì p là 
-	// thời điểm thi sớm nhất và q là thời điểm thi muộn nhất của sinh viên i
+	// (10) đoạn (p,q) nào đó dc chọn thì có một môn sẽ thi ở thời điểm 
+	// p với p là thời điểm bắt đầu của của mọi môn thi của sinh viên i
 	for (int i = 0; i < S; i++) {
 		for (int p = 0; p < T; p++) {
+			IloExpr expr8(env);
 			for (int q = p; q < T; q++) {
-				model.add(w_it[i][p] == w_it[i][q]);
-				model.add(w_it[i][q] == wi_pq[i][p][q]);
+				expr8 += wi_pq[i][p][q];
 			}
+			model.add(w_it[i][p] >= expr8);
 		}
 	}
 
-	// (11) nếu khoảng [p,q] là khoảng thời gian mà sinh viên i thi thì p là 
-	// thời điểm thi sớm nhất và q là thời điểm thi muộn nhất của sinh viên i
+	// (11)  đoạn (p,q) nào đó dc chọn thì có một môn sẽ thi ở thời điểm 
+	// q (với q là thời điểm kết thúc mọi môn thi của sv i)
 	for (int i = 0; i < S; i++) {
-		for (int t = 0; t < T; t++) {
-			for (int p = 0; p < T; p++) {
+		for (int q = 0; q < T; q++) {
+			IloExpr expr9(env);
+			for (int p = 0; p < q; p++) {
+				expr9 += wi_pq[i][p][q];
+			}
+			model.add(w_it[i][q] >= expr9);
+		}
+	}
+
+	// (12)  p là thời điểm mà bắt đầu các
+	// môn thi của sv i thì sv này ko thi bất kỳ môn nào trc thời điểm p
+	for (int i = 0; i < S; i++) {
+		for (int p = 0; p < T; p++) {
+			for (int t = 0; t < p; t++) {
+				IloExpr expr10(env);
 				for (int q = p; q < T; q++) {
-					if (t < p || t > q) {
-						model.add(w_it[i][t] + wi_pq[i][p][q] <= 1);
-					}
+					expr10 += wi_pq[i][p][q];
 				}
+				expr10 += w_it[i][t];
+				model.add(expr10 <= 1).setName("Constraint 12");
 			}
 		}
 	}
 
-	// (12) nếu [p, q] là khoảng được chọn thì sinh viên ko thi sau thời điểm p.
+	// (13) q là thời điểm mà kết thúc các
+	// môn thi của sv i thì sv này ko thi bất kỳ môn nào sau thời điểm q
+	for (int i = 0; i < S; i++) {
+		for (int q = 0; q < T; q++) {
+			for (int t = q+1; t < T; t++) {
+				IloExpr expr11(env);
+				for (int p = 0; p < q; p++) {
+					expr11 += wi_pq[i][p][q];
+				}
+				expr11 += w_it[i][t];
+				model.add(expr11 <= 1).setName("Constraint 13");
+			}
+		}
+	}
+	
+
+	// (14) với mọi bộ (p,q) mà q-p+1 < số lượng môn khác nhau mà sinh
+	// viên i tham gia thi
 	for (int i = 0; i < S; i++) {
 		for (int p = 0; p < T; p++) {
 			for (int q = p; q < T; q++) {
-				IloExpr expr8(env);
-				for (int t = 0; t < p; t++) {
-					expr8 += w_it[i][t];
+				if (q - p + 1 < examOfStudent[i].size()) {
+					model.add(wi_pq[i][p][q] == 0).setName("Constraint 14");
 				}
-				model.add(expr8 <= (p - 1) * (1 - wi_pq[i][p][q]));
 			}
 		}
 	}
+	
 
-	// (13)  nếu [p, q] là khoảng được chọn thì sinh viên ko thi trước thời điểm p.
-	for (int i = 0; i < S; i++) {
-		for (int p = 0; p < T; p++) {
-			for (int q = p; q < T; q++) {
-				IloExpr expr9(env);
-				for (int t = q + 1; t < T; t++) {
-					expr9 += w_it[i][t];
-				}
-				model.add(expr9 <= (T - q) * (1 - wi_pq[i][p][q]));
-			}
-		}
-	}
-
-	// (14) môn j sẽ được thi trên 1 bộ slot liên tiếp
+	// (15) với mọi j; có mọt khoảng thời gian p..q được chọn để tổ
+	// chức thi môn thi j
 	for (int j = 0; j < E; j++) {
 		IloExpr expr10(env);
 		for (int p = 0; p < T; p++) {
@@ -318,19 +360,47 @@ void Solver::run() {
 				expr10 += zj_pq[j][p][q];
 			}
 		}
-		model.add(expr10 == 1);
+		model.add(expr10 == 1).setName("Constraint 15");
 	}
 
-	// (15)  nếu đoạn p..q được tổ chức để thi môn j(wj_pq = 1) 
+	// (16)  nếu đoạn p..q được tổ chức để thi môn j(wj_pq = 1) 
 	// thì bất cứ slot nào cũng phải có môn j thi (hay xjt = 1)
 	for (int j = 0; j < E; j++) {
 		for (int p = 0; p < T; p++) {
 			for (int q = p; q < T; q++) {
-				for (int t = 0; t < T; t++) {
-					if (p <= t <= q) {
-						model.add(x_jt[j][t] >= zj_pq[j][p][q]);
-					}
+				for (int t = p; t < q; t++) {
+					model.add(x_jt[j][t] >= zj_pq[j][p][q]).setName("Constraint 16");
 				}
+			}
+		}
+	}
+
+	// (17) p là thời điểm mà bắt đầu các
+	// môn thi của môn i thì môn này ko thi bất kỳ môn nào trc thời điểm p
+	for (int j = 0; j < E; j++) {
+		for (int p = 0; p < T; p++) {
+			for (int t = 0; t < p; t++) {
+				IloExpr expr12(env);
+				for (int q = p; q < T; q++) {
+					expr12 += zj_pq[j][p][q];
+				}
+				expr12 += x_jt[j][t];
+				model.add(expr12 <= 1).setName("Constraint 17");
+			}
+		}
+	}
+
+	// (18) q là thời điểm mà kết thúc các
+	// môn thi của môn i thì môn này ko thi bất kỳ môn nào sau thời điểm q
+	for (int j = 0; j < E; j++) {
+		for (int q = 0; q < T; q++) {
+			for (int t = q+1; t < T; t++) {
+				IloExpr expr13(env);
+				for (int p = 0; p < q; p++) {
+					expr13 += zj_pq[j][p][q];
+				}
+				expr13 += x_jt[j][t];
+				model.add(expr13 <= 1).setName("Constraint 18");
 			}
 		}
 	}
@@ -344,29 +414,29 @@ void Solver::run() {
 			}
 		}
 	}
-	obj1 *= 9;
+	obj1 *= 1e9;
 
 	IloExpr obj2(env);
 	for (int i = 0; i < S; i++) {
 		for (int p = 0; p < T; p++) {
 			for (int q = p; q < T; q++) {
-				if (q <= 6 || p >= 7)
+				if (p >= 7 || q <= 6)
 					obj2 += wi_pq[i][p][q] * (q - p);
 			}
 		}
 	}
-	obj2 *= 4;
+	obj2 *= 10;
 
 	IloExpr obj3(env);
 	for (int i = 0; i < S; i++) {
 		for (int p = 0; p < T; p++) {
 			for (int q = p; q < T; q++) {
-				if (p <= 6 || q >= 6)
+				if (p <= 6 && q >= 7)
 					obj3 += wi_pq[i][p][q] * (q - p);
 			}
 		}
 	}
-	obj3 *= 5;
+	obj3 *= 100;
 
 	IloExpr obj4(env);
 	for (int j = 0; j < E; j++) {
@@ -376,21 +446,21 @@ void Solver::run() {
 			}
 		}
 	}
-	obj4 *= 7;
+	obj4 *= 1000;
 
 	IloExpr obj5(env);
 	for (int j1 = 0; j1 < E; j1++) {
 		for (int j2 = j1 + 1; j2 < E; j2++) {
 			for (int r = 0; r < R; r++) {
 				for (int t = 0; t < T; t++) {
-					obj5 += xij_rt[j1][j2][r][t];
+					obj5 += Xij_rt[j1][j2][r][t];
 				}
 			}
 		}
 	}
-	obj5 *= 8;
+	obj5 *= 10000;
 
-	model.add(IloMinimize(env,  obj4));
+	model.add(IloMinimize(env, obj1 + obj2 + obj3 + obj5 + obj4));
 
 	cout << "\nCplex starts here\n";
 
@@ -407,11 +477,22 @@ void Solver::run() {
 
 	cout << "Solution status: " << cplex.getStatus() << endl;
 
+	ofstream outFile("output.txt", ofstream::trunc);
 	for (int j = 0; j < E; j++) {
 		for (int r = 0; r < R; r++) {
 			for (int t = 0; t < T; t++) {
 				if (cplex.getValue(x_jrt[j][r][t])) {
-					cout << "Môn " << decoding_exam[j] << "phòng " << r << "time slot thứ " << t << endl;
+					cout << "Môn " << decoding_exam[j] << " phòng " << r << " time slot thứ " << t << endl;
+				}
+			}
+		}
+	}
+
+	for (int j = 0; j < E; j++) {
+		for (int r = 0; r < R; r++) {
+			for (int t = 0; t < T; t++) {
+				if (cplex.getValue(x_jrt[j][r][t])) {
+					cout << "Môn " << decoding_exam[j] << " phòng " << r << " time slot thứ " << t << endl;
 				}
 			}
 		}

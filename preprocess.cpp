@@ -53,7 +53,7 @@ void Process::process_input(string inputFile)
 
 	// Read file
 	string input;
-	int input_line = 100; 
+	int input_line = 1000; 
 	cout << "Number of input line: " << input_line << endl;
 	getline(instream, input); //Remove first line of the csv file
 
@@ -127,8 +127,8 @@ void Process::process_input(string inputFile)
 
 	int num_exam = exam_input.size();
 	int num_student = student_input.size();
-	int num_room = 100;
-	int num_slot = 100;
+	int num_room = 15;
+	int num_slot = 12;
 	int num_course = exam_and_infor.size();
 
 	cout << "Number of exam: " << num_exam << "\n" << "Number of student: " << num_student 

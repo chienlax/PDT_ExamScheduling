@@ -1,5 +1,2 @@
-﻿  preprocess.cpp
-C:\Users\ORLab\main_source\PDT_ExamScheduling\preprocess.cpp(128,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\ORLab\main_source\PDT_ExamScheduling\preprocess.cpp(129,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\ORLab\main_source\PDT_ExamScheduling\preprocess.cpp(132,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+﻿  solver.cpp
   PDT_Exam_Scheduling.vcxproj -> C:\Users\ORLab\main_source\PDT_ExamScheduling\x64\Debug\PDT_Exam_Scheduling.exe

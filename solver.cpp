@@ -70,8 +70,8 @@ void Solver::run() {
 	}
 
 
-
-	IloArray<IloArray<IloNumVarArray>> w_ijt(env, S); // sinh viên i thi môn j ở time slot t
+	// sinh viên i thi môn j ở time slot t
+	/*IloArray<IloArray<IloNumVarArray>> w_ijt(env, S); 
 	for (int i = 0; i < S; i++) {
 		w_ijt[i] = IloArray<IloNumVarArray>(env, E);
 		for (int j = 0; j < E; j++) {
@@ -82,9 +82,9 @@ void Solver::run() {
 				w_ijt[i][j][t].setName(name.c_str());
 			}
 		}
-	}
+	}*/
 
-	IloArray<IloNumVarArray> w_it(env, S); // sinh viên i thi ở time slot t
+	IloArray<IloNumVarArray> w_it(env, S); 
 	for (int i = 0; i < S; i++) {
 		w_it[i] = IloNumVarArray(env, T);
 		for (int t = 0; t < T; t++) {
@@ -133,6 +133,20 @@ void Solver::run() {
 						+ ",(" + to_string(r) + "," + to_string(t) + ")]";
 					Xij_rt[j1][j2][r][t].setName(name.c_str());
 				}
+			}
+		}
+	}
+
+	for (int i = 0; i < S; i++) {
+		for (int j = 0; j < E; j++) {
+			if (examOfStudent[i].count(j) == 0) {
+				IloExpr expr(env);
+				for (int r = 0; r < R; r++) {
+					for (int t = 0; t < T; t++) {
+						expr += w_ijrt[i][j][r][t];
+					}
+				}
+				model.add(expr == 0);
 			}
 		}
 	}
@@ -300,7 +314,7 @@ void Solver::run() {
 	for (int i = 0; i < S; i++) {
 		for (int q = 0; q < T; q++) {
 			IloExpr expr9(env);
-			for (int p = 0; p < q; p++) {
+			for (int p = 0; p <= q; p++) {
 				expr9 += wi_pq[i][p][q];
 			}
 			model.add(w_it[i][q] >= expr9);
@@ -328,7 +342,7 @@ void Solver::run() {
 		for (int q = 0; q < T; q++) {
 			for (int t = q+1; t < T; t++) {
 				IloExpr expr11(env);
-				for (int p = 0; p < q; p++) {
+				for (int p = 0; p <= q; p++) {
 					expr11 += wi_pq[i][p][q];
 				}
 				expr11 += w_it[i][t];
@@ -379,6 +393,18 @@ void Solver::run() {
 	// môn thi của môn i thì môn này ko thi bất kỳ môn nào trc thời điểm p
 	for (int j = 0; j < E; j++) {
 		for (int p = 0; p < T; p++) {
+			IloExpr expr12(env);
+			for (int q = p; q < T; q++) {
+				expr12 += zj_pq[j][p][q];
+			}
+			for (int t = 0; t < p; t++) {
+				model.add(expr12 + x_jt[j][t] <= 1).setName("Constraint 17");
+			}
+		}
+	}
+
+	/*for (int j = 0; j < E; j++) {
+		for (int p = 0; p < T; p++) {
 			for (int t = 0; t < p; t++) {
 				IloExpr expr12(env);
 				for (int q = p; q < T; q++) {
@@ -388,7 +414,9 @@ void Solver::run() {
 				model.add(expr12 <= 1).setName("Constraint 17");
 			}
 		}
-	}
+	}*/
+
+	// Thay objective thành constraint 
 
 	// (18) q là thời điểm mà kết thúc các
 	// môn thi của môn i thì môn này ko thi bất kỳ môn nào sau thời điểm q
@@ -396,7 +424,7 @@ void Solver::run() {
 		for (int q = 0; q < T; q++) {
 			for (int t = q+1; t < T; t++) {
 				IloExpr expr13(env);
-				for (int p = 0; p < q; p++) {
+				for (int p = 0; p <= q; p++) {
 					expr13 += zj_pq[j][p][q];
 				}
 				expr13 += x_jt[j][t];
@@ -414,7 +442,7 @@ void Solver::run() {
 			}
 		}
 	}
-	obj1 *= 1e9;
+	obj1 *= 1000;
 
 	IloExpr obj2(env);
 	for (int i = 0; i < S; i++) {
@@ -425,7 +453,7 @@ void Solver::run() {
 			}
 		}
 	}
-	obj2 *= 10;
+	obj2 *= 10000;
 
 	IloExpr obj3(env);
 	for (int i = 0; i < S; i++) {
@@ -436,7 +464,7 @@ void Solver::run() {
 			}
 		}
 	}
-	obj3 *= 100;
+	obj3 *= 10000;
 
 	IloExpr obj4(env);
 	for (int j = 0; j < E; j++) {
@@ -446,7 +474,7 @@ void Solver::run() {
 			}
 		}
 	}
-	obj4 *= 1000;
+	obj4 *= 10;
 
 	IloExpr obj5(env);
 	for (int j1 = 0; j1 < E; j1++) {
@@ -473,30 +501,79 @@ void Solver::run() {
 	cout << "Solved\n";
 
 	double objValue = cplex.getObjValue();
-	std::cout << "Objective Value: " << objValue << std::endl;
+	cout << "Objective Value: " << objValue << endl;
 
 	cout << "Solution status: " << cplex.getStatus() << endl;
 
 	ofstream outFile("output.txt", ofstream::trunc);
-	for (int j = 0; j < E; j++) {
-		for (int r = 0; r < R; r++) {
-			for (int t = 0; t < T; t++) {
-				if (cplex.getValue(x_jrt[j][r][t])) {
-					cout << "Môn " << decoding_exam[j] << " phòng " << r << " time slot thứ " << t << endl;
-				}
-			}
-		}
-	}
+
+	cout << "\n\nResult starts here:\n\n";
+	cout << "Exam with its respective room and timeslot:\n";
 
 	for (int j = 0; j < E; j++) {
+		string examClass = decoding_exam[j];
+		stringstream ss(examClass);
+		string line; vector<string> lines;
+		while (getline(ss, line, '.')) {
+			lines.push_back(line);
+		}
+		string examName = exam_and_infor[lines[1]];
+		cout << j+1 << ": " << examClass << ": " << examName << endl;
+
 		for (int r = 0; r < R; r++) {
 			for (int t = 0; t < T; t++) {
 				if (cplex.getValue(x_jrt[j][r][t])) {
-					cout << "Môn " << decoding_exam[j] << " phòng " << r << " time slot thứ " << t << endl;
+					cout << "Room: " << r << " | " << "Time Slot: " << t << endl;
 				}
 			}
 		}
 	}
+	
+	cout << "\n\nStudent and their time exam, room, time slot\n";
+
+	for (int i = 0; i < S; i++) {
+		string studentID = decoding_student[i];
+		string studentName = student_and_infor[studentID];
+
+		cout << i+1 << ": " << studentID << ": " << studentName << endl;
+		for (int j : examOfStudent[i]) {
+			for (int r = 0; r < R; r++) {
+				for (int t = 0; t < T; t++) {
+					if (cplex.getValue(w_ijrt[i][j][r][t])) {
+
+						string examClass = decoding_exam[j];
+						stringstream ss(examClass);
+						string line; vector<string> lines;
+						while (getline(ss, line, '.')) {
+							lines.push_back(line);
+						}
+						string examName = exam_and_infor[lines[1]];
+
+						cout << "Exam: " << examName << " | " << "Room: " << r << " | " << "Time Slot: " << t << endl;
+					}
+				}
+			}
+		}
+		cout << endl;
+	}
+
+	int count = 0;
+
+	/*for (int r = 0; r < R; r++) {
+		cout << "Room " << r << ":" << endl;
+		for (int t = 0; t < T; t++) {
+			cout << "Time Slot: " << t << endl;
+			for (int j = 0; j < E; j++) {
+				for (int i = 0; i < S; i++) {
+					if (cplex.getValue(w_ijrt[i][j][r][t])) {
+						cout << decoding_student[i] << " ";
+					}
+				}
+				
+			}
+			cout << endl;
+		}
+	}*/
 }
 
 void Solver::test() {
@@ -539,11 +616,11 @@ void Solver::test() {
 			w_ijt[i][j] = IloBoolVarArray(env, T);
 			for (int t : sT) {
 				string vname = "w_ijt(" + to_string(i) + "," + to_string(j) + "," + to_string(t) + ")";
-				// std::cout << "created " << vname << std::endl;
+				// cout << "created " << vname << endl;
 				w_ijt[i][j][t] = IloBoolVar(env);
 				w_ijt[i][j][t].setName(vname.c_str());
 				if (i == 0 && j == 0 && t == 0) {
-					std::cout << "Created 0 0 0" << std::endl;
+					cout << "Created 0 0 0" << endl;
 				}
 			}
 		}
@@ -577,7 +654,7 @@ void Solver::test() {
 	for (int i : sS) {
 		for (int j : sE) {
 			if (conflict_matrix[i][j]) {
-				std::cout << "Student " << i << " thi mon " << j << std::endl;
+				cout << "Student " << i << " thi mon " << j << endl;
 				IloExpr sum(env);
 				for (int t : sT) {
 					sum += w_ijt[i][j][t];
@@ -633,10 +710,10 @@ void Solver::test() {
 	// 	for (int j:sE) {
 	// 		for (int t:sT) {
 	// 			if (cplex.getValue(w_ijt[i][j][t]) == 1) {
-	// 				std::cout << "Student " << i << " thi exam " << j << " tai slot " << t << std::endl;
+	// 				cout << "Student " << i << " thi exam " << j << " tai slot " << t << endl;
 	// 			}
 	// 		}
 	// 	}
 	// }
-	std::cout << "Objective = " << cplex.getObjValue() << std::endl;
+	cout << "Objective = " << cplex.getObjValue() << endl;
 }

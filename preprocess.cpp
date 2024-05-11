@@ -53,7 +53,7 @@ void Process::process_input(string inputFile)
 
 	// Read file
 	string input;
-	int input_line = 1000; 
+	int input_line = 1002; 
 	cout << "Number of input line: " << input_line << endl;
 	getline(instream, input); //Remove first line of the csv file
 

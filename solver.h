@@ -27,8 +27,9 @@ public:
     map<int, string> decoding_exam;
     map<int, string> decoding_student;
 
-    void run();
+    void fourIndexFormular();
     void test();
+    void threeIndexFormular();
 };
 
 #endif

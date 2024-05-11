@@ -53,15 +53,18 @@ void Process::process_input(string inputFile)
 
 	// Read file
 	string input;
-	int input_line = 1002; 
-	cout << "Number of input line: " << input_line << endl;
-	getline(instream, input); //Remove first line of the csv file
+	//cout << "Number of input line: " << input_line << endl;
 
-	for (int i = 0; i < input_line; i++) {
+	getline(instream, input); //Remove first line of the csv file
+	int input_line = 10;
+	//while (getline(instream, input)) {
+
+	for (int i = 0; i<input_line; i++){
 		getline(instream, input);
 		vector<string> lines;
 		stringstream ss(input);
 		string line;
+		//input_line++;
 
 		while (getline(ss, line, ',')) {
 			lines.push_back(line);
@@ -73,16 +76,17 @@ void Process::process_input(string inputFile)
 
 		string student_name = lines[2] + " " + lines[3];
 
-		exam_input.insert(lines[5]);
+		exam_input.insert(lines[4]);
 		student_input.insert(lines[1]);
 
 		student_and_exam[lines[1]].insert(lines[5]);
-		exam_and_student[lines[5]].insert(lines[1]);
+		exam_and_student[lines[4]].insert(lines[1]);
 
 		student_and_infor[lines[1]] = student_name;
 		exam_and_infor[lines[4]] = lines[6];
 	}
 
+	cout << "Number of input line: " << input_line << endl;
 	// Encoding exam and student to the respective number.
 	map <string, int> encoding_exam;
 	map <string, int> encoding_student;
@@ -105,6 +109,11 @@ void Process::process_input(string inputFile)
 		decoding_exam.insert({ c3++, it });
 	}
 
+	/*for (auto it : exam_input) {
+		cout << it << " ";
+	}
+	cout << endl;*/
+
 	for (auto it : student_input) {
 		decoding_student.insert({ c4++, it });
 	}
@@ -125,10 +134,18 @@ void Process::process_input(string inputFile)
 		}
 	}
 
+	/*for (auto it : output_exam_and_student) {
+		cout << it.first << ": ";
+		for (auto it1 : it.second) {
+			cout << it1 << " ";
+		}
+		cout << endl;
+	}*/
+
 	int num_exam = exam_input.size();
 	int num_student = student_input.size();
-	int num_room = 15;
-	int num_slot = 12;
+	int num_room = 1;
+	int num_slot = 1;
 	int num_course = exam_and_infor.size();
 
 	cout << "Number of exam: " << num_exam << "\n" << "Number of student: " << num_student 

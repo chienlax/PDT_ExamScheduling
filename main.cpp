@@ -6,8 +6,8 @@ using namespace std;
 
 int main() {
 	
-	Process Process("DSSV.csv");
+	Process Process("HCM.csv");
 	Instance instance("input.txt");
 	Solver solver(&instance);
-	solver.run();
+	solver.threeIndexFormular();
 }

@@ -62,7 +62,7 @@ void Solver::fourIndexFormular() {
 				for (int t = 0; t < T; t++) {
 					w_ijrt[i][j][r][t] = IloNumVar(env, 0, 1, ILOINT);
 					string name = "w_ijrt(" + to_string(i) + "," + to_string(j) + "," +
-						to_string(r) + "," + to_string (t) + ")";
+						to_string(r) + "," + to_string(t) + ")";
 					w_ijrt[i][j][r][t].setName(name.c_str());
 				}
 			}
@@ -71,7 +71,7 @@ void Solver::fourIndexFormular() {
 
 
 	// sinh viên i thi môn j ở time slot t
-	IloArray<IloArray<IloNumVarArray>> w_ijt(env, S); 
+	IloArray<IloArray<IloNumVarArray>> w_ijt(env, S);
 	for (int i = 0; i < S; i++) {
 		w_ijt[i] = IloArray<IloNumVarArray>(env, E);
 		for (int j = 0; j < E; j++) {
@@ -84,7 +84,7 @@ void Solver::fourIndexFormular() {
 		}
 	}
 
-	IloArray<IloNumVarArray> w_it(env, S); 
+	IloArray<IloNumVarArray> w_it(env, S);
 	for (int i = 0; i < S; i++) {
 		w_it[i] = IloNumVarArray(env, T);
 		for (int t = 0; t < T; t++) {
@@ -339,7 +339,7 @@ void Solver::fourIndexFormular() {
 	// môn thi của sv i thì sv này ko thi bất kỳ môn nào sau thời điểm q
 	for (int i = 0; i < S; i++) {
 		for (int q = 0; q < T; q++) {
-			for (int t = q+1; t < T; t++) {
+			for (int t = q + 1; t < T; t++) {
 				IloExpr expr11(env);
 				for (int p = 0; p <= q; p++) {
 					expr11 += wi_pq[i][p][q];
@@ -349,7 +349,7 @@ void Solver::fourIndexFormular() {
 			}
 		}
 	}
-	
+
 
 	// (14) với mọi bộ (p,q) mà q-p+1 < số lượng môn khác nhau mà sinh
 	// viên i tham gia thi
@@ -362,7 +362,7 @@ void Solver::fourIndexFormular() {
 			}
 		}
 	}
-	
+
 
 	// (15) với mọi j; có mọt khoảng thời gian p..q được chọn để tổ
 	// chức thi môn thi j
@@ -407,7 +407,7 @@ void Solver::fourIndexFormular() {
 	/*for (int j = 0; j < E; j++) {
 		for (int p = 0; p < T; p++) {
 			for (int q = p; q < T; q++) {
-				if (q >= 7 || p >= 6) 
+				if (q >= 7 || p >= 6)
 			}
 		}
 	}*/
@@ -436,7 +436,7 @@ void Solver::fourIndexFormular() {
 			for (int p = 0; p <= q; p++) {
 				expr13 += zj_pq[j][p][q];
 			}
-			for (int t = q+1; t < T; t++) {
+			for (int t = q + 1; t < T; t++) {
 				model.add(expr13 += x_jt[j][t] <= 1).setName("Constraint 18");
 			}
 		}
@@ -527,7 +527,7 @@ void Solver::fourIndexFormular() {
 			lines.push_back(line);
 		}
 		string examName = exam_and_infor[lines[1]];
-		cout << j+1 << ": " << examClass << ": " << examName << endl;
+		cout << j + 1 << ": " << examClass << ": " << examName << endl;
 
 		for (int r = 0; r < R; r++) {
 			for (int t = 0; t < T; t++) {
@@ -537,14 +537,14 @@ void Solver::fourIndexFormular() {
 			}
 		}
 	}
-	
+
 	cout << "\n\nStudent and their time exam, room, time slot\n";
 
 	for (int i = 0; i < S; i++) {
 		string studentID = decoding_student[i];
 		string studentName = student_and_infor[studentID];
 
-		cout << i+1 << ": " << studentID << ": " << studentName << endl;
+		cout << i + 1 << ": " << studentID << ": " << studentName << endl;
 		for (int j : examOfStudent[i]) {
 			for (int r = 0; r < R; r++) {
 				for (int t = 0; t < T; t++) {
@@ -578,7 +578,7 @@ void Solver::fourIndexFormular() {
 						cout << decoding_student[i] << " ";
 					}
 				}
-				
+
 			}
 			cout << endl;
 		}
@@ -610,7 +610,7 @@ void Solver::test() {
 		sR.push_back(i);
 	}
 
-	vector<vector<int>> conflict_matrix (S, vector<int>(E, 0));
+	vector<vector<int>> conflict_matrix(S, vector<int>(E, 0));
 	for (auto it1 : examOfStudent) {
 		for (auto it2 : it1.second) {
 			conflict_matrix[it1.first][it2] = 1;
@@ -883,7 +883,7 @@ void Solver::threeIndexFormular() {
 	}
 
 	cout << "Done 2\n";
-	
+
 	// (3) sinh viên i thi môn gì đó ở thời điểm t thì sinh viên này sẽ phải ở một phòng r nào đó
 	for (int i = 0; i < S; i++) {
 		for (int t = 0; t < T; t++) {
@@ -891,7 +891,7 @@ void Solver::threeIndexFormular() {
 			for (int r = 0; r < R; r++) {
 				expr3 += w_irt[i][r][t];
 			}
-			model.add(expr3).setName("Constraint 3");
+			model.add(expr3 == 1).setName("Constraint 3");
 		}
 	}
 
@@ -957,7 +957,7 @@ void Solver::threeIndexFormular() {
 	}
 
 	cout << "Done 8\n";
-	
+
 	// (9) số phòng mở phục vụ môn học j phải thỏa mãn số sinh viên cho môn này
 	for (int j = 0; j < E; j++) {
 		IloExpr expr6(env);
@@ -991,7 +991,7 @@ void Solver::threeIndexFormular() {
 	for (int j1 = 0; j1 < E; j1++) {
 		for (int j2 = j1 + 1; j2 < E; j2++) {
 			for (int t = 0; t < T; t++) {
-				model.add(Xij_t[j1][j2][t] >= x_jt[j1][t] + x_jt[j2][t]).setName("Constraint 10.3");
+				model.add(Xij_t[j1][j2][t]  + 1 >= x_jt[j1][t] + x_jt[j2][t]).setName("Constraint 10.3");
 			}
 		}
 	}
@@ -1060,23 +1060,23 @@ void Solver::threeIndexFormular() {
 			for (int p = 0; p <= q; p++) {
 				expr11 += wi_pq[i][p][q];
 			}
-			for (int t = q+1; t < T; t++) {
+			for (int t = q + 1; t < T; t++) {
 				model.add(expr11 + w_it[i][t] <= 1).setName("Constraint 15");
 			}
 		}
 	}
-
 	cout << "Done 15\n";
 
 	// (16) q-p+1 < số lượng môn khác nhau mà sinh viên i tham gia thi
 	for (int i = 0; i < S; i++) {
 		for (int p = 0; p < T; p++) {
 			for (int q = p; q < T; q++) {
-				wi_pq[i][p][q].setBounds(0, 0);
+				if (q - p + 1 < examOfStudent[i].size()) {
+					wi_pq[i][p][q].setBounds(0, 0);
+				}
 			}
 		}
 	}
-
 	cout << "Done 16\n";
 
 	// (17) có mọt khoảng thời gian p..q được chọn để tổ chức thi môn thi i
@@ -1129,13 +1129,67 @@ void Solver::threeIndexFormular() {
 			for (int p = 0; p <= q; p++) {
 				expr14 += zj_pq[j][p][q];
 			}
-			for (int t = q+1; t < T; t++) {
+			for (int t = q + 1; t < T; t++) {
 				model.add(expr14 + x_jt[j][t] <= 1).setName("Constraint 20");
 			}
 		}
 	}
 
 	cout << "Done 20\n";
+
+	IloExpr obj1(env);
+	for (int j = 0; j < E; j++) {
+		for (int p = 0; p < T; p++) {
+			for (int q = p; q < T; q++) {
+				obj1 += zj_pq[j][p][q] * (q - p);
+			}
+		}
+	}
+	obj1 *= 1000;
+
+	IloExpr obj2(env);
+	for (int i = 0; i < S; i++) {
+		for (int p = 0; p < T; p++) {
+			for (int q = p; q < T; q++) {
+				if (p >= 6 || q <= 5)
+					obj2 += wi_pq[i][p][q] * (q - p);
+			}
+		}
+	}
+	obj2 *= 1000;
+
+	IloExpr obj3(env);
+	for (int i = 0; i < S; i++) {
+		for (int p = 0; p < T; p++) {
+			for (int q = p; q < T; q++) {
+				if (p <= 5 && q >= 6)
+					obj3 += wi_pq[i][p][q] * (q - p);
+			}
+		}
+	}
+	obj3 *= 1000;
+
+	IloExpr obj4(env);
+	for (int j = 0; j < E; j++) {
+		for (int r = 0; r < R; r++) {
+			for (int t = 0; t < T; t++) {
+				obj4 += x_jrt[j][r][t];
+			}
+		}
+	}
+	obj4 *= 10;
+
+	IloExpr obj5(env);
+	for (int j1 = 0; j1 < E; j1++) {
+		for (int j2 = j1 + 1; j2 < E; j2++) {
+			for (int t = 0; t < T; t++) {
+				obj5 += Xij_t[j1][j2][t];
+			}
+		}
+	}
+	obj5 *= 1000;
+
+	model.add(IloMinimize(env, obj1 + obj2 + obj3 + obj5 + obj4));
 
 	cout << "\nCplex starts here\n";
 
@@ -1156,4 +1210,16 @@ void Solver::threeIndexFormular() {
 
 	cout << "\n\nResult starts here:\n\n";
 	cout << "Exam with its respective room and timeslot:\n";
+
+	for (int j = 0; j < E; j++) {
+		cout << "Exam: " << j << " ";
+		for (int r = 0; r < R; r++) {
+			cout << "\n\tRoom: " << r + 1;
+			for (int t = 0; t < T; t++) {
+				if (cplex.getValue(x_jrt[j][r][t])) {
+					cout << "\n\t\tTime Slot: " << t + 1;
+				}
+			}
+		}
+	}
 }

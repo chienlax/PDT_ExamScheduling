@@ -57,10 +57,10 @@ void Process::process_input(string inputFile)
 
 	getline(instream, input); //Remove first line of the csv file
 	int input_line = 10;
-	//while (getline(instream, input)) {
+	while (getline(instream, input)) {
 
-	for (int i = 0; i<input_line; i++){
-		getline(instream, input);
+	//for (int i = 0; i<input_line; i++){
+		//getline(instream, input);
 		vector<string> lines;
 		stringstream ss(input);
 		string line;
@@ -79,7 +79,7 @@ void Process::process_input(string inputFile)
 		exam_input.insert(lines[4]);
 		student_input.insert(lines[1]);
 
-		student_and_exam[lines[1]].insert(lines[5]);
+		student_and_exam[lines[1]].insert(lines[4]);
 		exam_and_student[lines[4]].insert(lines[1]);
 
 		student_and_infor[lines[1]] = student_name;
@@ -144,8 +144,8 @@ void Process::process_input(string inputFile)
 
 	int num_exam = exam_input.size();
 	int num_student = student_input.size();
-	int num_room = 1;
-	int num_slot = 1;
+	int num_room = 15;
+	int num_slot = 24;
 	int num_course = exam_and_infor.size();
 
 	cout << "Number of exam: " << num_exam << "\n" << "Number of student: " << num_student 

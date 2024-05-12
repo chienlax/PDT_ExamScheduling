@@ -1678,6 +1678,20 @@ void Solver::Test() {
 
 	cout << "Done 20\n";
 
+	// (21) Dk chặt hơn của 18
+	for (int j = 0; j < E; j++) {
+		for (int t = 0; t < T; t++) {
+			IloExpr expr15(env);
+			for (int p = 0; p <= t; p++) {
+				for (int q = t; q < T; q++) {
+					expr15 += zj_pq[j][p][q];
+				}
+			}
+			model.add(expr15 <= x_jt[j][t]).setName("Constraint 21");
+		}
+	}
+	cout << "Done 21\n";
+
 
 	// Objective function:
 	IloExpr obj1(env);
@@ -1727,19 +1741,24 @@ void Solver::Test() {
 	cout << "\nCplex starts here\n";
 
 	IloCplex cplex(model);
+	double startTime = cplex.getTime();
+	//cplex.setParam(IloCplex::Param::TimeLimit, 36000);
+
 	if (!cplex.solve()) {
 		cerr << "Failed to solve the problem" << endl;
 		throw(-1);
 	}
 
 	cout << "Solved\n";
-
 	double objValue = cplex.getObjValue();
 	cout << "Objective Value: " << objValue << endl;
-
 	cout << "Solution status: " << cplex.getStatus() << endl;
 
+	double endTime = cplex.getTime();
+	cout << "Runtime: " << endTime - startTime << endl;
+
 	ofstream outFile("output.txt", ofstream::trunc);
+	outFile << "Runtime: " << endTime - startTime << endl;
 
 	cout << "\n\nResult starts here:\n\n";
 	cout << "Exam with its respective room and timeslot:\n";
@@ -1752,9 +1771,10 @@ void Solver::Test() {
 			cout << "\n\tRoom: " << r;
 			outFile << "\n\tRoom: " << r;
 			for (int t = 0; t < T; t++) {
-				if (cplex.getValue(x_jrt[j][r][t] == 1))
-				cout << "\n\t\tTime slot: " << t << endl;
-				outFile << "\n\t\tTime slot: " << t << endl;
+				if (cplex.getValue(x_jrt[j][r][t] == 1)){
+					cout << "\n\t\tTime slot: " << t << endl;
+					outFile << "\n\t\tTime slot: " << t << endl;
+				}
 			}
 		}
 	}

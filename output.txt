@@ -1,1018 +1,161 @@
+Runtime: 3.9375
 Exam with its respective room and timeslot:
 
 Exam: 0
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
-		Time slot: 2
-
-		Time slot: 3
-
-		Time slot: 4
-
-		Time slot: 5
-
 		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 1
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
 		Time slot: 2
-
-		Time slot: 3
-
-		Time slot: 4
-
-		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 2
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
-		Time slot: 2
-
-		Time slot: 3
-
-		Time slot: 4
-
 		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 3
 	Room: 0
-		Time slot: 0
-
 		Time slot: 1
-
-		Time slot: 2
-
-		Time slot: 3
-
-		Time slot: 4
-
-		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 4
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
 		Time slot: 2
-
-		Time slot: 3
-
-		Time slot: 4
-
-		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 5
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
-		Time slot: 2
-
-		Time slot: 3
-
 		Time slot: 4
-
-		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 6
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
-		Time slot: 2
-
 		Time slot: 3
-
-		Time slot: 4
-
-		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 7
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
-		Time slot: 2
-
-		Time slot: 3
-
 		Time slot: 4
-
-		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 8
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
-		Time slot: 2
-
-		Time slot: 3
-
-		Time slot: 4
-
 		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 9
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
-		Time slot: 2
-
-		Time slot: 3
-
-		Time slot: 4
-
-		Time slot: 5
-
-		Time slot: 6
-
 		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 10
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
-		Time slot: 2
-
-		Time slot: 3
-
 		Time slot: 4
-
-		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 11
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
-		Time slot: 2
-
-		Time slot: 3
-
-		Time slot: 4
-
-		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
 		Time slot: 11
 
 Exam: 12
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
-		Time slot: 2
-
-		Time slot: 3
-
-		Time slot: 4
-
-		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
 		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 13
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
-		Time slot: 2
-
-		Time slot: 3
-
-		Time slot: 4
-
-		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
 		Time slot: 10
-
-		Time slot: 11
 
 Exam: 14
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
-		Time slot: 2
-
 		Time slot: 3
-
-		Time slot: 4
-
-		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 15
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
-		Time slot: 2
-
 		Time slot: 3
-
-		Time slot: 4
-
-		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 16
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
-		Time slot: 2
-
-		Time slot: 3
-
-		Time slot: 4
-
 		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 17
 	Room: 0
 		Time slot: 0
 
-		Time slot: 1
-
-		Time slot: 2
-
-		Time slot: 3
-
-		Time slot: 4
-
-		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
-
 Exam: 18
 	Room: 0
-		Time slot: 0
-
 		Time slot: 1
-
-		Time slot: 2
-
-		Time slot: 3
-
-		Time slot: 4
-
-		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 19
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
-		Time slot: 2
-
-		Time slot: 3
-
 		Time slot: 4
-
-		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 20
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
-		Time slot: 2
-
-		Time slot: 3
-
 		Time slot: 4
-
-		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 21
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
-		Time slot: 2
-
-		Time slot: 3
-
-		Time slot: 4
-
-		Time slot: 5
-
 		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 22
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
-		Time slot: 2
-
-		Time slot: 3
-
-		Time slot: 4
-
-		Time slot: 5
-
-		Time slot: 6
-
 		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 23
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
 		Time slot: 2
-
-		Time slot: 3
-
-		Time slot: 4
-
-		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 24
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
-		Time slot: 2
-
-		Time slot: 3
-
 		Time slot: 4
-
-		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 25
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
-		Time slot: 2
-
-		Time slot: 3
-
-		Time slot: 4
-
 		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 26
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
 		Time slot: 2
-
-		Time slot: 3
-
-		Time slot: 4
-
-		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 27
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
-		Time slot: 2
-
 		Time slot: 3
-
-		Time slot: 4
-
-		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 28
 	Room: 0
 		Time slot: 0
 
-		Time slot: 1
-
-		Time slot: 2
-
-		Time slot: 3
-
-		Time slot: 4
-
-		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
-
 Exam: 29
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
-		Time slot: 2
-
-		Time slot: 3
-
 		Time slot: 4
-
-		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 30
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
-		Time slot: 2
-
-		Time slot: 3
-
-		Time slot: 4
-
 		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 31
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
-		Time slot: 2
-
-		Time slot: 3
-
-		Time slot: 4
-
-		Time slot: 5
-
 		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 32
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
-		Time slot: 2
-
 		Time slot: 3
-
-		Time slot: 4
-
-		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 33
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
-		Time slot: 2
-
-		Time slot: 3
-
-		Time slot: 4
-
 		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 34
 	Room: 0
-		Time slot: 0
-
 		Time slot: 1
-
-		Time slot: 2
-
-		Time slot: 3
-
-		Time slot: 4
-
-		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 35
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
 		Time slot: 2
-
-		Time slot: 3
-
-		Time slot: 4
-
-		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 36
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
-		Time slot: 2
-
-		Time slot: 3
-
-		Time slot: 4
-
 		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 37
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
-		Time slot: 2
-
-		Time slot: 3
-
 		Time slot: 4
-
-		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
-		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 Exam: 38
 	Room: 0
-		Time slot: 0
-
-		Time slot: 1
-
-		Time slot: 2
-
-		Time slot: 3
-
-		Time slot: 4
-
-		Time slot: 5
-
-		Time slot: 6
-
-		Time slot: 7
-
 		Time slot: 8
-
-		Time slot: 9
-
-		Time slot: 10
-
-		Time slot: 11
 
 
 

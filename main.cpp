@@ -5,7 +5,7 @@
 using namespace std;
 
 int main() {
-	Process Process("Others.csv");
+	Process Process("HCM.csv");
 	Instance instance("input.txt");
 	Solver solver(&instance);
 	solver.Test();

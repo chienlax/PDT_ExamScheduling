@@ -224,7 +224,7 @@ void Process::Test(string inputFile)
 
 	while (getline(instream, input)) {
 
-		/*if (input_line == 100) {
+		/*if (input_line == 1000) {
 			break;
 		}*/
 
@@ -312,7 +312,7 @@ void Process::Test(string inputFile)
 
 	int num_exam = exam_input.size();
 	int num_student = student_input.size();
-	int num_room = 1; 
+	int num_room = 5; 
 	int num_slot = 12;
 	int num_course = exam_and_infor.size();
 

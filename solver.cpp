@@ -1694,7 +1694,7 @@ void Solver::Test() {
 	for (int i = 0; i < S; i++) {
 		for (int p = 0; p < T; p++) {
 			for (int q = p; q < T; q++) {
-				if (p >= 7 || q <= 6)
+				if (p >= 6 || q <= 5)
 					obj2 += wi_pq[i][p][q] * (q - p);
 			}
 		}
@@ -1705,7 +1705,7 @@ void Solver::Test() {
 	for (int i = 0; i < S; i++) {
 		for (int p = 0; p < T; p++) {
 			for (int q = p; q < T; q++) {
-				if (p <= 6 && q >= 7)
+				if (p <= 5 && q >= 6)
 					obj3 += wi_pq[i][p][q] * (q - p);
 			}
 		}
@@ -1743,13 +1743,16 @@ void Solver::Test() {
 
 	cout << "\n\nResult starts here:\n\n";
 	cout << "Exam with its respective room and timeslot:\n";
+	outFile << "Exam with its respective room and timeslot:\n";
+
 	for (int j = 0; j < E; j++) {
 		cout << "\nExam: " << j;
 		outFile << "\nExam: " << j;
 		for (int r = 0; r < R; r++) {
 			cout << "\n\tRoom: " << r;
+			outFile << "\n\tRoom: " << r;
 			for (int t = 0; t < T; t++) {
-				if (cplex.getValue(x_jrt[j][r][t]))
+				if (cplex.getValue(x_jrt[j][r][t] == 1))
 				cout << "\n\t\tTime slot: " << t << endl;
 				outFile << "\n\t\tTime slot: " << t << endl;
 			}
@@ -1757,8 +1760,11 @@ void Solver::Test() {
 	}
 
 	outFile << endl;
+	cout << endl;
 
-	cout << "Student with their respective room, exam and timeslot:\n";
+	cout << "\n\nStudent with their respective room, exam and timeslot:\n";
+	outFile << "\n\nStudent with their respective room, exam and timeslot:\n";
+
 	for (int i = 0; i < S; i++) {
 		cout << "Student " << i << endl;
 		outFile << "Student " << i << endl;
@@ -1779,23 +1785,32 @@ void Solver::Test() {
 	}
 
 	outFile << endl;
+	cout << endl;
 
 	cout << "\n\nRoom -> Timeslot -> Exam -> Student in that exam: \n";
+	outFile << "\n\nRoom -> Timeslot -> Exam -> Student in that exam: \n";
+
 	// Exam and its room, timeslot and student
 	for (int r = 0; r<R; r++){
+		outFile << "Room: " << r << endl;
 		cout << "Room: " << r << endl;
 		for (int t = 0; t<T; t++){
 			for (int j = 0; j < E; j++){
 				if (cplex.getValue(x_jrt[j][r][t])){
+					outFile << "Time slot: " << t << " | Exam: " << j << endl;
 					cout << "Time slot: " << t << " | Exam: " << j << endl;
 					for (int i = 0; i<S; i++){
 						if (examOfStudent[i].count(j) == 1 && cplex.getValue(w_ijt[i][j][t]) == 1){
 							cout << i << " ";
+							outFile << i << " ";
 						}
 					}
 					cout << endl;
+					outFile << endl;
 				}
 			}
 		}
+		cout << endl;
+		outFile << endl;
 	}
 }

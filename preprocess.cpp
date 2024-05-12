@@ -312,7 +312,7 @@ void Process::Test(string inputFile)
 
 	int num_exam = exam_input.size();
 	int num_student = student_input.size();
-	int num_room = 15; 
+	int num_room = 1; 
 	int num_slot = 12;
 	int num_course = exam_and_infor.size();
 

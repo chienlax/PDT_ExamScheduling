@@ -1745,26 +1745,55 @@ void Solver::Test() {
 	cout << "Exam with its respective room and timeslot:\n";
 	for (int j = 0; j < E; j++) {
 		cout << "\nExam: " << j;
+		outFile << "\nExam: " << j;
 		for (int r = 0; r < R; r++) {
 			cout << "\n\tRoom: " << r;
 			for (int t = 0; t < T; t++) {
 				if (cplex.getValue(x_jrt[j][r][t]))
 				cout << "\n\t\tTime slot: " << t << endl;
+				outFile << "\n\t\tTime slot: " << t << endl;
 			}
 		}
 	}
 
+	outFile << endl;
+
 	cout << "Student with their respective room, exam and timeslot:\n";
 	for (int i = 0; i < S; i++) {
-		cout << "Student" << i << endl;
+		cout << "Student " << i << endl;
+		outFile << "Student " << i << endl;
 		for (int r = 0; r < R; r++) {
 			for (int t = 0; t < T; t++) {
 				if (cplex.getValue(w_irt[i][r][t] == 1)) {
-					for (int j : examOfStudent[t]) {
+					//cout << i << " ";
+					for (int j : examOfStudent[i]) {
 						if (cplex.getValue(w_ijt[i][j][t])) {
+							//cout << j << " ";
+							outFile << "Exam: " << j << " | Room: " << r << " | Time slot: " << t << endl;
 							cout << "Exam: " << j << " | Room: " << r << " | Time slot: " << t << endl;
 						}
 					}
+				}
+			}
+		}
+	}
+
+	outFile << endl;
+
+	cout << "\n\nRoom -> Timeslot -> Exam -> Student in that exam: \n";
+	// Exam and its room, timeslot and student
+	for (int r = 0; r<R; r++){
+		cout << "Room: " << r << endl;
+		for (int t = 0; t<T; t++){
+			for (int j = 0; j < E; j++){
+				if (cplex.getValue(x_jrt[j][r][t])){
+					cout << "Time slot: " << t << " | Exam: " << j << endl;
+					for (int i = 0; i<S; i++){
+						if (examOfStudent[i].count(j) == 1 && cplex.getValue(w_ijt[i][j][t]) == 1){
+							cout << i << " ";
+						}
+					}
+					cout << endl;
 				}
 			}
 		}

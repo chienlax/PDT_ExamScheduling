@@ -224,9 +224,9 @@ void Process::Test(string inputFile)
 
 	while (getline(instream, input)) {
 
-		if (input_line == 100) {
+		/*if (input_line == 100) {
 			break;
-		}
+		}*/
 
 		vector<string> lines;
 		stringstream ss(input);
@@ -312,7 +312,7 @@ void Process::Test(string inputFile)
 
 	int num_exam = exam_input.size();
 	int num_student = student_input.size();
-	int num_room = 40;
+	int num_room = 15; 
 	int num_slot = 12;
 	int num_course = exam_and_infor.size();
 
@@ -327,9 +327,9 @@ void Process::Test(string inputFile)
 
 	for (int i = 0; i < num_room; i++) {
 		if (i != num_room - 1) {
-			outstream << 20 << " ";
+			outstream << 40 << " ";
 		}
-		else outstream << 20;
+		else outstream << 40;
 	}
 
 	outstream << endl;

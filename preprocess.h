@@ -18,6 +18,7 @@ public:
 
 private:
     void process_input(const string inputFile);
+    void Test(const string inputFile);
 };
 
 #endif //ES_PREPROCESS_H

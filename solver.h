@@ -30,6 +30,7 @@ public:
     void fourIndexFormular();
     void test();
     void threeIndexFormular();
+    void Test();
 };
 
 #endif

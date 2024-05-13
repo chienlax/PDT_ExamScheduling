@@ -1920,13 +1920,13 @@ void Solver::Simple3DModel() {
 
 	IloNumVarArray wi_s(env, S); // sinh viên i thi ở trong các time slot p và q
 	for (int i = 0; i < S; i++) {
-		wi_s[i] = IloNumVar(env, 0, 11, ILOINT);
+		wi_s[i] = IloNumVar(env, 0, 100, ILOINT);
 		wi_s[i].setName(("start_i_" + to_string(i)).c_str());
 	}
 
 	IloNumVarArray wi_e(env, S); // sinh viên i thi ở trong các time slot p và q
 	for (int i = 0; i < S; i++) {
-		wi_e[i] = IloNumVar(env, 0, 11, ILOINT);
+		wi_e[i] = IloNumVar(env, 0, 100, ILOINT);
 		wi_e[i].setName(("end_i_" + to_string(i)).c_str());
 	}
 
@@ -1935,13 +1935,13 @@ void Solver::Simple3DModel() {
 
 	IloNumVarArray zi_s(env, E); // môn i thi từ p->q
 	for (int i = 0; i < E; i++) {
-		zi_s[i] = IloNumVar(env, 0, 11, ILOINT);
+		zi_s[i] = IloNumVar(env, 0, 100, ILOINT);
 		zi_s[i].setName(("start_zi_" + to_string(i)).c_str());
 	}
 
 	IloNumVarArray zi_e(env, E); // môn i thi từ p->q
 	for (int i = 0; i < E; i++) {
-		zi_e[i] = IloNumVar(env, 0, 11, ILOINT);
+		zi_e[i] = IloNumVar(env, 0, 100, ILOINT);
 		zi_e[i].setName(("end_zi_" + to_string(i)).c_str());
 	}
 
@@ -2108,34 +2108,36 @@ void Solver::Simple3DModel() {
 	// (12) nếu sinh viên i thi ở time slot t thì thời điểm thi đầu tiên của sv này ko vượt quá t
 	// (13)  nếu sinh viên i thi ở time slot t thì thời điểm thi cuối cùng của sv này ít nhất là t
 
-	for (int i = 0; i < S; i++) {
-		if (examOfStudent[i].size()) {
-			//cai t/6 * 10 là để "phạt" nếu thi ở 2 ngày khác nhau
-			for (int t = 0; t < T; t++) {
-				model.add(wi_s[i] <= (t + (int)(t / 6) * 10) + 100 * (1 - w_it[i][t])).setName(("C11s_i_t" + to_string(i)
-					+ "," + to_string(t)).c_str());
-				model.add(wi_e[i] >= (t + (int)(t / 6) * 10) * w_it[i][t]).setName(("C11e_i_t" + to_string(i)
-					+ "," + to_string(t)).c_str());
+	for (int i = 0; i < S; i++)
+		if (examOfStudent[i].size())
+		{
+			{
+				//cai t/6 * 10 là để "phạt" nếu thi ở 2 ngày khác nhau
+				for (int t = 0; t < T; t++) {
+					model.add(wi_s[i] <= (t + (int)(t / 6) * 10) + 100 * (1 - w_it[i][t])).setName(("C11s_i_t" + to_string(i)
+						+ "," + to_string(t)).c_str());
+					model.add(wi_e[i] >= (t + (int)(t / 6) * 10) * w_it[i][t]).setName(("C11e_i_t" + to_string(i)
+						+ "," + to_string(t)).c_str());
+				}
 			}
+			model.add((int)examOfStudent[i].size() - 1 <= wi_e[i] - wi_s[i]).setName(("C11d_i_" + to_string(i)).c_str());
 		}
-		model.add((int)examOfStudent[i].size() - 1 <= wi_e[i] - wi_s[i]).setName(("C11d_i_" + to_string(i)).c_str());
-	}
-	cout << "Done 12\n";
-	
 
-	// (14) nếu môn i thi ở time slot t thì thời điểm thi đầu tiên của môn này ko vượt quá t
-	
+	cout << "Done 11\n";
+
 	for (int i = 0; i < E; i++) {
-		for (int t = 0; t < T; t++) {
-			model.add(zi_s[i] <= t + T * (1 - x_jt[i][t])).setName(("C20s_i_t" + to_string(i)
-				+ to_string(t)).c_str());
-			model.add(zi_e[i] >= t * x_jt[i][t]).setName(("C20s_i_t" + to_string(i)
-				+ to_string(t)).c_str());
+		{
+			for (int t = 0; t < T; t++) {
+				model.add(zi_s[i] <= t + T * (1 - x_jt[i][t])).setName(("C20s_i_t" + to_string(i)
+					+ to_string(t)).c_str());
+				model.add(zi_e[i] >= t * x_jt[i][t]).setName(("C20s_i_t" + to_string(i)
+					+ to_string(t)).c_str());
+			}
 		}
 		model.add(zi_e[i] - zi_s[i] == 0).setName(("C20d_i_" + to_string(i)).c_str());
 		//model.add(zi_e[i] - zi_s[i] <= 1).setName(("C20d_i_" + to_string(i)).c_str());
 	}
-	cout << "Done 13\n";
+	cout << "Done 20\n";
 	
 
 	// Objective function:
@@ -2166,8 +2168,8 @@ void Solver::Simple3DModel() {
 	IloCplex cplex(model);
 	double startTime = cplex.getTime();
 
-	cplex.setParam(IloCplex::EpGap, 0.01); // Set the gap limit to 4%
-	//cplex.setParam(IloCplex::Param::TimeLimit, 36000);
+	cplex.setParam(IloCplex::EpGap, 0.05); // Set the gap limit to 5%
+	cplex.setParam(IloCplex::Param::TimeLimit, 600);
 
 	if (!cplex.solve()) {
 		cerr << "Failed to solve the problem" << endl;

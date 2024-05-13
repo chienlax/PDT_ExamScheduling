@@ -8,5 +8,5 @@ int main() {
 	Process Process("HCM.csv");
 	Instance instance("input.txt");
 	Solver solver(&instance);
-	solver.Test();
+	solver.Simple3DModel();
 }

@@ -31,6 +31,7 @@ public:
     void test();
     void threeIndexFormular();
     void Test();
+    void Simple3DModel();
 };
 
 #endif

@@ -224,7 +224,7 @@ void Process::Test(string inputFile)
 
 	while (getline(instream, input)) {
 
-		/*if (input_line == 1000) {
+		/*if (input_line == 500) {
 			break;
 		}*/
 
@@ -253,6 +253,8 @@ void Process::Test(string inputFile)
 		student_and_infor[lines[1]] = student_name;
 		exam_and_infor[lines[4]] = lines[6];
 	}
+
+#pragma region once
 
 	cout << "Number of input line: " << input_line << endl;
 	// Encoding exam and student to the respective number.
@@ -310,9 +312,11 @@ void Process::Test(string inputFile)
 		cout << endl;
 	}*/
 
+#pragma endregion 
+
 	int num_exam = exam_input.size();
 	int num_student = student_input.size();
-	int num_room = 5; 
+	int num_room = 15; 
 	int num_slot = 12;
 	int num_course = exam_and_infor.size();
 

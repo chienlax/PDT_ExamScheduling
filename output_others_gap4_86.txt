@@ -1,0 +1,392 @@
+Runtime: 334.391
+Exam with its respective room and timeslot:
+
+Exam: 0
+	Room: 0
+		Time slot: 7
+
+	Room: 1
+Exam: 1
+	Room: 0
+	Room: 1
+		Time slot: 11
+
+Exam: 2
+	Room: 0
+		Time slot: 1
+
+	Room: 1
+Exam: 3
+	Room: 0
+	Room: 1
+		Time slot: 9
+
+Exam: 4
+	Room: 0
+	Room: 1
+		Time slot: 8
+
+Exam: 5
+	Room: 0
+	Room: 1
+		Time slot: 6
+
+Exam: 6
+	Room: 0
+	Room: 1
+		Time slot: 7
+
+Exam: 7
+	Room: 0
+	Room: 1
+		Time slot: 0
+
+Exam: 8
+	Room: 0
+	Room: 1
+		Time slot: 1
+
+Exam: 9
+	Room: 0
+		Time slot: 4
+
+	Room: 1
+Exam: 10
+	Room: 0
+	Room: 1
+		Time slot: 2
+
+Exam: 11
+	Room: 0
+		Time slot: 2
+
+	Room: 1
+Exam: 12
+	Room: 0
+	Room: 1
+		Time slot: 3
+
+Exam: 13
+	Room: 0
+	Room: 1
+		Time slot: 5
+
+Exam: 14
+	Room: 0
+	Room: 1
+		Time slot: 3
+
+Exam: 15
+	Room: 0
+		Time slot: 5
+
+	Room: 1
+Exam: 16
+	Room: 0
+	Room: 1
+		Time slot: 10
+
+Exam: 17
+	Room: 0
+	Room: 1
+		Time slot: 8
+
+Exam: 18
+	Room: 0
+		Time slot: 9
+
+	Room: 1
+Exam: 19
+	Room: 0
+	Room: 1
+		Time slot: 6
+
+Exam: 20
+	Room: 0
+	Room: 1
+		Time slot: 6
+
+Exam: 21
+	Room: 0
+		Time slot: 5
+
+	Room: 1
+Exam: 22
+	Room: 0
+		Time slot: 9
+
+	Room: 1
+Exam: 23
+	Room: 0
+		Time slot: 7
+
+	Room: 1
+Exam: 24
+	Room: 0
+		Time slot: 11
+
+	Room: 1
+Exam: 25
+	Room: 0
+		Time slot: 11
+
+	Room: 1
+Exam: 26
+	Room: 0
+	Room: 1
+		Time slot: 10
+
+Exam: 27
+	Room: 0
+	Room: 1
+		Time slot: 8
+
+Exam: 28
+	Room: 0
+		Time slot: 8
+
+	Room: 1
+Exam: 29
+	Room: 0
+	Room: 1
+		Time slot: 2
+
+Exam: 30
+	Room: 0
+	Room: 1
+		Time slot: 4
+
+Exam: 31
+	Room: 0
+		Time slot: 10
+
+	Room: 1
+Exam: 32
+	Room: 0
+		Time slot: 10
+
+	Room: 1
+Exam: 33
+	Room: 0
+		Time slot: 6
+
+	Room: 1
+Exam: 34
+	Room: 0
+	Room: 1
+		Time slot: 9
+
+Exam: 35
+	Room: 0
+		Time slot: 7
+
+	Room: 1
+Exam: 36
+	Room: 0
+		Time slot: 6
+
+	Room: 1
+Exam: 37
+	Room: 0
+		Time slot: 6
+
+	Room: 1
+Exam: 38
+	Room: 0
+		Time slot: 1
+
+	Room: 1
+
+
+Student with their respective room, exam and timeslot:
+Student 0
+Exam: 2 | Room: 0 | Time slot: 1
+Exam: 7 | Room: 1 | Time slot: 0
+Student 1
+Exam: 2 | Room: 0 | Time slot: 1
+Exam: 7 | Room: 1 | Time slot: 0
+Student 2
+Exam: 5 | Room: 1 | Time slot: 6
+Exam: 6 | Room: 1 | Time slot: 7
+Exam: 4 | Room: 1 | Time slot: 8
+Exam: 3 | Room: 1 | Time slot: 9
+Student 3
+Exam: 23 | Room: 0 | Time slot: 7
+Exam: 28 | Room: 0 | Time slot: 8
+Exam: 32 | Room: 0 | Time slot: 10
+Exam: 25 | Room: 0 | Time slot: 11
+Exam: 19 | Room: 1 | Time slot: 6
+Exam: 3 | Room: 1 | Time slot: 9
+Student 4
+Exam: 37 | Room: 0 | Time slot: 6
+Exam: 23 | Room: 0 | Time slot: 7
+Exam: 28 | Room: 0 | Time slot: 8
+Exam: 32 | Room: 0 | Time slot: 10
+Exam: 3 | Room: 1 | Time slot: 9
+Student 5
+Exam: 23 | Room: 0 | Time slot: 7
+Exam: 28 | Room: 0 | Time slot: 8
+Exam: 32 | Room: 0 | Time slot: 10
+Exam: 25 | Room: 0 | Time slot: 11
+Exam: 19 | Room: 1 | Time slot: 6
+Exam: 3 | Room: 1 | Time slot: 9
+Student 6
+Exam: 5 | Room: 1 | Time slot: 6
+Exam: 6 | Room: 1 | Time slot: 7
+Student 7
+Exam: 20 | Room: 1 | Time slot: 6
+Exam: 6 | Room: 1 | Time slot: 7
+Exam: 4 | Room: 1 | Time slot: 8
+Exam: 34 | Room: 1 | Time slot: 9
+Student 8
+Exam: 23 | Room: 0 | Time slot: 7
+Exam: 28 | Room: 0 | Time slot: 8
+Exam: 32 | Room: 0 | Time slot: 10
+Exam: 3 | Room: 1 | Time slot: 9
+Student 9
+Exam: 21 | Room: 0 | Time slot: 5
+Exam: 30 | Room: 1 | Time slot: 4
+Exam: 5 | Room: 1 | Time slot: 6
+Exam: 6 | Room: 1 | Time slot: 7
+Student 10
+Exam: 21 | Room: 0 | Time slot: 5
+Exam: 23 | Room: 0 | Time slot: 7
+Exam: 28 | Room: 0 | Time slot: 8
+Exam: 32 | Room: 0 | Time slot: 10
+Exam: 25 | Room: 0 | Time slot: 11
+Exam: 19 | Room: 1 | Time slot: 6
+Exam: 3 | Room: 1 | Time slot: 9
+Student 11
+Exam: 33 | Room: 0 | Time slot: 6
+Exam: 28 | Room: 0 | Time slot: 8
+Exam: 24 | Room: 0 | Time slot: 11
+Exam: 6 | Room: 1 | Time slot: 7
+Exam: 3 | Room: 1 | Time slot: 9
+Exam: 26 | Room: 1 | Time slot: 10
+Student 12
+Exam: 36 | Room: 0 | Time slot: 6
+Exam: 35 | Room: 0 | Time slot: 7
+Exam: 22 | Room: 0 | Time slot: 9
+Exam: 31 | Room: 0 | Time slot: 10
+Exam: 24 | Room: 0 | Time slot: 11
+Exam: 27 | Room: 1 | Time slot: 8
+Student 13
+Exam: 21 | Room: 0 | Time slot: 5
+Exam: 29 | Room: 1 | Time slot: 2
+Exam: 14 | Room: 1 | Time slot: 3
+Exam: 30 | Room: 1 | Time slot: 4
+Student 14
+Exam: 23 | Room: 0 | Time slot: 7
+Exam: 28 | Room: 0 | Time slot: 8
+Exam: 32 | Room: 0 | Time slot: 10
+Exam: 5 | Room: 1 | Time slot: 6
+Student 15
+Exam: 38 | Room: 0 | Time slot: 1
+Exam: 11 | Room: 0 | Time slot: 2
+Exam: 9 | Room: 0 | Time slot: 4
+Exam: 12 | Room: 1 | Time slot: 3
+Exam: 13 | Room: 1 | Time slot: 5
+Student 16
+Exam: 8 | Room: 1 | Time slot: 1
+Exam: 10 | Room: 1 | Time slot: 2
+Student 17
+Exam: 15 | Room: 0 | Time slot: 5
+Exam: 0 | Room: 0 | Time slot: 7
+Exam: 18 | Room: 0 | Time slot: 9
+Exam: 5 | Room: 1 | Time slot: 6
+Exam: 17 | Room: 1 | Time slot: 8
+Exam: 16 | Room: 1 | Time slot: 10
+Exam: 1 | Room: 1 | Time slot: 11
+Student 18
+Exam: 21 | Room: 0 | Time slot: 5
+Exam: 23 | Room: 0 | Time slot: 7
+Exam: 14 | Room: 1 | Time slot: 3
+Exam: 30 | Room: 1 | Time slot: 4
+Exam: 20 | Room: 1 | Time slot: 6
+Exam: 34 | Room: 1 | Time slot: 9
+
+
+
+Room -> Timeslot -> Exam -> Student in that exam: 
+Room: 0
+Time slot: 1 | Exam: 2
+0 1 
+Time slot: 1 | Exam: 38
+15 
+Time slot: 2 | Exam: 11
+15 
+Time slot: 4 | Exam: 9
+15 
+Time slot: 5 | Exam: 15
+17 
+Time slot: 5 | Exam: 21
+9 10 13 18 
+Time slot: 6 | Exam: 33
+11 
+Time slot: 6 | Exam: 36
+12 
+Time slot: 6 | Exam: 37
+4 
+Time slot: 7 | Exam: 0
+17 
+Time slot: 7 | Exam: 23
+3 4 5 8 10 14 18 
+Time slot: 7 | Exam: 35
+12 
+Time slot: 8 | Exam: 28
+3 4 5 8 10 11 14 
+Time slot: 9 | Exam: 18
+17 
+Time slot: 9 | Exam: 22
+12 
+Time slot: 10 | Exam: 31
+12 
+Time slot: 10 | Exam: 32
+3 4 5 8 10 14 
+Time slot: 11 | Exam: 24
+11 12 
+Time slot: 11 | Exam: 25
+3 5 10 
+
+Room: 1
+Time slot: 0 | Exam: 7
+0 1 
+Time slot: 1 | Exam: 8
+16 
+Time slot: 2 | Exam: 10
+16 
+Time slot: 2 | Exam: 29
+13 
+Time slot: 3 | Exam: 12
+15 
+Time slot: 3 | Exam: 14
+13 18 
+Time slot: 4 | Exam: 30
+9 13 18 
+Time slot: 5 | Exam: 13
+15 
+Time slot: 6 | Exam: 5
+2 6 9 14 17 
+Time slot: 6 | Exam: 19
+3 5 10 
+Time slot: 6 | Exam: 20
+7 18 
+Time slot: 7 | Exam: 6
+2 6 7 9 11 
+Time slot: 8 | Exam: 4
+2 7 
+Time slot: 8 | Exam: 17
+17 
+Time slot: 8 | Exam: 27
+12 
+Time slot: 9 | Exam: 3
+2 3 4 5 8 10 11 
+Time slot: 9 | Exam: 34
+7 18 
+Time slot: 10 | Exam: 16
+17 
+Time slot: 10 | Exam: 26
+11 
+Time slot: 11 | Exam: 1
+17 
+

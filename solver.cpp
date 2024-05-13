@@ -1834,3 +1834,428 @@ void Solver::Test() {
 		outFile << endl;
 	}
 }
+
+void Solver::Simple3DModel() {
+	cout << "\n-----------------------\n\nStart of New Simplified 3D model solver\n\n";
+
+	IloEnv env;
+	IloModel model(env);
+
+	// Declare Variable:
+	IloArray<IloArray<IloNumVarArray>> x_jrt(env, E); // 1 nếu môn j được thi tại phòng r và time slot t
+	for (int j = 0; j < E; j++) {
+		x_jrt[j] = IloArray<IloNumVarArray>(env, R);
+		for (int r = 0; r < R; r++) {
+			x_jrt[j][r] = IloNumVarArray(env, T);
+			for (int t = 0; t < T; t++) {
+				x_jrt[j][r][t] = IloNumVar(env, 0, 1, ILOINT);
+				string name = "x_jrt(" + to_string(j) + "," + to_string(r) + "," + to_string(t) + ")";
+				x_jrt[j][r][t].setName(name.c_str());
+			}
+		}
+	}
+	cout << "x_jrt[j][r][t]" << endl;
+
+	IloArray<IloNumVarArray> x_jt(env, E); // 1 nếu môn j được thi ở time slot t
+	for (int j = 0; j < E; j++) {
+		x_jt[j] = IloNumVarArray(env, T);
+		for (int t = 0; t < T; t++) {
+			x_jt[j][t] = IloNumVar(env, 0, 1, ILOINT);
+			string name = "x_jt(" + to_string(j) + "," + to_string(t) + ")";
+			x_jt[j][t].setName(name.c_str());
+		}
+	}
+	cout << "x_jt[j][t]" << endl;
+
+	IloArray<IloNumVarArray> x_rt(env, R); // 1 nếu phòng r được thi ở time slot t
+	for (int r = 0; r < R; r++) {
+		x_rt[r] = IloNumVarArray(env, T);
+		for (int t = 0; t < T; t++) {
+			x_rt[r][t] = IloNumVar(env, 0, 1, ILOINT);
+			//string name = "x_rt(" + to_string(j) + "," + to_string(t) + ")";
+			//x_jt[r][t].setName(name.c_str());
+		}
+	}
+	cout << "x_rt[r][t]" << endl;
+
+	IloArray<IloArray<IloNumVarArray>> w_irt(env, S); // sinh viên i thi môn j ở phòng r time slot t
+	for (int i = 0; i < S; i++) {
+		w_irt[i] = IloArray<IloNumVarArray>(env, R);
+		for (int r = 0; r < R; r++) {
+			w_irt[i][r] = IloNumVarArray(env, T);
+			for (int t = 0; t < T; t++) {
+				w_irt[i][r][t] = IloNumVar(env, 0, 1, ILOINT);
+				string name = "w_irt(" + to_string(i) + "," + to_string(r) + "," + to_string(t) + ")";
+				w_irt[i][r][t].setName(name.c_str());
+			}
+		}
+	}
+	cout << "w_irt[i][r][t]" << endl;
+
+	// sinh viên i thi môn j ở time slot t
+	IloArray<IloArray<IloNumVarArray>> w_ijt(env, S);
+	for (int i = 0; i < S; i++) {
+		w_ijt[i] = IloArray<IloNumVarArray>(env, E);
+		for (int j = 0; j < E; j++) {
+			w_ijt[i][j] = IloNumVarArray(env, T);
+			for (int t = 0; t < T; t++) {
+				w_ijt[i][j][t] = IloNumVar(env, 0, 1, ILOINT);
+				string name = "w_ijt(" + to_string(i) + "," + to_string(j) + "," + to_string(t) + ")";
+				w_ijt[i][j][t].setName(name.c_str());
+			}
+		}
+	}
+	cout << "w_ijt[i][j][t]" << endl;
+
+	IloArray<IloNumVarArray> w_it(env, S);
+	for (int i = 0; i < S; i++) {
+		w_it[i] = IloNumVarArray(env, T);
+		for (int t = 0; t < T; t++) {
+			w_it[i][t] = IloNumVar(env, 0, 1, ILOINT);
+			string name = "w_it(" + to_string(i) + "," + to_string(t) + ")";
+			w_it[i][t].setName(name.c_str());
+		}
+	}
+	cout << "w_it[i][t]" << endl;
+
+	IloNumVarArray wi_s(env, S); // sinh viên i thi ở trong các time slot p và q
+	for (int i = 0; i < S; i++) {
+		wi_s[i] = IloNumVar(env, 0, 11, ILOINT);
+		wi_s[i].setName(("start_i_" + to_string(i)).c_str());
+	}
+
+	IloNumVarArray wi_e(env, S); // sinh viên i thi ở trong các time slot p và q
+	for (int i = 0; i < S; i++) {
+		wi_e[i] = IloNumVar(env, 0, 11, ILOINT);
+		wi_e[i].setName(("end_i_" + to_string(i)).c_str());
+	}
+
+	cout << "wi_s[i]" << endl;
+	cout << "wi_e[i]" << endl;
+
+	IloNumVarArray zi_s(env, E); // môn i thi từ p->q
+	for (int i = 0; i < E; i++) {
+		zi_s[i] = IloNumVar(env, 0, 11, ILOINT);
+		zi_s[i].setName(("start_zi_" + to_string(i)).c_str());
+	}
+
+	IloNumVarArray zi_e(env, E); // môn i thi từ p->q
+	for (int i = 0; i < E; i++) {
+		zi_e[i] = IloNumVar(env, 0, 11, ILOINT);
+		zi_e[i].setName(("end_zi_" + to_string(i)).c_str());
+	}
+
+	cout << "zi_s[i]" << endl;
+	cout << "zi_e[i]" << endl;
+
+	//---------------------------------------
+	//CONSTRAINT
+
+	// (0) Tất cả những môn sinh viên i không thi sẽ đánh 0
+	for (int i = 0; i < S; i++) {
+		for (int j = 0; j < E; j++) {
+			if (examOfStudent[i].count(j) == 0) {
+				for (int t = 0; t < T; t++) {
+					w_ijt[i][j][t].setBounds(0, 0);
+				}
+			}
+		}
+	}
+
+	cout << "Done 0\n";
+
+	// (1) với mọi cặp(i, j) mà sinh viên i thi môn j thì phải thi ở
+	// thời điểm t nào đó.
+	for (int i = 0; i < S; i++) {
+		for (int j : examOfStudent[i]) {
+			IloExpr expr1(env);
+			for (int t = 0; t < T; t++) {
+				expr1 += w_ijt[i][j][t];
+			}
+			model.add(expr1 == 1).setName(("C1_ij_" + to_string(i) + "." + to_string(j)).c_str());
+		}
+	}
+
+	cout << "Done 1\n";
+
+	// (2) sinh viên i thiở thời gian thời gian t thì phải thi một môn nào đó trong danh sách môn thi của họ
+	for (int i = 0; i < S; i++) {
+		for (int t = 0; t < T; t++) {
+			IloExpr expr2(env);
+			for (int j : examOfStudent[i]) {
+				expr2 += w_ijt[i][j][t];
+			}
+			model.add(expr2 == w_it[i][t]).setName(("C2_it_" + to_string(i) + "." + to_string(t)).c_str());
+		}
+	}
+
+	cout << "Done 2\n";
+
+	// (3) sinh viên i thi môn gì đó ở thời điểm t thì sinh viên này sẽ phải ở một phòng r nào đó
+	for (int i = 0; i < S; i++) {
+		for (int t = 0; t < T; t++) {
+			IloExpr expr3(env);
+			for (int r = 0; r < R; r++) {
+				expr3 += w_irt[i][r][t];
+			}
+			model.add(expr3 == w_it[i][t]).setName(("C3_it_" + to_string(i) + "." + to_string(t)).c_str());
+		}
+	}
+
+	cout << "Done 3\n";
+
+	// (4) số sinh viên tham gia phòng thi r thỏa mãn điều kiện giới hạn số sinh viên của phòng tại thời điểm t bất kỳ.
+	for (int r = 0; r < R; r++) {
+		for (int t = 0; t < T; t++) {
+			IloExpr expr4(env);
+			for (int i = 0; i < S; i++) {
+				expr4 += w_irt[i][r][t];
+			}
+			//cout << r << " " << t << endl;
+			model.add(expr4 <= capacity[r]).setName(("C4_rt_" + to_string(r) + "." + to_string(t)).c_str());
+		}
+	}
+
+	cout << "Done 4\n";
+
+	// (5) sinh viên i thi môn j ở time slot t nếu môn j được tổ chức thi ở time slot t
+	for (int i = 0; i < S; i++) {
+		for (int j : examOfStudent[i]) {
+			for (int t = 0; t < T; t++) {
+				model.add(w_ijt[i][j][t] <= x_jt[j][t]).setName(("C5_ijt_"
+					+ to_string(i) + "." + to_string(j) + "." + to_string(t)).c_str());
+			}
+		}
+	}
+
+	cout << "Done 5\n";
+
+	// (6) N sinh viên i chỉ ở phòng r ở time slot t nếu phòng đó đc sử dụng
+	for (int i = 0; i < S; i++) {
+		for (int r = 0; r < R; r++) {
+			for (int t = 0; t < T; t++) {
+				model.add(w_irt[i][r][t] <= x_rt[r][t]).setName(("C6_irt_"
+					+ to_string(i) + "." + to_string(r) + "." + to_string(t)).c_str());
+			}
+		}
+	}
+
+	// (7) môn j thi ở phòng r ở thời điểm t chỉ khi môn j được xác định thi ở thời điểm t
+	for (int r = 0; r < R; r++) {
+		for (int j = 0; j < E; j++) {
+			for (int t = 0; t < T; t++) {
+				model.add(x_jrt[j][r][t] <= x_jt[j][t]).setName(("C7_jrt_"
+					+ to_string(j) + "." + to_string(r) + "." + to_string(t)).c_str());
+			}
+		}
+	}
+
+	cout << "Done 7\n";
+
+	// (8) có sinh viên i thi môn j ở phòng r tại thời điểm t thì biến xjrt phải nhận giá trị 1
+	for (int i = 0; i < S; i++) {
+		for (int j : examOfStudent[i]) {
+			for (int r = 0; r < R; r++) {
+				for (int t = 0; t < T; t++) {
+					model.add(w_irt[i][r][t] + w_ijt[i][j][t] <= x_jrt[j][r][t] + 1).setName(("C8_ijrt_"
+						+ to_string(i) + "." + to_string(j) + "." + to_string(r) + "." + to_string(t)).c_str());
+				}
+			}
+		}
+	}
+
+	cout << "Done 8\n";
+
+	// (9) phải có ít nhất 1 phòng được sử dụng để thi môn j ở thời điểm t
+	for (int j = 0; j < E; j++) {
+		for (int t = 0; t < T; t++) {
+			IloExpr expr5(env);
+			for (int r = 0; r < R; r++) {
+				expr5 += x_jrt[j][r][t];
+			}
+			model.add(expr5 >= x_jt[j][t]).setName(("C9_jt_"
+				+ to_string(j) + "." + to_string(t)).c_str());
+		}
+	}
+
+	cout << "Done 9\n";
+
+	// (10) N  phải có ít nhất 1 môn thi j nào đó được sử dụng để thi ở phòng r tại thời điểm t nếu phòng đó được sử dụng.
+	for (int r = 0; r < R; r++) {
+		for (int t = 0; t < T; t++) {
+			IloExpr expr5_1(env);
+			for (int j = 0; j < E; j++) {
+				expr5_1 += x_jrt[j][r][t];
+			}
+			model.add(expr5_1 >= x_rt[r][t]).setName(("C10_rt_"
+				+ to_string(r) + "." + to_string(t)).c_str());
+		}
+	}
+	cout << "Done 10\n";
+
+	// (11) số phòng mở phục vụ môn học j phải thỏa mãn số sinh viên cho môn này
+	for (int j = 0; j < E; j++) {
+		IloExpr expr6(env);
+		for (int r = 0; r < R; r++) {
+			for (int t = 0; t < T; t++) {
+				expr6 += x_jrt[j][r][t] * capacity[r];
+			}
+		}
+		model.add(expr6 >= numberOfStudentInExam[j]).setName(("C11_j_" + to_string(j)).c_str());
+	}
+	cout << "Done 11\n";
+
+	// (12) nếu sinh viên i thi ở time slot t thì thời điểm thi đầu tiên của sv này ko vượt quá t
+	// (13)  nếu sinh viên i thi ở time slot t thì thời điểm thi cuối cùng của sv này ít nhất là t
+
+	for (int i = 0; i < S; i++) {
+		if (examOfStudent[i].size()) {
+			//cai t/6 * 10 là để "phạt" nếu thi ở 2 ngày khác nhau
+			for (int t = 0; t < T; t++) {
+				model.add(wi_s[i] <= (t + (int)(t / 6) * 10) + 100 * (1 - w_it[i][t])).setName(("C11s_i_t" + to_string(i)
+					+ "," + to_string(t)).c_str());
+				model.add(wi_e[i] >= (t + (int)(t / 6) * 10) * w_it[i][t]).setName(("C11e_i_t" + to_string(i)
+					+ "," + to_string(t)).c_str());
+			}
+		}
+		model.add((int)examOfStudent[i].size() - 1 <= wi_e[i] - wi_s[i]).setName(("C11d_i_" + to_string(i)).c_str());
+	}
+	cout << "Done 12\n";
+	
+
+	// (14) nếu môn i thi ở time slot t thì thời điểm thi đầu tiên của môn này ko vượt quá t
+	
+	for (int i = 0; i < E; i++) {
+		for (int t = 0; t < T; t++) {
+			model.add(zi_s[i] <= t + T * (1 - x_jt[i][t])).setName(("C20s_i_t" + to_string(i)
+				+ to_string(t)).c_str());
+			model.add(zi_e[i] >= t * x_jt[i][t]).setName(("C20s_i_t" + to_string(i)
+				+ to_string(t)).c_str());
+		}
+		model.add(zi_e[i] - zi_s[i] == 0).setName(("C20d_i_" + to_string(i)).c_str());
+		//model.add(zi_e[i] - zi_s[i] <= 1).setName(("C20d_i_" + to_string(i)).c_str());
+	}
+	cout << "Done 13\n";
+	
+
+	// Objective function:
+	IloExpr obj1(env); // penalty for duration of each exam
+	for (int j = 0; j < E; j++) {
+		obj1 += 1e6 * (zi_e[j] - zi_s[j]);
+	}
+
+
+	IloExpr obj2(env); // penalty for duration of each student
+	for (int j = 0; j < S; j++) {
+		obj1 += 1e3 * (wi_e[j] - wi_s[j]);
+	}
+
+	IloExpr obj3(env); // penalty cho so phong phai su dung
+	for (int j = 0; j < E; j++) {
+		for (int r = 0; r < R; r++) {
+			for (int t = 0; t < T; t++) {
+				obj3 += 1e4 * x_jrt[j][r][t];
+			}
+		}
+	}
+
+	model.add(IloMinimize(env, obj1 + obj2 + obj3));
+
+	cout << "\nCplex starts here\n";
+
+	IloCplex cplex(model);
+	double startTime = cplex.getTime();
+
+	cplex.setParam(IloCplex::EpGap, 0.01); // Set the gap limit to 4%
+	//cplex.setParam(IloCplex::Param::TimeLimit, 36000);
+
+	if (!cplex.solve()) {
+		cerr << "Failed to solve the problem" << endl;
+		throw(-1);
+	}
+
+	cout << "Solved\n";
+	double objValue = cplex.getObjValue();
+	cout << "Objective Value: " << objValue << endl;
+	cout << "Solution status: " << cplex.getStatus() << endl;
+
+	double endTime = cplex.getTime();
+	cout << "Runtime: " << endTime - startTime << endl;
+
+	ofstream outFile("output.txt", ofstream::trunc);
+	outFile << "Runtime: " << endTime - startTime << endl;
+
+	cout << "\n\nResult starts here:\n\n";
+	cout << "Exam with its respective room and timeslot:\n";
+	outFile << "Exam with its respective room and timeslot:\n";
+
+	for (int j = 0; j < E; j++) {
+		cout << "\nExam: " << j;
+		outFile << "\nExam: " << j;
+		for (int r = 0; r < R; r++) {
+			cout << "\n\tRoom: " << r;
+			outFile << "\n\tRoom: " << r;
+			for (int t = 0; t < T; t++) {
+				if (cplex.getValue(x_jrt[j][r][t] == 1)) {
+					cout << "\n\t\tTime slot: " << t << endl;
+					outFile << "\n\t\tTime slot: " << t << endl;
+				}
+			}
+		}
+	}
+
+	outFile << endl;
+	cout << endl;
+
+	cout << "\n\nStudent with their respective room, exam and timeslot:\n";
+	outFile << "\n\nStudent with their respective room, exam and timeslot:\n";
+
+	for (int i = 0; i < S; i++) {
+		cout << "Student " << i << endl;
+		outFile << "Student " << i << endl;
+		for (int r = 0; r < R; r++) {
+			for (int t = 0; t < T; t++) {
+				if (cplex.getValue(w_irt[i][r][t] == 1)) {
+					//cout << i << " ";
+					for (int j : examOfStudent[i]) {
+						if (cplex.getValue(w_ijt[i][j][t])) {
+							//cout << j << " ";
+							outFile << "Exam: " << j << " | Room: " << r << " | Time slot: " << t << endl;
+							cout << "Exam: " << j << " | Room: " << r << " | Time slot: " << t << endl;
+						}
+					}
+				}
+			}
+		}
+	}
+
+	outFile << endl;
+	cout << endl;
+
+	cout << "\n\nRoom -> Timeslot -> Exam -> Student in that exam: \n";
+	outFile << "\n\nRoom -> Timeslot -> Exam -> Student in that exam: \n";
+
+	// Exam and its room, timeslot and student
+	for (int r = 0; r < R; r++) {
+		outFile << "Room: " << r << endl;
+		cout << "Room: " << r << endl;
+		for (int t = 0; t < T; t++) {
+			for (int j = 0; j < E; j++) {
+				if (cplex.getValue(x_jrt[j][r][t])) {
+					outFile << "Time slot: " << t << " | Exam: " << j << endl;
+					cout << "Time slot: " << t << " | Exam: " << j << endl;
+					for (int i = 0; i < S; i++) {
+						if (examOfStudent[i].count(j) == 1 && cplex.getValue(w_ijt[i][j][t]) == 1) {
+							cout << i << " ";
+							outFile << i << " ";
+						}
+					}
+					cout << endl;
+					outFile << endl;
+				}
+			}
+		}
+		cout << endl;
+		outFile << endl;
+	}
+}

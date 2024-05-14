@@ -1,0 +1,787 @@
+﻿Địa điểm,Mã SV,Họ Lót,Tên,Mã HP,Mã LHP,Tên HP,Số TC,Bộ môn giảng dạy,Khoa giảng dạy
+HCM,19235356,Lê Ngọc,Châu,TXLUCS03,24032024.TXLUCS03.0002,Lý luận nhà nước và pháp luật 2,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235109,Nguyễn Văn,Thanh,TXLUCS03,24032024.TXLUCS03.0002,Lý luận nhà nước và pháp luật 2,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225705,Kiều Thảo,Vi,TXLUCS03,24032024.TXLUCS03.0002,Lý luận nhà nước và pháp luật 2,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225676,Lê Phước,Lợi,TXLUCS03,24032024.TXLUCS03.0002,Lý luận nhà nước và pháp luật 2,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19215602,Bùi Thanh,Nga,TXLUCS03,24032024.TXLUCS03.0001,Lý luận nhà nước và pháp luật 2,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19220683,Lý Khả,Uyên,TXLUCS03,24032024.TXLUCS03.0002,Lý luận nhà nước và pháp luật 2,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235396,Tiêu Phúc,Tài,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19189017,Đinh Huỳnh Vũ ,Thanh,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19220683,Lý Khả,Uyên,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19215602,Bùi Thanh,Nga,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19189004,Trần Quốc,Huy,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225043,Đinh Thị Liên,Chi,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225671,Hoàng Thị Bích,Kim,TXLUCS1127,24032024.TXLUCS1127.0002,Luật tố tụng hình sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225662,Nguyễn Thị Mỹ,Hạnh,TXLUCS1127,24032024.TXLUCS1127.0003,Luật tố tụng hình sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235073,Đinh Hoàng Diệu,Linh,TXLUCS1127,24032024.TXLUCS1127.0002,Luật tố tụng hình sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225699,Bùi Văn,Toàn,TXLUCS1127,24032024.TXLUCS1127.0003,Luật tố tụng hình sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225702,Lê Ngọc Đoan,Trinh,TXLUCS1127,24032024.TXLUCS1127.0003,Luật tố tụng hình sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19230149,Lê Quang,Đăng,TXLUCS1127,24032024.TXLUCS1127.0002,Luật tố tụng hình sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225648,Lê Thị Kiều,Anh,TXLUCS1127,24032024.TXLUCS1127.0003,Luật tố tụng hình sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235085,Lê Nguyễn Khánh,Minh,TXLUCS1127,24032024.TXLUCS1127.0002,Luật tố tụng hình sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235416,Nguyễn Thị Lạc,Vy,TXLUCS1127,24032024.TXLUCS1127.0002,Luật tố tụng hình sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235089,Lê Thị Ánh,Nguyệt,TXLUCS1127,24032024.TXLUCS1127.0002,Luật tố tụng hình sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235095,Nguyễn Thị Quỳnh,Nhi,TXLUCS1127,24032024.TXLUCS1127.0002,Luật tố tụng hình sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235125,Nguyễn Thị Yến,Vy,TXLUCS1127,24032024.TXLUCS1127.0002,Luật tố tụng hình sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235360,Nguyễn Ngọc,Đạt,TXLUCS1127,24032024.TXLUCS1127.0002,Luật tố tụng hình sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235055,Nguyễn Phú,Cường,TXLUCS1127,24032024.TXLUCS1127.0002,Luật tố tụng hình sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235088,Nguyễn Dương Như,Ngọc,TXLUCS1127,24032024.TXLUCS1127.0002,Luật tố tụng hình sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235059,Trương Thị Thúy,Diệu,TXLUCS1127,24032024.TXLUCS1127.0002,Luật tố tụng hình sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235377,Nguyễn Hoàng,Kim,TXLUCS1128,24032024.TXLUCS1128.0001,Lý luận nhà nước và pháp luật 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235356,Lê Ngọc,Châu,TXLUCS1128,24032024.TXLUCS1128.0001,Lý luận nhà nước và pháp luật 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225708,Nguyễn Khánh,Vy,TXLUCS1128,24032024.TXLUCS1128.0001,Lý luận nhà nước và pháp luật 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19220683,Lý Khả,Uyên,TXLUCS1128,24032024.TXLUCS1128.0001,Lý luận nhà nước và pháp luật 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19215602,Bùi Thanh,Nga,TXLUCS1128,24032024.TXLUCS1128.0001,Lý luận nhà nước và pháp luật 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225774,Phạm Thị Thanh,Loan,TXLUCS1129,24032024.TXLUCS1129.0002,Pháp luật đại cương,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225310,Đoàn Kim,Anh,TXLUCS1129,24032024.TXLUCS1129.0002,Pháp luật đại cương,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235771,Lê Diệu,Huyền,TXLUCS1129,24032024.TXLUCS1129.0001,Pháp luật đại cương,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235722,Nguyễn Thị Giao,Linh,TXLUCS1129,24032024.TXLUCS1129.0001,Pháp luật đại cương,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235670,Trịnh Văn,Tiến,TXLUCS1129,24032024.TXLUCS1129.0001,Pháp luật đại cương,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235561,Phan Thị Cẩm,Nhi,TXLUCS1129,24032024.TXLUCS1129.0001,Pháp luật đại cương,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235336,Ngô Duy,Thắng,TXLUCS1129,24032024.TXLUCS1129.0002,Pháp luật đại cương,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235320,Lê Thị Thanh,Hiển,TXLUCS1129,24032024.TXLUCS1129.0002,Pháp luật đại cương,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225009,Phạm Thị Thu,Hồng,TXLUCS1129,24032024.TXLUCS1129.0001,Pháp luật đại cương,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235296,Nguyễn Phú Huỳnh,Trang,TXLUCS1129,24032024.TXLUCS1129.0001,Pháp luật đại cương,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235135,Nguyễn Bá,Đức,TXLUCS1129,24032024.TXLUCS1129.0002,Pháp luật đại cương,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235007,Lê Tâm,Đan,TXLUCS1129,24032024.TXLUCS1129.0002,Pháp luật đại cương,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225787,Dương Thúy,Ngọc,TXLUCS1129,24032024.TXLUCS1129.0002,Pháp luật đại cương,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225756,Nguyễn Quang,Hiếu,TXLUCS1129,24032024.TXLUCS1129.0002,Pháp luật đại cương,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225582,Trần Khánh,Linh,TXLUCS1129,24032024.TXLUCS1129.0002,Pháp luật đại cương,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225373,Nguyễn Thị Như,Ngọc,TXLUCS1129,24032024.TXLUCS1129.0001,Pháp luật đại cương,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235153,Lê Nguyễn Anh,Khôi,TXLUCS1129,24032024.TXLUCS1129.0002,Pháp luật đại cương,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235614,Nguyễn Trung,Kiên,TXLUCS1129,24032024.TXLUCS1129.0001,Pháp luật đại cương,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235758,Đặng Lê,Tín,TXLUCS1129,24032024.TXLUCS1129.0001,Pháp luật đại cương,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235756,Nguyễn Thị  Ngọc,Thương,TXLUCS1129,24032024.TXLUCS1129.0001,Pháp luật đại cương,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235748,Nguyễn Thị Diểm,My,TXLUCS1129,24032024.TXLUCS1129.0001,Pháp luật đại cương,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235746,Phạm Thị,Loan,TXLUCS1129,24032024.TXLUCS1129.0001,Pháp luật đại cương,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235744,Trương Thị Hồng,Hạnh,TXLUCS1129,24032024.TXLUCS1129.0001,Pháp luật đại cương,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235742,Đặng Thuý,Hằng,TXLUCS1129,24032024.TXLUCS1129.0001,Pháp luật đại cương,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235741,Phạm Tất,Đạt,TXLUCS1129,24032024.TXLUCS1129.0001,Pháp luật đại cương,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235783,Nguyễn Anh,Thư,TXLUCS1129,24032024.TXLUCS1129.0001,Pháp luật đại cương,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235776,Lê Thảo,Nguyên,TXLUCS1129,24032024.TXLUCS1129.0001,Pháp luật đại cương,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235755,Bùi Ngọc Anh,Thư,TXLUCS1129,24032024.TXLUCS1129.0001,Pháp luật đại cương,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235757,Trần Thị Thanh,Thủy,TXLUCS1129,24032024.TXLUCS1129.0001,Pháp luật đại cương,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225261,Hoàng Thu,Giang,TXLUCS1137,24032024.TXLUCS1137.0004,Luật tố tụng dân sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225282,Phan Bá,Ngọc,TXLUCS1137,24032024.TXLUCS1137.0004,Luật tố tụng dân sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225255,Trần Thị Vi,Anh,TXLUCS1137,24032024.TXLUCS1137.0004,Luật tố tụng dân sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225276,Nguyễn Thị Trà,Mi,TXLUCS1137,24032024.TXLUCS1137.0004,Luật tố tụng dân sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225273,Lý Thị Khánh,Linh,TXLUCS1137,24032024.TXLUCS1137.0004,Luật tố tụng dân sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225269,Ngô Thị Thanh,Huyền,TXLUCS1137,24032024.TXLUCS1137.0004,Luật tố tụng dân sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225267,Trần Thị Thùy,Hương,TXLUCS1137,24032024.TXLUCS1137.0004,Luật tố tụng dân sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225646,Trần Nguyễn Vân,An,TXLUCS1137,24032024.TXLUCS1137.0004,Luật tố tụng dân sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225678,Lê Ngọc,Minh,TXLUCS1137,24032024.TXLUCS1137.0004,Luật tố tụng dân sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225300,Nguyễn Thị Huỳnh,Trang,TXLUCS1137,24032024.TXLUCS1137.0004,Luật tố tụng dân sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225699,Bùi Văn,Toàn,TXLUCS1137,24032024.TXLUCS1137.0004,Luật tố tụng dân sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235112,Trần Thu,Thảo,TXLUCS1137,24032024.TXLUCS1137.0004,Luật tố tụng dân sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235352,Dư Huỳnh,Anh,TXLUCS1137,24032024.TXLUCS1137.0004,Luật tố tụng dân sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235364,Nguyễn Đức,Hải,TXLUCS1137,24032024.TXLUCS1137.0004,Luật tố tụng dân sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235383,Vũ Thị Phương,Linh,TXLUCS1137,24032024.TXLUCS1137.0004,Luật tố tụng dân sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19215428,Nguyễn Ngọc Kim,Thoa,TXLUCS1137,24032024.TXLUCS1137.0001,Luật tố tụng dân sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225070,Phùng Thị Bích,Ngọc,TXLUCS1137,24032024.TXLUCS1137.0004,Luật tố tụng dân sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225254,Trần Thị Minh,Anh,TXLUCS1137,24032024.TXLUCS1137.0004,Luật tố tụng dân sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235049,Lê Nguyễn Hồng,Anh,TXLUCS1137,24032024.TXLUCS1137.0004,Luật tố tụng dân sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225303,Ngô Duy,Tùng,TXLUCS1137,24032024.TXLUCS1137.0004,Luật tố tụng dân sự,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225499,Nguyễn Ngọc Lam,Nguyên,TXLUCS1138,24032024.TXLUCS1138.0005,Luật dân sự 2,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225042,Trương Thị Ngọc,Ánh,TXLUCS1138,24032024.TXLUCS1138.0004,Luật dân sự 2,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19215602,Bùi Thanh,Nga,TXLUCS1138,24032024.TXLUCS1138.0001,Luật dân sự 2,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19215218,Nguyễn Thị Tú,Chiêu,TXLUCS1138,24032024.TXLUCS1138.0005,Luật dân sự 2,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225053,Bế Ngọc Gia,Hưng,TXLUCS1138,24032024.TXLUCS1138.0005,Luật dân sự 2,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235383,Vũ Thị Phương,Linh,TXLUCS1138,24032024.TXLUCS1138.0004,Luật dân sự 2,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235377,Nguyễn Hoàng,Kim,TXLUCS1138,24032024.TXLUCS1138.0005,Luật dân sự 2,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235125,Nguyễn Thị Yến,Vy,TXLUCS1138,24032024.TXLUCS1138.0005,Luật dân sự 2,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235085,Lê Nguyễn Khánh,Minh,TXLUCS1138,24032024.TXLUCS1138.0005,Luật dân sự 2,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235081,Từ Nam,Long,TXLUCS1138,24032024.TXLUCS1138.0004,Luật dân sự 2,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235073,Đinh Hoàng Diệu,Linh,TXLUCS1138,24032024.TXLUCS1138.0005,Luật dân sự 2,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235066,Vũ Hoàng,Giang,TXLUCS1138,24032024.TXLUCS1138.0005,Luật dân sự 2,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235059,Trương Thị Thúy,Diệu,TXLUCS1138,24032024.TXLUCS1138.0005,Luật dân sự 2,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235055,Nguyễn Phú,Cường,TXLUCS1138,24032024.TXLUCS1138.0005,Luật dân sự 2,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225049,Đồng Trùng,Dương,TXLUCS1138,24032024.TXLUCS1138.0005,Luật dân sự 2,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225705,Kiều Thảo,Vi,TXLUCS1138,24032024.TXLUCS1138.0005,Luật dân sự 2,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225659,Hoàng Thị Thanh,Hà,TXLUCS1138,24032024.TXLUCS1138.0005,Luật dân sự 2,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225652,Trần Danh,Chung,TXLUCS1138,24032024.TXLUCS1138.0005,Luật dân sự 2,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225504,Trần Phước Bá,Phát,TXLUCS1138,24032024.TXLUCS1138.0005,Luật dân sự 2,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235397,Nguyễn Văn,Thạch,TXLUCS1138,24032024.TXLUCS1138.0004,Luật dân sự 2,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235109,Nguyễn Văn,Thanh,TXLUCS1138,24032024.TXLUCS1138.0005,Luật dân sự 2,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19205816,Vũ Thị,Lan,TXLUKD01,24032024.TXLUKD01.0001,Pháp luật kinh doanh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225441,Trần Bảo,Ngọc,TXLUKD01,24032024.TXLUKD01.0001,Pháp luật kinh doanh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225659,Hoàng Thị Thanh,Hà,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225652,Trần Danh,Chung,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225647,Đoàn Ngọc,Anh,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225072,Ngô Thị Ánh,Nguyệt,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225050,Vũ Thị,Hằng,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225043,Đinh Thị Liên,Chi,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225661,Nguyễn Cao Mỹ,Hạnh,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19189004,Trần Quốc,Huy,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225656,Lê Anh,Dũng,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225669,Trần Vĩ,Khang,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225663,Nguyễn Thị Thanh,Hoa,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235404,Ngô Hồng,Thức,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235400,Nguyễn Thị Phương,Thảo,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235396,Tiêu Phúc,Tài,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235391,Hồ Đức Uyên,Phương,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235387,Lưu Hồng,Ngọc,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235383,Vũ Thị Phương,Linh,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235099,Nguyễn Diệu Hồng,Nhung,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235094,Nguyễn Quỳnh,Nhi,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225708,Nguyễn Khánh,Vy,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225704,Lê Hoàng,Tuấn,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225695,Nguyễn Trọng,Sơn,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225679,Ngô Cao Bình,Minh,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235377,Nguyễn Hoàng,Kim,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19211948,Nguyễn Hương,Giang,TXLUKD03,24032024.TXLUKD03.0001,Luật dân sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19215615,Nguyễn Ngọc Hà,Trang,TXLUKD03,24032024.TXLUKD03.0001,Luật dân sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225491,Trần Quốc,Lợi,TXLUKD03,24032024.TXLUKD03.0003,Luật dân sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225494,Phạm Thị Diễm,My,TXLUKD03,24032024.TXLUKD03.0003,Luật dân sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225499,Nguyễn Ngọc Lam,Nguyên,TXLUKD03,24032024.TXLUKD03.0003,Luật dân sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225502,Đào Thị Hồng,Nhung,TXLUKD03,24032024.TXLUKD03.0003,Luật dân sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225503,Hồ Phạm Nương,Nương,TXLUKD03,24032024.TXLUKD03.0003,Luật dân sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225514,Bùi Trần,Tiến,TXLUKD03,24032024.TXLUKD03.0003,Luật dân sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235377,Nguyễn Hoàng,Kim,TXLUKD03,24032024.TXLUKD03.0003,Luật dân sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225659,Hoàng Thị Thanh,Hà,TXLUKD03,24032024.TXLUKD03.0003,Luật dân sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235381,Tô Lâm Hoài,Linh,TXLUKD03,24032024.TXLUKD03.0003,Luật dân sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235383,Vũ Thị Phương,Linh,TXLUKD03,24032024.TXLUKD03.0003,Luật dân sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235387,Lưu Hồng,Ngọc,TXLUKD03,24032024.TXLUKD03.0003,Luật dân sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235396,Tiêu Phúc,Tài,TXLUKD03,24032024.TXLUKD03.0003,Luật dân sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235400,Nguyễn Thị Phương,Thảo,TXLUKD03,24032024.TXLUKD03.0003,Luật dân sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235404,Ngô Hồng,Thức,TXLUKD03,24032024.TXLUKD03.0003,Luật dân sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225516,Vũ Thị Bảo,Trân,TXLUKD03,24032024.TXLUKD03.0003,Luật dân sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235391,Hồ Đức Uyên,Phương,TXLUKD03,24032024.TXLUKD03.0003,Luật dân sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225704,Lê Hoàng,Tuấn,TXLUKD05,24032024.TXLUKD05.0001,Luật hình sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225664,Nguyễn Phú,Hoài,TXLUKD05,24032024.TXLUKD05.0001,Luật hình sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225663,Nguyễn Thị Thanh,Hoa,TXLUKD05,24032024.TXLUKD05.0001,Luật hình sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225647,Đoàn Ngọc,Anh,TXLUKD05,24032024.TXLUKD05.0001,Luật hình sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225669,Trần Vĩ,Khang,TXLUKD05,24032024.TXLUKD05.0001,Luật hình sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225679,Ngô Cao Bình,Minh,TXLUKD05,24032024.TXLUKD05.0001,Luật hình sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225695,Nguyễn Trọng,Sơn,TXLUKD05,24032024.TXLUKD05.0001,Luật hình sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225074,Dương Thị,Nhiên,TXLUKD05,24032024.TXLUKD05.0001,Luật hình sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225705,Kiều Thảo,Vi,TXLUKD05,24032024.TXLUKD05.0001,Luật hình sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225708,Nguyễn Khánh,Vy,TXLUKD05,24032024.TXLUKD05.0001,Luật hình sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225043,Đinh Thị Liên,Chi,TXLUKD05,24032024.TXLUKD05.0001,Luật hình sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19215218,Nguyễn Thị Tú,Chiêu,TXLUKD05,24032024.TXLUKD05.0001,Luật hình sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225661,Nguyễn Cao Mỹ,Hạnh,TXLUKD05,24032024.TXLUKD05.0001,Luật hình sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19225656,Lê Anh,Dũng,TXLUKD05,24032024.TXLUKD05.0001,Luật hình sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật
+HCM,19235112,Trần Thu,Thảo,TXLUKD08,24032024.TXLUKD08.0002,Luật thương mại 1,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235395,Ngô Hồ,Sỹ,TXLUKD08,24032024.TXLUKD08.0002,Luật thương mại 1,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235124,Trương Thị,Vân,TXLUKD08,24032024.TXLUKD08.0002,Luật thương mại 1,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19215615,Nguyễn Ngọc Hà,Trang,TXLUKD08,24032024.TXLUKD08.0001,Luật thương mại 1,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19220600,Nguyễn Hồng,Hạnh,TXLUKD08,24032024.TXLUKD08.0002,Luật thương mại 1,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225072,Ngô Thị Ánh,Nguyệt,TXLUKD08,24032024.TXLUKD08.0002,Luật thương mại 1,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225275,Lê Thị Triệu,Mẫn,TXLUKD08,24032024.TXLUKD08.0002,Luật thương mại 1,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235410,Kiều Thành,Trung,TXLUKD08,24032024.TXLUKD08.0002,Luật thương mại 1,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225491,Trần Quốc,Lợi,TXLUKD08,24032024.TXLUKD08.0003,Luật thương mại 1,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225494,Phạm Thị Diễm,My,TXLUKD08,24032024.TXLUKD08.0003,Luật thương mại 1,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225499,Nguyễn Ngọc Lam,Nguyên,TXLUKD08,24032024.TXLUKD08.0003,Luật thương mại 1,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225503,Hồ Phạm Nương,Nương,TXLUKD08,24032024.TXLUKD08.0003,Luật thương mại 1,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225473,Phan Bá,Đại,TXLUKD08,24032024.TXLUKD08.0003,Luật thương mại 1,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235123,Lâm Hải,Vân,TXLUKD08,24032024.TXLUKD08.0002,Luật thương mại 1,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235101,Trần Thị,Ninh,TXLUKD08,24032024.TXLUKD08.0002,Luật thương mại 1,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225514,Bùi Trần,Tiến,TXLUKD08,24032024.TXLUKD08.0003,Luật thương mại 1,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235081,Từ Nam,Long,TXLUKD08,24032024.TXLUKD08.0002,Luật thương mại 1,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235074,Đỗ Thị Khánh,Linh,TXLUKD08,24032024.TXLUKD08.0002,Luật thương mại 1,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235068,Đào Ngọc,Hiếu,TXLUKD08,24032024.TXLUKD08.0002,Luật thương mại 1,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235107,Nguyễn Thị Kim,Quý,TXLUKD08,24032024.TXLUKD08.0002,Luật thương mại 1,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235063,Hà Thị Hồng,Duyên,TXLUKD08,24032024.TXLUKD08.0002,Luật thương mại 1,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225516,Vũ Thị Bảo,Trân,TXLUKD08,24032024.TXLUKD08.0003,Luật thương mại 1,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235114,Nguyễn Ngọc Long,Thịnh,TXLUKD08,24032024.TXLUKD08.0002,Luật thương mại 1,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235115,Võ,Thịnh,TXLUKD08,24032024.TXLUKD08.0002,Luật thương mại 1,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235121,Trần Thị Phương,Trúc,TXLUKD08,24032024.TXLUKD08.0002,Luật thương mại 1,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235066,Vũ Hoàng,Giang,TXLUKD08,24032024.TXLUKD08.0002,Luật thương mại 1,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19205393,Lê Thị Kim,Huỳnh,TXLUKD09,24032024.TXLUKD09.0003,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19215615,Nguyễn Ngọc Hà,Trang,TXLUKD09,24032024.TXLUKD09.0001,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19221190,Nguyễn Đình,Hùng,TXLUKD09,24032024.TXLUKD09.0003,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19221288,Lê Huy,Vũ,TXLUKD09,24032024.TXLUKD09.0003,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225047,Nguyễn Phạm Ngọc Kiều,Diễm,TXLUKD09,24032024.TXLUKD09.0002,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225072,Ngô Thị Ánh,Nguyệt,TXLUKD09,24032024.TXLUKD09.0002,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225093,Nguyễn Hoàng,Yến,TXLUKD09,24032024.TXLUKD09.0002,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225469,Đặng Thùy,Anh,TXLUKD09,24032024.TXLUKD09.0003,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225473,Phan Bá,Đại,TXLUKD09,24032024.TXLUKD09.0003,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19215611,Lê Thị Hoài,Thương,TXLUKD09,24032024.TXLUKD09.0001,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225479,Phạm Thuỳ Long,Giang,TXLUKD09,24032024.TXLUKD09.0003,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235370,Võ Phước,Hoà,TXLUKD09,24032024.TXLUKD09.0002,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225478,Đào Lâm Mỹ,Duyên,TXLUKD09,24032024.TXLUKD09.0003,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225492,Lê Ngọc,Lý,TXLUKD09,24032024.TXLUKD09.0001,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235054,Nguyễn Văn,Cử,TXLUKD09,24032024.TXLUKD09.0002,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235372,Vũ Văn,Hùng,TXLUKD09,24032024.TXLUKD09.0002,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235410,Kiều Thành,Trung,TXLUKD09,24032024.TXLUKD09.0003,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225705,Kiều Thảo,Vi,TXLUKD09,24032024.TXLUKD09.0003,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225700,Dương Thị Thùy,Trang,TXLUKD09,24032024.TXLUKD09.0003,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225690,Phạm Hùng,Phát,TXLUKD09,24032024.TXLUKD09.0003,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225679,Ngô Cao Bình,Minh,TXLUKD09,24032024.TXLUKD09.0003,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225678,Lê Ngọc,Minh,TXLUKD09,24032024.TXLUKD09.0003,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235066,Vũ Hoàng,Giang,TXLUKD09,24032024.TXLUKD09.0002,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225522,Nguyễn Kim,Việt,TXLUKD09,24032024.TXLUKD09.0003,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225518,Hồ Văn,Út,TXLUKD09,24032024.TXLUKD09.0003,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225512,Lê Thanh,Thủy,TXLUKD09,24032024.TXLUKD09.0003,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225504,Trần Phước Bá,Phát,TXLUKD09,24032024.TXLUKD09.0003,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225497,Phan Thị,Ngọc,TXLUKD09,24032024.TXLUKD09.0003,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225496,Phạm Hồng,Ngọc,TXLUKD09,24032024.TXLUKD09.0003,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225495,Nguyễn Đăng,Nam,TXLUKD09,24032024.TXLUKD09.0003,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225490,Phạm Đào Hoài,Linh,TXLUKD09,24032024.TXLUKD09.0003,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225487,Phan Thị Thanh,Huyền,TXLUKD09,24032024.TXLUKD09.0003,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225486,Vũ Nhật,Hồng,TXLUKD09,24032024.TXLUKD09.0003,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225484,Lê Thị Thuý,Hoa,TXLUKD09,24032024.TXLUKD09.0003,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225521,Đoàn Thanh,Việt,TXLUKD09,24032024.TXLUKD09.0003,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235109,Nguyễn Văn,Thanh,TXLUKD09,24032024.TXLUKD09.0002,Luật thương mại 2,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235413,Nguyễn Hoàng Phương,Uyên,TXLUKD1163,24032024.TXLUKD1163.0002,Pháp luật về đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235410,Kiều Thành,Trung,TXLUKD1163,24032024.TXLUKD1163.0002,Pháp luật về đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235405,Nguyễn Thị Hoài,Thương,TXLUKD1163,24032024.TXLUKD1163.0002,Pháp luật về đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235055,Nguyễn Phú,Cường,TXLUKD1163,24032024.TXLUKD1163.0002,Pháp luật về đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235078,Võ Thị Kim,Loan,TXLUKD1163,24032024.TXLUKD1163.0002,Pháp luật về đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235079,Lý Tấn,Lợi,TXLUKD1163,24032024.TXLUKD1163.0002,Pháp luật về đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235094,Nguyễn Quỳnh,Nhi,TXLUKD1163,24032024.TXLUKD1163.0002,Pháp luật về đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235352,Dư Huỳnh,Anh,TXLUKD1163,24032024.TXLUKD1163.0002,Pháp luật về đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235355,Hà Phạm Bảo,Châu,TXLUKD1163,24032024.TXLUKD1163.0002,Pháp luật về đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235356,Lê Ngọc,Châu,TXLUKD1163,24032024.TXLUKD1163.0002,Pháp luật về đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235360,Nguyễn Ngọc,Đạt,TXLUKD1163,24032024.TXLUKD1163.0002,Pháp luật về đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235361,Phạm Thành,Đạt,TXLUKD1163,24032024.TXLUKD1163.0002,Pháp luật về đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235409,Nguyễn Cao,Trí,TXLUKD1163,24032024.TXLUKD1163.0002,Pháp luật về đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235370,Võ Phước,Hoà,TXLUKD1163,24032024.TXLUKD1163.0002,Pháp luật về đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235363,Trần Hoàng Thúy,Hà,TXLUKD1163,24032024.TXLUKD1163.0002,Pháp luật về đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235372,Vũ Văn,Hùng,TXLUKD1163,24032024.TXLUKD1163.0002,Pháp luật về đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235401,Đặng Hồng,Thi,TXLUKD1163,24032024.TXLUKD1163.0002,Pháp luật về đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235398,Phạm Chí,Thanh,TXLUKD1163,24032024.TXLUKD1163.0002,Pháp luật về đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235371,Hà Khánh,Hoàng,TXLUKD1163,24032024.TXLUKD1163.0002,Pháp luật về đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235393,Đỗ Thị Nhật,Quỳnh,TXLUKD1163,24032024.TXLUKD1163.0002,Pháp luật về đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235390,Nguyễn Thị,Oanh,TXLUKD1163,24032024.TXLUKD1163.0002,Pháp luật về đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235397,Nguyễn Văn,Thạch,TXLUKD1163,24032024.TXLUKD1163.0002,Pháp luật về đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235385,Nguyễn Thành,Long,TXLUKD1163,24032024.TXLUKD1163.0002,Pháp luật về đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235384,Vũ Thuỳ,Linh,TXLUKD1163,24032024.TXLUKD1163.0002,Pháp luật về đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235374,Lê Quang,Khải,TXLUKD1163,24032024.TXLUKD1163.0002,Pháp luật về đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235373,Vương Thị Lệ,Huyền,TXLUKD1163,24032024.TXLUKD1163.0002,Pháp luật về đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235386,Phan Thị Thanh,Nga,TXLUKD1163,24032024.TXLUKD1163.0002,Pháp luật về đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235082,Nguyễn Bá Gia,Luân,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235049,Lê Nguyễn Hồng,Anh,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225670,Nguyễn Như,Khánh,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225475,Đào Thị Bích,Diễm,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225274,Nguyễn Đỗ Huỳnh,Mai,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225050,Vũ Thị,Hằng,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19215525,Trần Thị Tường,Vi,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235353,Phan Thị Kim,Ánh,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235355,Hà Phạm Bảo,Châu,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235354,Nguyễn Trần Gia,Bảo,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235385,Nguyễn Thành,Long,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235390,Nguyễn Thị,Oanh,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235407,Dư Huỳnh,Trâm,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235409,Nguyễn Cao,Trí,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235416,Nguyễn Thị Lạc,Vy,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235393,Đỗ Thị Nhật,Quỳnh,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235384,Vũ Thuỳ,Linh,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235374,Lê Quang,Khải,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235373,Vương Thị Lệ,Huyền,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235360,Nguyễn Ngọc,Đạt,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235356,Lê Ngọc,Châu,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235099,Nguyễn Diệu Hồng,Nhung,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225261,Hoàng Thu,Giang,TXLUKD1170,24032024.TXLUKD1170.0002,Luật WTO,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19215428,Nguyễn Ngọc Kim,Thoa,TXLUKD1170,24032024.TXLUKD1170.0001,Luật WTO,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19215431,Nguyễn Thị Thanh,Thủy,TXLUKD1170,24032024.TXLUKD1170.0001,Luật WTO,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19220600,Nguyễn Hồng,Hạnh,TXLUKD1170,24032024.TXLUKD1170.0002,Luật WTO,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225070,Phùng Thị Bích,Ngọc,TXLUKD1170,24032024.TXLUKD1170.0002,Luật WTO,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225254,Trần Thị Minh,Anh,TXLUKD1170,24032024.TXLUKD1170.0001,Luật WTO,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225255,Trần Thị Vi,Anh,TXLUKD1170,24032024.TXLUKD1170.0002,Luật WTO,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225267,Trần Thị Thùy,Hương,TXLUKD1170,24032024.TXLUKD1170.0002,Luật WTO,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225276,Nguyễn Thị Trà,Mi,TXLUKD1170,24032024.TXLUKD1170.0002,Luật WTO,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225271,Hoàng Thùy,Linh,TXLUKD1170,24032024.TXLUKD1170.0002,Luật WTO,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235354,Nguyễn Trần Gia,Bảo,TXLUKD1170,24032024.TXLUKD1170.0002,Luật WTO,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235353,Phan Thị Kim,Ánh,TXLUKD1170,24032024.TXLUKD1170.0002,Luật WTO,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235130,Trịnh Thị,Yến,TXLUKD1170,24032024.TXLUKD1170.0002,Luật WTO,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235122,Nguyễn Minh,Tường,TXLUKD1170,24032024.TXLUKD1170.0002,Luật WTO,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235079,Lý Tấn,Lợi,TXLUKD1170,24032024.TXLUKD1170.0002,Luật WTO,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235076,Trần Thị Giao,Linh,TXLUKD1170,24032024.TXLUKD1170.0002,Luật WTO,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225269,Ngô Thị Thanh,Huyền,TXLUKD1170,24032024.TXLUKD1170.0002,Luật WTO,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19230149,Lê Quang,Đăng,TXLUKD1170,24032024.TXLUKD1170.0001,Luật WTO,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225504,Trần Phước Bá,Phát,TXLUKD1170,24032024.TXLUKD1170.0002,Luật WTO,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225307,Nguyễn Minh,Vương,TXLUKD1170,24032024.TXLUKD1170.0002,Luật WTO,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225303,Ngô Duy,Tùng,TXLUKD1170,24032024.TXLUKD1170.0002,Luật WTO,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225300,Nguyễn Thị Huỳnh,Trang,TXLUKD1170,24032024.TXLUKD1170.0002,Luật WTO,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225282,Phan Bá,Ngọc,TXLUKD1170,24032024.TXLUKD1170.0002,Luật WTO,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225273,Lý Thị Khánh,Linh,TXLUKD1170,24032024.TXLUKD1170.0002,Luật WTO,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225646,Trần Nguyễn Vân,An,TXLUKD1170,24032024.TXLUKD1170.0002,Luật WTO,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235099,Nguyễn Diệu Hồng,Nhung,TXLUKD1170,24032024.TXLUKD1170.0002,Luật WTO,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19215108,Nguyễn Lưu Phúc,Nhân,TXLUKD1177,24032024.TXLUKD1177.0001,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19215218,Nguyễn Thị Tú,Chiêu,TXLUKD1177,24032024.TXLUKD1177.0002,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225267,Trần Thị Thùy,Hương,TXLUKD1177,24032024.TXLUKD1177.0002,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225254,Trần Thị Minh,Anh,TXLUKD1177,24032024.TXLUKD1177.0002,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225255,Trần Thị Vi,Anh,TXLUKD1177,24032024.TXLUKD1177.0002,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225259,Đào Xuân,Cường,TXLUKD1177,24032024.TXLUKD1177.0002,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19215428,Nguyễn Ngọc Kim,Thoa,TXLUKD1177,24032024.TXLUKD1177.0001,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225261,Hoàng Thu,Giang,TXLUKD1177,24032024.TXLUKD1177.0002,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19215039,Võ Quốc,Huy,TXLUKD1177,24032024.TXLUKD1177.0001,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225269,Ngô Thị Thanh,Huyền,TXLUKD1177,24032024.TXLUKD1177.0002,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235076,Trần Thị Giao,Linh,TXLUKD1177,24032024.TXLUKD1177.0002,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225273,Lý Thị Khánh,Linh,TXLUKD1177,24032024.TXLUKD1177.0002,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19220600,Nguyễn Hồng,Hạnh,TXLUKD1177,24032024.TXLUKD1177.0002,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235416,Nguyễn Thị Lạc,Vy,TXLUKD1177,24032024.TXLUKD1177.0002,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235130,Trịnh Thị,Yến,TXLUKD1177,24032024.TXLUKD1177.0002,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235122,Nguyễn Minh,Tường,TXLUKD1177,24032024.TXLUKD1177.0002,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235099,Nguyễn Diệu Hồng,Nhung,TXLUKD1177,24032024.TXLUKD1177.0002,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235089,Lê Thị Ánh,Nguyệt,TXLUKD1177,24032024.TXLUKD1177.0002,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235088,Nguyễn Dương Như,Ngọc,TXLUKD1177,24032024.TXLUKD1177.0002,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225271,Hoàng Thùy,Linh,TXLUKD1177,24032024.TXLUKD1177.0002,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235054,Nguyễn Văn,Cử,TXLUKD1177,24032024.TXLUKD1177.0002,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225646,Trần Nguyễn Vân,An,TXLUKD1177,24032024.TXLUKD1177.0002,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225307,Nguyễn Minh,Vương,TXLUKD1177,24032024.TXLUKD1177.0002,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225306,Lê Hoàng,Việt,TXLUKD1177,24032024.TXLUKD1177.0002,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225303,Ngô Duy,Tùng,TXLUKD1177,24032024.TXLUKD1177.0002,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225300,Nguyễn Thị Huỳnh,Trang,TXLUKD1177,24032024.TXLUKD1177.0002,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225282,Phan Bá,Ngọc,TXLUKD1177,24032024.TXLUKD1177.0002,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225276,Nguyễn Thị Trà,Mi,TXLUKD1177,24032024.TXLUKD1177.0002,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19230149,Lê Quang,Đăng,TXLUKD1177,24032024.TXLUKD1177.0002,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225090,Trần Nguyễn Thuỳ,Trang,TXLUKD1177,24032024.TXLUKD1177.0002,Pháp luật chứng khoán,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225671,Hoàng Thị Bích,Kim,TXLUKD1179,24032024.TXLUKD1179.0004,Pháp luật đấu thầu,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225662,Nguyễn Thị Mỹ,Hạnh,TXLUKD1179,24032024.TXLUKD1179.0004,Pháp luật đấu thầu,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235407,Dư Huỳnh,Trâm,TXLUKD1179,24032024.TXLUKD1179.0003,Pháp luật đấu thầu,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225648,Lê Thị Kiều,Anh,TXLUKD1179,24032024.TXLUKD1179.0004,Pháp luật đấu thầu,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235401,Đặng Hồng,Thi,TXLUKD1179,24032024.TXLUKD1179.0003,Pháp luật đấu thầu,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235395,Ngô Hồ,Sỹ,TXLUKD1179,24032024.TXLUKD1179.0003,Pháp luật đấu thầu,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235376,Nguyễn Văn,Khánh,TXLUKD1179,24032024.TXLUKD1179.0003,Pháp luật đấu thầu,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235352,Dư Huỳnh,Anh,TXLUKD1179,24032024.TXLUKD1179.0003,Pháp luật đấu thầu,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235130,Trịnh Thị,Yến,TXLUKD1179,24032024.TXLUKD1179.0003,Pháp luật đấu thầu,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235122,Nguyễn Minh,Tường,TXLUKD1179,24032024.TXLUKD1179.0003,Pháp luật đấu thầu,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235108,Hoàng Minh,Thắng,TXLUKD1179,24032024.TXLUKD1179.0003,Pháp luật đấu thầu,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235101,Trần Thị,Ninh,TXLUKD1179,24032024.TXLUKD1179.0003,Pháp luật đấu thầu,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235094,Nguyễn Quỳnh,Nhi,TXLUKD1179,24032024.TXLUKD1179.0003,Pháp luật đấu thầu,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235364,Nguyễn Đức,Hải,TXLUKD1179,24032024.TXLUKD1179.0003,Pháp luật đấu thầu,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235088,Nguyễn Dương Như,Ngọc,TXLUKD1179,24032024.TXLUKD1179.0003,Pháp luật đấu thầu,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235079,Lý Tấn,Lợi,TXLUKD1179,24032024.TXLUKD1179.0003,Pháp luật đấu thầu,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235076,Trần Thị Giao,Linh,TXLUKD1179,24032024.TXLUKD1179.0003,Pháp luật đấu thầu,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235074,Đỗ Thị Khánh,Linh,TXLUKD1179,24032024.TXLUKD1179.0003,Pháp luật đấu thầu,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235068,Đào Ngọc,Hiếu,TXLUKD1179,24032024.TXLUKD1179.0003,Pháp luật đấu thầu,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235054,Nguyễn Văn,Cử,TXLUKD1179,24032024.TXLUKD1179.0003,Pháp luật đấu thầu,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19230149,Lê Quang,Đăng,TXLUKD1179,24032024.TXLUKD1179.0003,Pháp luật đấu thầu,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225680,Nguyễn Văn,Nam,TXLUKD1179,24032024.TXLUKD1179.0004,Pháp luật đấu thầu,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225663,Nguyễn Thị Thanh,Hoa,TXLUKD1179,24032024.TXLUKD1179.0004,Pháp luật đấu thầu,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235089,Lê Thị Ánh,Nguyệt,TXLUKD1179,24032024.TXLUKD1179.0003,Pháp luật đấu thầu,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225678,Lê Ngọc,Minh,TXLUKD1179,24032024.TXLUKD1179.0004,Pháp luật đấu thầu,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225090,Trần Nguyễn Thuỳ,Trang,TXLUKD1181,24032024.TXLUKD1181.0005,Pháp luật giao dịch điện tử,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225254,Trần Thị Minh,Anh,TXLUKD1181,24032024.TXLUKD1181.0005,Pháp luật giao dịch điện tử,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225285,Nguyễn Thị Quỳnh,Như,TXLUKD1181,24032024.TXLUKD1181.0005,Pháp luật giao dịch điện tử,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225296,Bùi Quang,Thiện,TXLUKD1181,24032024.TXLUKD1181.0005,Pháp luật giao dịch điện tử,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225521,Đoàn Thanh,Việt,TXLUKD1181,24032024.TXLUKD1181.0005,Pháp luật giao dịch điện tử,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19230149,Lê Quang,Đăng,TXLUKD1181,24032024.TXLUKD1181.0005,Pháp luật giao dịch điện tử,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235074,Đỗ Thị Khánh,Linh,TXLUKD1181,24032024.TXLUKD1181.0005,Pháp luật giao dịch điện tử,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235076,Trần Thị Giao,Linh,TXLUKD1181,24032024.TXLUKD1181.0005,Pháp luật giao dịch điện tử,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235099,Nguyễn Diệu Hồng,Nhung,TXLUKD1181,24032024.TXLUKD1181.0005,Pháp luật giao dịch điện tử,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235122,Nguyễn Minh,Tường,TXLUKD1181,24032024.TXLUKD1181.0005,Pháp luật giao dịch điện tử,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235130,Trịnh Thị,Yến,TXLUKD1181,24032024.TXLUKD1181.0005,Pháp luật giao dịch điện tử,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235395,Ngô Hồ,Sỹ,TXLUKD1181,24032024.TXLUKD1181.0005,Pháp luật giao dịch điện tử,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235401,Đặng Hồng,Thi,TXLUKD1181,24032024.TXLUKD1181.0005,Pháp luật giao dịch điện tử,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235416,Nguyễn Thị Lạc,Vy,TXLUKD1181,24032024.TXLUKD1181.0005,Pháp luật giao dịch điện tử,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19215410,Trương Ngọc Minh,Châu,TXLUKD1181,24032024.TXLUKD1181.0001,Pháp luật giao dịch điện tử,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235101,Trần Thị,Ninh,TXLUKD1181,24032024.TXLUKD1181.0005,Pháp luật giao dịch điện tử,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225705,Kiều Thảo,Vi,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225674,Nguyễn Thị Kim,Linh,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19215615,Nguyễn Ngọc Hà,Trang,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225072,Ngô Thị Ánh,Nguyệt,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225260,Trần Hải,Duyên,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225525,Đặng Nguyễn Thảo,Vy,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225648,Lê Thị Kiều,Anh,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225652,Trần Danh,Chung,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225662,Nguyễn Thị Mỹ,Hạnh,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225670,Nguyễn Như,Khánh,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235409,Nguyễn Cao,Trí,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225676,Lê Phước,Lợi,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235401,Đặng Hồng,Thi,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235390,Nguyễn Thị,Oanh,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235385,Nguyễn Thành,Long,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235384,Vũ Thuỳ,Linh,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235374,Lê Quang,Khải,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235370,Võ Phước,Hoà,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235360,Nguyễn Ngọc,Đạt,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235356,Lê Ngọc,Châu,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235355,Hà Phạm Bảo,Châu,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235117,Nguyễn Thị,Thu,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235082,Nguyễn Bá Gia,Luân,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235393,Đỗ Thị Nhật,Quỳnh,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19221190,Nguyễn Đình,Hùng,TXLUKD1186,24032024.TXLUKD1186.0004,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19215611,Lê Thị Hoài,Thương,TXLUKD1186,24032024.TXLUKD1186.0001,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225492,Lê Ngọc,Lý,TXLUKD1186,24032024.TXLUKD1186.0004,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225490,Phạm Đào Hoài,Linh,TXLUKD1186,24032024.TXLUKD1186.0004,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225047,Nguyễn Phạm Ngọc Kiều,Diễm,TXLUKD1186,24032024.TXLUKD1186.0003,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19215410,Trương Ngọc Minh,Châu,TXLUKD1186,24032024.TXLUKD1186.0001,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225072,Ngô Thị Ánh,Nguyệt,TXLUKD1186,24032024.TXLUKD1186.0004,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225518,Hồ Văn,Út,TXLUKD1186,24032024.TXLUKD1186.0004,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225469,Đặng Thùy,Anh,TXLUKD1186,24032024.TXLUKD1186.0004,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225512,Lê Thanh,Thủy,TXLUKD1186,24032024.TXLUKD1186.0004,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225486,Vũ Nhật,Hồng,TXLUKD1186,24032024.TXLUKD1186.0004,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225521,Đoàn Thanh,Việt,TXLUKD1186,24032024.TXLUKD1186.0004,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225522,Nguyễn Kim,Việt,TXLUKD1186,24032024.TXLUKD1186.0004,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225674,Nguyễn Thị Kim,Linh,TXLUKD1186,24032024.TXLUKD1186.0004,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225690,Phạm Hùng,Phát,TXLUKD1186,24032024.TXLUKD1186.0004,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235099,Nguyễn Diệu Hồng,Nhung,TXLUKD1186,24032024.TXLUKD1186.0003,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235117,Nguyễn Thị,Thu,TXLUKD1186,24032024.TXLUKD1186.0003,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235352,Dư Huỳnh,Anh,TXLUKD1186,24032024.TXLUKD1186.0004,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235353,Phan Thị Kim,Ánh,TXLUKD1186,24032024.TXLUKD1186.0004,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225497,Phan Thị,Ngọc,TXLUKD1186,24032024.TXLUKD1186.0004,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235354,Nguyễn Trần Gia,Bảo,TXLUKD1186,24032024.TXLUKD1186.0004,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235356,Lê Ngọc,Châu,TXLUKD1186,24032024.TXLUKD1186.0003,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235370,Võ Phước,Hoà,TXLUKD1186,24032024.TXLUKD1186.0004,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235371,Hà Khánh,Hoàng,TXLUKD1186,24032024.TXLUKD1186.0004,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235374,Lê Quang,Khải,TXLUKD1186,24032024.TXLUKD1186.0004,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235384,Vũ Thuỳ,Linh,TXLUKD1186,24032024.TXLUKD1186.0003,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235385,Nguyễn Thành,Long,TXLUKD1186,24032024.TXLUKD1186.0003,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235390,Nguyễn Thị,Oanh,TXLUKD1186,24032024.TXLUKD1186.0003,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235401,Đặng Hồng,Thi,TXLUKD1186,24032024.TXLUKD1186.0004,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225271,Hoàng Thùy,Linh,TXLUKD1186,24032024.TXLUKD1186.0004,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235393,Đỗ Thị Nhật,Quỳnh,TXLUKD1186,24032024.TXLUKD1186.0004,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235355,Hà Phạm Bảo,Châu,TXLUKD1186,24032024.TXLUKD1186.0004,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225496,Phạm Hồng,Ngọc,TXLUKD1186,24032024.TXLUKD1186.0004,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235360,Nguyễn Ngọc,Đạt,TXLUKD1186,24032024.TXLUKD1186.0004,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225479,Phạm Thuỳ Long,Giang,TXLUKD1186,24032024.TXLUKD1186.0004,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225478,Đào Lâm Mỹ,Duyên,TXLUKD1186,24032024.TXLUKD1186.0004,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235409,Nguyễn Cao,Trí,TXLUKD1186,24032024.TXLUKD1186.0003,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225484,Lê Thị Thuý,Hoa,TXLUKD1186,24032024.TXLUKD1186.0004,Pháp luật môi trường,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19210876,Ngô Anh,Đức,TXLUKD1187,24032024.TXLUKD1187.0003,Pháp luật ngân hàng,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19215064,Võ Văn,Huấn,TXLUKD1187,24032024.TXLUKD1187.0001,Pháp luật ngân hàng,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19215271,Trần Minh,Nghĩa,TXLUKD1187,24032024.TXLUKD1187.0003,Pháp luật ngân hàng,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19215275,Vi Thị Hoài,Thương,TXLUKD1187,24032024.TXLUKD1187.0003,Pháp luật ngân hàng,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225254,Trần Thị Minh,Anh,TXLUKD1187,24032024.TXLUKD1187.0003,Pháp luật ngân hàng,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225260,Trần Hải,Duyên,TXLUKD1187,24032024.TXLUKD1187.0003,Pháp luật ngân hàng,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225276,Nguyễn Thị Trà,Mi,TXLUKD1187,24032024.TXLUKD1187.0003,Pháp luật ngân hàng,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225296,Bùi Quang,Thiện,TXLUKD1187,24032024.TXLUKD1187.0003,Pháp luật ngân hàng,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235395,Ngô Hồ,Sỹ,TXLUKD1187,24032024.TXLUKD1187.0003,Pháp luật ngân hàng,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225713,Ngô An,Hạ,TXLUKD1187,24032024.TXLUKD1187.0003,Pháp luật ngân hàng,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235390,Nguyễn Thị,Oanh,TXLUKD1187,24032024.TXLUKD1187.0003,Pháp luật ngân hàng,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225699,Bùi Văn,Toàn,TXLUKD1187,24032024.TXLUKD1187.0003,Pháp luật ngân hàng,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235130,Trịnh Thị,Yến,TXLUKD1187,24032024.TXLUKD1187.0003,Pháp luật ngân hàng,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235122,Nguyễn Minh,Tường,TXLUKD1187,24032024.TXLUKD1187.0003,Pháp luật ngân hàng,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235352,Dư Huỳnh,Anh,TXLUKD1187,24032024.TXLUKD1187.0003,Pháp luật ngân hàng,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235076,Trần Thị Giao,Linh,TXLUKD1187,24032024.TXLUKD1187.0003,Pháp luật ngân hàng,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235074,Đỗ Thị Khánh,Linh,TXLUKD1187,24032024.TXLUKD1187.0003,Pháp luật ngân hàng,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225723,Lê Thị Hà,Thanh,TXLUKD1187,24032024.TXLUKD1187.0003,Pháp luật ngân hàng,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235107,Nguyễn Thị Kim,Quý,TXLUKD1187,24032024.TXLUKD1187.0003,Pháp luật ngân hàng,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235407,Dư Huỳnh,Trâm,TXLUKD1187,24032024.TXLUKD1187.0003,Pháp luật ngân hàng,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225495,Nguyễn Đăng,Nam,TXLUKD1188,24032024.TXLUKD1188.0004,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235088,Nguyễn Dương Như,Ngọc,TXLUKD1188,24032024.TXLUKD1188.0003,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235407,Dư Huỳnh,Trâm,TXLUKD1188,24032024.TXLUKD1188.0003,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235394,Hoàng Công,Sĩ,TXLUKD1188,24032024.TXLUKD1188.0004,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235094,Nguyễn Quỳnh,Nhi,TXLUKD1188,24032024.TXLUKD1188.0003,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235089,Lê Thị Ánh,Nguyệt,TXLUKD1188,24032024.TXLUKD1188.0003,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225492,Lê Ngọc,Lý,TXLUKD1188,24032024.TXLUKD1188.0004,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19221288,Lê Huy,Vũ,TXLUKD1188,24032024.TXLUKD1188.0004,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225678,Lê Ngọc,Minh,TXLUKD1188,24032024.TXLUKD1188.0004,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225521,Đoàn Thanh,Việt,TXLUKD1188,24032024.TXLUKD1188.0004,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225518,Hồ Văn,Út,TXLUKD1188,24032024.TXLUKD1188.0004,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225513,Vũ Đức,Thụy,TXLUKD1188,24032024.TXLUKD1188.0004,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225500,Nguyễn Ánh,Nguyệt,TXLUKD1188,24032024.TXLUKD1188.0004,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225497,Phan Thị,Ngọc,TXLUKD1188,24032024.TXLUKD1188.0004,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225496,Phạm Hồng,Ngọc,TXLUKD1188,24032024.TXLUKD1188.0004,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19215253,Hàng Thanh,Trà,TXLUKD1188,24032024.TXLUKD1188.0004,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19215420,Nguyễn Thị Thanh,Nhi,TXLUKD1188,24032024.TXLUKD1188.0001,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19221190,Nguyễn Đình,Hùng,TXLUKD1188,24032024.TXLUKD1188.0004,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235074,Đỗ Thị Khánh,Linh,TXLUKD1188,24032024.TXLUKD1188.0003,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225522,Nguyễn Kim,Việt,TXLUKD1188,24032024.TXLUKD1188.0004,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225267,Trần Thị Thùy,Hương,TXLUKD1188,24032024.TXLUKD1188.0003,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225679,Ngô Cao Bình,Minh,TXLUKD1188,24032024.TXLUKD1188.0004,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225478,Đào Lâm Mỹ,Duyên,TXLUKD1188,24032024.TXLUKD1188.0004,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225479,Phạm Thuỳ Long,Giang,TXLUKD1188,24032024.TXLUKD1188.0004,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225484,Lê Thị Thuý,Hoa,TXLUKD1188,24032024.TXLUKD1188.0004,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225486,Vũ Nhật,Hồng,TXLUKD1188,24032024.TXLUKD1188.0004,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225487,Phan Thị Thanh,Huyền,TXLUKD1188,24032024.TXLUKD1188.0004,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225490,Phạm Đào Hoài,Linh,TXLUKD1188,24032024.TXLUKD1188.0004,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225680,Nguyễn Văn,Nam,TXLUKD1188,24032024.TXLUKD1188.0004,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225690,Phạm Hùng,Phát,TXLUKD1188,24032024.TXLUKD1188.0004,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225700,Dương Thị Thùy,Trang,TXLUKD1188,24032024.TXLUKD1188.0004,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235054,Nguyễn Văn,Cử,TXLUKD1188,24032024.TXLUKD1188.0003,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225469,Đặng Thùy,Anh,TXLUKD1188,24032024.TXLUKD1188.0004,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225659,Hoàng Thị Thanh,Hà,TXLUKD1188,24032024.TXLUKD1188.0004,Pháp luật tài chính,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19205163,Lê Thị Minh,Tuyết,TXLUKD12,24032024.TXLUKD12.0001,Luật lao động,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235395,Ngô Hồ,Sỹ,TXLUKD12,24032024.TXLUKD12.0002,Luật lao động,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235390,Nguyễn Thị,Oanh,TXLUKD12,24032024.TXLUKD12.0002,Luật lao động,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235123,Lâm Hải,Vân,TXLUKD12,24032024.TXLUKD12.0002,Luật lao động,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235364,Nguyễn Đức,Hải,TXLUKD12,24032024.TXLUKD12.0002,Luật lao động,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19215253,Hàng Thanh,Trà,TXLUKD12,24032024.TXLUKD12.0003,Luật lao động,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225054,Huỳnh Giang,Huy,TXLUKD12,24032024.TXLUKD12.0002,Luật lao động,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225490,Phạm Đào Hoài,Linh,TXLUKD12,24032024.TXLUKD12.0003,Luật lao động,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225492,Lê Ngọc,Lý,TXLUKD12,24032024.TXLUKD12.0003,Luật lao động,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225497,Phan Thị,Ngọc,TXLUKD12,24032024.TXLUKD12.0003,Luật lao động,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225521,Đoàn Thanh,Việt,TXLUKD12,24032024.TXLUKD12.0003,Luật lao động,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225678,Lê Ngọc,Minh,TXLUKD12,24032024.TXLUKD12.0002,Luật lao động,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225680,Nguyễn Văn,Nam,TXLUKD12,24032024.TXLUKD12.0003,Luật lao động,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235063,Hà Thị Hồng,Duyên,TXLUKD12,24032024.TXLUKD12.0002,Luật lao động,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235068,Đào Ngọc,Hiếu,TXLUKD12,24032024.TXLUKD12.0002,Luật lao động,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235093,Hồ Thị Yến,Nhi,TXLUKD12,24032024.TXLUKD12.0002,Luật lao động,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235101,Trần Thị,Ninh,TXLUKD12,24032024.TXLUKD12.0002,Luật lao động,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235108,Hoàng Minh,Thắng,TXLUKD12,24032024.TXLUKD12.0002,Luật lao động,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235114,Nguyễn Ngọc Long,Thịnh,TXLUKD12,24032024.TXLUKD12.0002,Luật lao động,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235115,Võ,Thịnh,TXLUKD12,24032024.TXLUKD12.0002,Luật lao động,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235118,Lê Ngọc Anh,Thuý,TXLUKD12,24032024.TXLUKD12.0002,Luật lao động,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235119,Trần Thị,Thuỷ,TXLUKD12,24032024.TXLUKD12.0002,Luật lao động,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235120,Phan Thị,Thủy,TXLUKD12,24032024.TXLUKD12.0002,Luật lao động,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235121,Trần Thị Phương,Trúc,TXLUKD12,24032024.TXLUKD12.0002,Luật lao động,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235122,Nguyễn Minh,Tường,TXLUKD12,24032024.TXLUKD12.0002,Luật lao động,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235124,Trương Thị,Vân,TXLUKD12,24032024.TXLUKD12.0002,Luật lao động,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235370,Võ Phước,Hoà,TXLUKD12,24032024.TXLUKD12.0002,Luật lao động,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225659,Hoàng Thị Thanh,Hà,TXLUKD12,24032024.TXLUKD12.0003,Luật lao động,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235101,Trần Thị,Ninh,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19215431,Nguyễn Thị Thanh,Thủy,TXLUKD13,24032024.TXLUKD13.0001,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19215253,Hàng Thanh,Trà,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235401,Đặng Hồng,Thi,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235394,Hoàng Công,Sĩ,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235384,Vũ Thuỳ,Linh,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235372,Vũ Văn,Hùng,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235112,Trần Thu,Thảo,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235074,Đỗ Thị Khánh,Linh,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235066,Vũ Hoàng,Giang,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235395,Ngô Hồ,Sỹ,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225521,Đoàn Thanh,Việt,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225492,Lê Ngọc,Lý,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225296,Bùi Quang,Thiện,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225274,Nguyễn Đỗ Huỳnh,Mai,TXLUKD13,24032024.TXLUKD13.0002,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225267,Trần Thị Thùy,Hương,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225093,Nguyễn Hoàng,Yến,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225678,Lê Ngọc,Minh,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225054,Huỳnh Giang,Huy,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225778,Huỳnh Trọng,Lượng,TXMKMA02,24032024.TXMKMA02.0007,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19225808,Hoàng Thị,Thủy,TXMKMA02,24032024.TXMKMA02.0007,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19225816,Trần Minh,Tú,TXMKMA02,24032024.TXMKMA02.0007,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19231740,Trần Đức,Thắng,TXMKMA02,24032024.TXMKMA02.0006,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235143,Trịnh Thị Thu,Hoài,TXMKMA02,24032024.TXMKMA02.0006,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235164,Huỳnh Thị Mỹ,Trân,TXMKMA02,24032024.TXMKMA02.0006,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235162,Nguyễn Phạm Hoàng,Thúc,TXMKMA02,24032024.TXMKMA02.0006,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235168,Phạm Thị Kim,Yến,TXMKMA02,24032024.TXMKMA02.0006,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235224,Trần Thị Tuyết,Linh,TXMKMA02,24032024.TXMKMA02.0007,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235256,Ngô Thành,Phúc,TXMKMA02,24032024.TXMKMA02.0007,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19225731,Lê Công,Anh,TXMKMA02,24032024.TXMKMA02.0007,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235159,Trần Diễm,Thanh,TXMKMA02,24032024.TXMKMA02.0007,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19225596,Lại Minh,Quang,TXMKMA02,24032024.TXMKMA02.0008,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19225550,Nguyễn Thị Lan,Anh,TXMKMA02,24032024.TXMKMA02.0008,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19225585,Nguyễn Vũ,Luân,TXMKMA02,24032024.TXMKMA02.0008,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19225582,Trần Khánh,Linh,TXMKMA02,24032024.TXMKMA02.0008,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19225580,Nguyễn Thu,Lan,TXMKMA02,24032024.TXMKMA02.0008,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19225565,Nguyễn Trường,Duy,TXMKMA02,24032024.TXMKMA02.0008,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19225559,Lê Công,Cường,TXMKMA02,24032024.TXMKMA02.0008,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19225558,Nguyễn Đặng,Của,TXMKMA02,24032024.TXMKMA02.0008,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19225556,Lê Đức,Chiều,TXMKMA02,24032024.TXMKMA02.0007,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235278,Phạm Thị Thanh,Thảo,TXMKMA02,24032024.TXMKMA02.0006,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19225408,Mai Thanh,Tùng,TXMKMA02,24032024.TXMKMA02.0007,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19225130,Bùi Thanh,Hải,TXMKMA02,24032024.TXMKMA02.0007,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19225118,Nguyễn Cao Quốc,Cường,TXMKMA02,24032024.TXMKMA02.0007,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19222391,Hồ Thị,Thúy,TXMKMA02,24032024.TXMKMA02.0007,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19215450,Bùi Thị,Hà,TXMKMA02,24032024.TXMKMA02.0001,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19215273,Trần Nguyễn Nhật,Quỳnh,TXMKMA02,24032024.TXMKMA02.0007,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19225588,Nguyễn Thị Thu,Nga,TXMKMA02,24032024.TXMKMA02.0008,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235296,Nguyễn Phú Huỳnh,Trang,TXMKMA02,24032024.TXMKMA02.0007,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235445,Đỗ Minh,Huy,TXMKMA02,24032024.TXMKMA02.0006,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235420,Huỳnh Lê,Anh,TXMKMA02,24032024.TXMKMA02.0007,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235495,Võ Nguyễn Phương,Thy,TXMKMA02,24032024.TXMKMA02.0006,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235496,Lê Thanh,Tiến,TXMKMA02,24032024.TXMKMA02.0007,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235499,Quách Thị Bảo,Trâm,TXMKMA02,24032024.TXMKMA02.0007,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235502,Bùi Lê Hiếu,Trung,TXMKMA02,24032024.TXMKMA02.0006,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235505,Nguyễn Mạnh,Tuấn,TXMKMA02,24032024.TXMKMA02.0007,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235536,Cao Trần Quỳnh,Yến,TXMKMA02,24032024.TXMKMA02.0007,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235580,Vũ Thị Mỹ,Anh,TXMKMA02,24032024.TXMKMA02.0001,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235598,Nguyễn Thị Kim,Hằng,TXMKMA02,24032024.TXMKMA02.0001,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235629,Huỳnh Trung,Nghĩa,TXMKMA02,24032024.TXMKMA02.0001,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235644,Cáp Kim,Quang,TXMKMA02,24032024.TXMKMA02.0001,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235671,Trần Văn,Tiền,TXMKMA02,24032024.TXMKMA02.0001,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235733,Trần Hoàng Anh,Thư,TXMKMA02,24032024.TXMKMA02.0001,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235485,Lê Phạm Thanh,Thanh,TXMKMA02,24032024.TXMKMA02.0006,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235483,Phạm Hồng,Thắng,TXMKMA02,24032024.TXMKMA02.0007,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235480,Nguyễn Văn,Tài,TXMKMA02,24032024.TXMKMA02.0006,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235475,Trần Chu,Sa,TXMKMA02,24032024.TXMKMA02.0007,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235474,Phan Hoàng,Quân,TXMKMA02,24032024.TXMKMA02.0006,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235473,Trần Danh,Oanh,TXMKMA02,24032024.TXMKMA02.0006,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235472,Võ Yến,Như,TXMKMA02,24032024.TXMKMA02.0006,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235466,Lê Hồ Quỳnh,Ngân,TXMKMA02,24032024.TXMKMA02.0006,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235458,Trần Thị,Linh,TXMKMA02,24032024.TXMKMA02.0006,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235454,Phí Ngọc,Khánh,TXMKMA02,24032024.TXMKMA02.0006,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235449,Nguyễn Thị Thúy,Huyền,TXMKMA02,24032024.TXMKMA02.0007,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235443,Nguyễn Đặng Quỳnh,Hương,TXMKMA02,24032024.TXMKMA02.0006,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235433,Lê Thị Thùy,Dương,TXMKMA02,24032024.TXMKMA02.0007,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235431,Trần Thành,Đạt,TXMKMA02,24032024.TXMKMA02.0007,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235426,Trần Minh,Chiến,TXMKMA02,24032024.TXMKMA02.0007,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235424,Nguyễn Thị Ngọc,Ánh,TXMKMA02,24032024.TXMKMA02.0006,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235422,Phan Kế,Anh,TXMKMA02,24032024.TXMKMA02.0006,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235311,Nguyễn Thị Hương,Xuân,TXMKMA02,24032024.TXMKMA02.0007,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235464,Cao Huỳnh Kim,Ngân,TXMKMA02,24032024.TXMKMA02.0007,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19225555,Vũ Quốc,Bảo,TXMKMA02,24032024.TXMKMA02.0001,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19225616,Trương Huyền,Trinh,TXMKMA02,24032024.TXMKMA02.0001,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235781,Mai Thị Phương,Thảo,TXMKMA02,24032024.TXMKMA02.0001,Quản trị Marketing,3,Bộ môn Marketing,Khoa Marketing
+HCM,19235728,Phạm Bích,Phượng,TXLLNL1107,24032024.TXLLNL1107.0003,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235732,Nguyễn Đình,Thắng,TXLLNL1107,24032024.TXLLNL1107.0003,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19221651,Nguyễn Văn,Công,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235736,Lê  Mạnh,Tuấn,TXLLNL1107,24032024.TXLLNL1107.0003,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235734,Nguyễn Hoàng Nhật,Tiến,TXLLNL1107,24032024.TXLLNL1107.0003,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235472,Võ Yến,Như,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235727,Trần Nguyễn Hồng,Phúc,TXLLNL1107,24032024.TXLLNL1107.0003,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235682,Thiều Quang,Tú,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235683,Hồ Trọng,Tuấn,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235686,Bành Ngọc Tố,Uyên,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235689,Nguyễn Bá,Vinh,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235700,Nguyễn Ngọc Bảo,Yến,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235705,Phùng Thế,Anh,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19215562,Nông Thanh,Thuỷ,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235710,NGUYỄN TẤN,ĐÔNG,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235712,Lê Văn,Giáp,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235715,Trương Thị Bé,Hoài,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235717,Lê Thế,Hưng,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235719,Trần Như,Lai,TXLLNL1107,24032024.TXLLNL1107.0003,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235720,Đặng Thị Trúc,Linh,TXLLNL1107,24032024.TXLLNL1107.0003,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235723,Dương Thị Trà,Mi,TXLLNL1107,24032024.TXLLNL1107.0003,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235711,Phạm Tiến,Dũng,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19215218,Nguyễn Thị Tú,Chiêu,TXLLNL1107,24032024.TXLLNL1107.0012,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235752,Lê Quang,Nội,TXLLNL1107,24032024.TXLLNL1107.0001,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235449,Nguyễn Thị Thúy,Huyền,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235473,Trần Danh,Oanh,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235476,Ngụy Thái,Sang,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235480,Nguyễn Văn,Tài,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235483,Phạm Hồng,Thắng,TXLLNL1107,24032024.TXLLNL1107.0008,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235485,Lê Phạm Thanh,Thanh,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235377,Nguyễn Hoàng,Kim,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235495,Võ Nguyễn Phương,Thy,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235407,Dư Huỳnh,Trâm,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235417,Huỳnh Thị Trường,An,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235420,Huỳnh Lê,Anh,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235422,Phan Kế,Anh,TXLLNL1107,24032024.TXLLNL1107.0008,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235426,Trần Minh,Chiến,TXLLNL1107,24032024.TXLLNL1107.0008,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235445,Đỗ Minh,Huy,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235352,Dư Huỳnh,Anh,TXLLNL1107,24032024.TXLLNL1107.0008,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235431,Trần Thành,Đạt,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235433,Lê Thị Thùy,Dương,TXLLNL1107,24032024.TXLLNL1107.0008,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235681,Đỗ Thanh,Truyền,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235470,Nguyễn Lê Thảo,Nhi,TXLLNL1107,24032024.TXLLNL1107.0008,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235772,Trần Thị Thu,Huyền,TXLLNL1107,24032024.TXLLNL1107.0001,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235766,Ka,Hảo,TXLLNL1107,24032024.TXLLNL1107.0001,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235763,Đoàn Huệ,Chi,TXLLNL1107,24032024.TXLLNL1107.0001,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235761,Dương Gia,Bảo,TXLLNL1107,24032024.TXLLNL1107.0001,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235754,Nguyễn Thị,Tho,TXLLNL1107,24032024.TXLLNL1107.0001,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235466,Lê Hồ Quỳnh,Ngân,TXLLNL1107,24032024.TXLLNL1107.0008,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235458,Trần Thị,Linh,TXLLNL1107,24032024.TXLLNL1107.0008,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235454,Phí Ngọc,Khánh,TXLLNL1107,24032024.TXLLNL1107.0008,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235496,Lê Thanh,Tiến,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235679,Trần Đức,Trọng,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225713,Ngô An,Hạ,TXLLNL1107,24032024.TXLLNL1107.0010,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235675,Nguyễn Trần Huyền,Trang,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235502,Bùi Lê Hiếu,Trung,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235505,Nguyễn Mạnh,Tuấn,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235546,Phạm Thị,Hồng,TXLLNL1107,24032024.TXLLNL1107.0001,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235547,Phan Thị Thu,Huế,TXLLNL1107,24032024.TXLLNL1107.0001,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235556,Lục Thị Mỹ,Lợi,TXLLNL1107,24032024.TXLLNL1107.0001,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235559,Phạm Thị Kiều,Ngân,TXLLNL1107,24032024.TXLLNL1107.0001,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235561,Phan Thị Cẩm,Nhi,TXLLNL1107,24032024.TXLLNL1107.0001,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235563,Võ Đức,Phường,TXLLNL1107,24032024.TXLLNL1107.0001,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235564,Chí Ngọc,Phượng,TXLLNL1107,24032024.TXLLNL1107.0001,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235565,Nguyễn Thị Kim,Phượng,TXLLNL1107,24032024.TXLLNL1107.0001,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235571,Phan Thị,Thúy,TXLLNL1107,24032024.TXLLNL1107.0001,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225154,Lê Thị Trà,My,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225142,Lê Tự Bảo,Khánh,TXLLNL1107,24032024.TXLLNL1107.0008,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225130,Bùi Thanh,Hải,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19222188,Vũ Thị,Hằng,TXLLNL1107,24032024.TXLLNL1107.0010,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235499,Quách Thị Bảo,Trâm,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235572,Trần Thị,Toán,TXLLNL1107,24032024.TXLLNL1107.0001,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225334,Bùi Thị Cúc Anh,Đào,TXLLNL1107,24032024.TXLLNL1107.0008,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225348,Lương Viết Đình,Hoàng,TXLLNL1107,24032024.TXLLNL1107.0008,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225527,Dương Vân,Anh,TXLLNL1107,24032024.TXLLNL1107.0010,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225616,Trương Huyền,Trinh,TXLLNL1107,24032024.TXLLNL1107.0012,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225623,Phạm Thị,Giang,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225624,Lê Thu,Hà,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225626,Trần Thị Mỹ,Hòa,TXLLNL1107,24032024.TXLLNL1107.0010,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225639,Trịnh Bá,Thành,TXLLNL1107,24032024.TXLLNL1107.0010,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225652,Trần Danh,Chung,TXLLNL1107,24032024.TXLLNL1107.0010,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225664,Nguyễn Phú,Hoài,TXLLNL1107,24032024.TXLLNL1107.0010,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225670,Nguyễn Như,Khánh,TXLLNL1107,24032024.TXLLNL1107.0010,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225680,Nguyễn Văn,Nam,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225690,Phạm Hùng,Phát,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225525,Đặng Nguyễn Thảo,Vy,TXLLNL1107,24032024.TXLLNL1107.0011,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225465,Phạm Thị Hồng,Vân,TXLLNL1107,24032024.TXLLNL1107.0013,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225408,Mai Thanh,Tùng,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225390,Đặng Huỳnh Anh,Thư,TXLLNL1107,24032024.TXLLNL1107.0008,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225339,Nguyễn Hồng,Hạnh,TXLLNL1107,24032024.TXLLNL1107.0008,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235573,Phạm Quốc,Toàn,TXLLNL1107,24032024.TXLLNL1107.0001,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235576,Đặng Thu,Anh,TXLLNL1107,24032024.TXLLNL1107.0001,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235578,Nguyễn Ngọc,Anh,TXLLNL1107,24032024.TXLLNL1107.0001,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235633,Lê Thành,Nhân,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235644,Cáp Kim,Quang,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235648,Nguyễn Thị,Quyên,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235653,Lê Thị,Tâm,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235659,Trần Anh,Thảo,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225699,Bùi Văn,Toàn,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225700,Dương Thị Thùy,Trang,TXLLNL1107,24032024.TXLLNL1107.0010,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225702,Lê Ngọc Đoan,Trinh,TXLLNL1107,24032024.TXLLNL1107.0010,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225715,Bùi Quang,Huy,TXLLNL1107,24032024.TXLLNL1107.0010,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225722,Lê Vũ Nhân,Tạo,TXLLNL1107,24032024.TXLLNL1107.0010,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225740,Bùi Minh,Chiến,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225758,Đào Thị,Hoa,TXLLNL1107,24032024.TXLLNL1107.0010,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225818,Lê Thanh,Tuấn,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235224,Trần Thị Tuyết,Linh,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235443,Nguyễn Đặng Quỳnh,Hương,TXLLNL1107,24032024.TXLLNL1107.0009,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235632,Nguyễn Thị Kim,Ngọc,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235631,Nguyễn Bích,Ngọc,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235629,Huỳnh Trung,Nghĩa,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235627,Bùi Thị,Năm,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235580,Vũ Thị Mỹ,Anh,TXLLNL1107,24032024.TXLLNL1107.0001,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235584,Nguyễn Tấn,Đạt,TXLLNL1107,24032024.TXLLNL1107.0001,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235587,Nguyễn,Dũng,TXLLNL1107,24032024.TXLLNL1107.0001,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235593,Nguyễn Thị Thanh,Hà,TXLLNL1107,24032024.TXLLNL1107.0001,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235599,Nguyễn Mai,Hậu,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235602,Lưu Thị,Hiền,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235604,Phạm Bích,Hiền,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235677,Đỗ Thị Tú,Trinh,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235608,Nguyễn Thái,Học,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235611,Nguyễn Thị Thanh,Huyền,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235612,Nguyễn Thu,Huyền,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235616,Đặng Thị Ngọc,Linh,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235619,Đinh Thị Ngọc,Mai,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235622,Phong Thảo,Minh,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235624,Ngô Hà,My,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235626,Nguyễn Phương,Nam,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235610,Dương Khánh,Huy,TXLLNL1107,24032024.TXLLNL1107.0002,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225122,Cao Thuỳ Thục,Đoan,TXLLNL1107,24032024.TXLLNL1107.0008,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19235256,Ngô Thành,Phúc,TXLLNL1107,24032024.TXLLNL1107.0008,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225551,Trương Thụy Lâm,Anh,TXLLNL1107,24032024.TXLLNL1107.0001,Chủ nghĩa xã hội khoa học,2,Bộ môn Những nguyên lý cơ bản của Chủ nghĩa Mác-Lênin,Khoa Lý luận Chính trị
+HCM,19225690,Phạm Hùng,Phát,TXLUKD1180,24032024.TXLUKD1180.0003,Pháp luật đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225676,Lê Phước,Lợi,TXLUKD1180,24032024.TXLUKD1180.0003,Pháp luật đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225674,Nguyễn Thị Kim,Linh,TXLUKD1180,24032024.TXLUKD1180.0003,Pháp luật đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225671,Hoàng Thị Bích,Kim,TXLUKD1180,24032024.TXLUKD1180.0003,Pháp luật đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225670,Nguyễn Như,Khánh,TXLUKD1180,24032024.TXLUKD1180.0003,Pháp luật đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225296,Bùi Quang,Thiện,TXLUKD1180,24032024.TXLUKD1180.0003,Pháp luật đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225525,Đặng Nguyễn Thảo,Vy,TXLUKD1180,24032024.TXLUKD1180.0003,Pháp luật đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225518,Hồ Văn,Út,TXLUKD1180,24032024.TXLUKD1180.0003,Pháp luật đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225090,Trần Nguyễn Thuỳ,Trang,TXLUKD1180,24032024.TXLUKD1180.0003,Pháp luật đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225072,Ngô Thị Ánh,Nguyệt,TXLUKD1180,24032024.TXLUKD1180.0003,Pháp luật đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19215410,Trương Ngọc Minh,Châu,TXLUKD1180,24032024.TXLUKD1180.0001,Pháp luật đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225702,Lê Ngọc Đoan,Trinh,TXLUKD1180,24032024.TXLUKD1180.0003,Pháp luật đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19211948,Nguyễn Hương,Giang,TXLUKD1180,24032024.TXLUKD1180.0001,Pháp luật đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225705,Kiều Thảo,Vi,TXLUKD1180,24032024.TXLUKD1180.0003,Pháp luật đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225700,Dương Thị Thùy,Trang,TXLUKD1180,24032024.TXLUKD1180.0003,Pháp luật đầu tư,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235732,Nguyễn Đình,Thắng,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235733,Trần Hoàng Anh,Thư,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235734,Nguyễn Hoàng Nhật,Tiến,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235736,Lê  Mạnh,Tuấn,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235730,Trịnh Minh,Quốc,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235715,Trương Thị Bé,Hoài,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235723,Dương Thị Trà,Mi,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225586,Bùi Thị Hồng,My,TXTOKT1145,24032024.TXTOKT1145.0005,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225577,Đỗ,Kiên,TXTOKT1145,24032024.TXTOKT1145.0005,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225574,Cao Trần Khánh,Hưng,TXTOKT1145,24032024.TXTOKT1145.0005,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225572,Nguyễn Thị Minh,Hoàng,TXTOKT1145,24032024.TXTOKT1145.0005,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225569,Trần Văn,Hậu,TXTOKT1145,24032024.TXTOKT1145.0005,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225397,Lê Đỗ Hoàng Bảo,Trâm,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225733,Nguyễn Thái Quốc,Anh,TXTOKT1145,24032024.TXTOKT1145.0005,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225214,Nguyễn Duy,Võ,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225126,Nguyễn Hoàng,Duy,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225122,Cao Thuỳ Thục,Đoan,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225094,Lê Thị Thu,An,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19215622,Nguyễn Thanh,Phước,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19215537,Nguyễn Quốc,An,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19215458,Hoàng Hồng,Lê,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225181,Nguyễn Thị Kim,Quý,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235728,Phạm Bích,Phượng,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235134,Trần Long,Đỉnh,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235515,Phan Nam,Bình,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235719,Trần Như,Lai,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235717,Lê Thế,Hưng,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235716,Hoàng Văn,Hoàn,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235712,Lê Văn,Giáp,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235710,NGUYỄN TẤN,ĐÔNG,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235707,Hoàng Chí,Cường,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235149,Huỳnh Lê Bảo,Khang,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235706,Nguyễn Văn,Chiến,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235534,Lê Ngọc Phương,Vy,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235530,Vũ Thị Hoài,Thu,TXTOKT1145,24032024.TXTOKT1145.0005,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235528,Trần Thị Tố,Quyên,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235526,Phạm Thanh,Nhi,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235519,Lữ Lê Ngọc,Hậu,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235516,Võ Hoàng,Danh,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235705,Phùng Thế,Anh,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235524,Nguyễn Hồng,Ngọc,TXTOKT1145,24032024.TXTOKT1145.0005,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế

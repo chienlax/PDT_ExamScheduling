@@ -1,0 +1,644 @@
+﻿Địa điểm,Mã SV,Họ Lót,Tên,Mã HP,Mã LHP,Tên HP,Số TC,Bộ môn giảng dạy,Khoa giảng dạy
+HCM,19235178,Phạm Văn,Cường,TXQTTH1123,24032024.TXQTTH1123.0005,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19231270,Nguyễn Võ Nguyệt,Tú,TXQTTH1123,24032024.TXQTTH1123.0005,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19225777,Phạm Quốc,Long,TXQTTH1123,24032024.TXQTTH1123.0005,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19225733,Nguyễn Thái Quốc,Anh,TXQTTH1123,24032024.TXQTTH1123.0005,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19225569,Trần Văn,Hậu,TXQTTH1123,24032024.TXQTTH1123.0006,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19225577,Đỗ,Kiên,TXQTTH1123,24032024.TXQTTH1123.0006,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19225574,Cao Trần Khánh,Hưng,TXQTTH1123,24032024.TXQTTH1123.0006,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19225572,Nguyễn Thị Minh,Hoàng,TXQTTH1123,24032024.TXQTTH1123.0006,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19235193,Hoàng Thị Bảo,Hân,TXQTTH1123,24032024.TXQTTH1123.0004,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19225581,Đàm Thị,Liên,TXQTTH1123,24032024.TXQTTH1123.0006,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19235203,Phùng Ngô Trung,Hưng,TXQTTH1123,24032024.TXQTTH1123.0004,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19235293,Vũ Khánh,Toàn,TXQTTH1123,24032024.TXQTTH1123.0004,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19235248,Nguyễn Thị Quỳnh,Như,TXQTTH1123,24032024.TXQTTH1123.0005,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19235277,Huỳnh Thị Phương,Thảo,TXQTTH1123,24032024.TXQTTH1123.0004,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19235290,Lê Thị,Tĩnh,TXQTTH1123,24032024.TXQTTH1123.0005,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19225568,Nguyễn Thị Mỹ,Hạnh,TXQTTH1123,24032024.TXQTTH1123.0006,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19235294,Đặng Trần Bảo,Tôn,TXQTTH1123,24032024.TXQTTH1123.0004,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19235298,Phạm Hoàng,Trọng,TXQTTH1123,24032024.TXQTTH1123.0004,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19235434,Phan Thị Mỷ,Duyên,TXQTTH1123,24032024.TXQTTH1123.0005,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19235437,Vũ Nguyễn Bảo,Hân,TXQTTH1123,24032024.TXQTTH1123.0005,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19235467,Nguyễn Thiện,Nghĩa,TXQTTH1123,24032024.TXQTTH1123.0005,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19235477,Võ Thanh,Sang,TXQTTH1123,24032024.TXQTTH1123.0004,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19235784,Lê Phương,Trúc,TXQTTH1123,24032024.TXQTTH1123.0001,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19235235,Nguyễn Phùng Hoàng,Nam,TXQTTH1123,24032024.TXQTTH1123.0004,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19225335,Trần Thị,Diệu,TXQTTH1123,24032024.TXQTTH1123.0004,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19235182,Hoàng Văn,Diệu,TXQTTH1123,24032024.TXQTTH1123.0005,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19225143,Đào Trần Đăng,Khoa,TXQTTH1123,24032024.TXQTTH1123.0005,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19225181,Nguyễn Thị Kim,Quý,TXQTTH1123,24032024.TXQTTH1123.0004,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19211738,Bùi Thị,Huyền,TXQTTH1123,24032024.TXQTTH1123.0004,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19215157,Đặng Thanh,Hải,TXQTTH1123,24032024.TXQTTH1123.0005,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19215197,Phùng Diệu,Linh,TXQTTH1123,24032024.TXQTTH1123.0006,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19210909,Dương Thị Vân,Anh,TXQTTH1123,24032024.TXQTTH1123.0006,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19215318,Nguyễn Hoàng,Long,TXQTTH1123,24032024.TXQTTH1123.0006,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19215340,Hồ Sỹ,Phong,TXQTTH1123,24032024.TXQTTH1123.0006,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19215362,Nguyễn Ngọc Minh,Thùy,TXQTTH1123,24032024.TXQTTH1123.0006,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19215273,Trần Nguyễn Nhật,Quỳnh,TXQTTH1123,24032024.TXQTTH1123.0006,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19225126,Nguyễn Hoàng,Duy,TXQTTH1123,24032024.TXQTTH1123.0004,Quản trị quá trình kinh doanh,3,Bộ môn Quản trị chất lượng,Khoa Quản trị kinh doanh
+HCM,19215101,Lê Đình,Khả,TXQTTH1130,24032024.TXQTTH1130.0001,Lập kế hoạch khởi nghiệp,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19215171,Phan Thị,Tím,TXQTTH1130,24032024.TXQTTH1130.0004,Lập kế hoạch khởi nghiệp,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19215629,Nguyễn Hoàng Đức,Duy,TXQTTH1130,24032024.TXQTTH1130.0001,Lập kế hoạch khởi nghiệp,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225117,Lâm Linh,Chi,TXQTTH1130,24032024.TXQTTH1130.0004,Lập kế hoạch khởi nghiệp,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225184,Phan Thanh,Sang,TXQTTH1130,24032024.TXQTTH1130.0004,Lập kế hoạch khởi nghiệp,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19215098,Nguyễn Thanh,Hải,TXQTTH1130,24032024.TXQTTH1130.0001,Lập kế hoạch khởi nghiệp,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225189,Nguyễn Duy,Thành,TXQTTH1130,24032024.TXQTTH1130.0004,Lập kế hoạch khởi nghiệp,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225549,Huỳnh Ngọc,Anh,TXQTTH1130,24032024.TXQTTH1130.0004,Lập kế hoạch khởi nghiệp,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225572,Nguyễn Thị Minh,Hoàng,TXQTTH1130,24032024.TXQTTH1130.0004,Lập kế hoạch khởi nghiệp,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225568,Nguyễn Thị Mỹ,Hạnh,TXQTTH1130,24032024.TXQTTH1130.0004,Lập kế hoạch khởi nghiệp,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225179,Đoàn Lê,Quang,TXQTTH1130,24032024.TXQTTH1130.0004,Lập kế hoạch khởi nghiệp,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225397,Lê Đỗ Hoàng Bảo,Trâm,TXQTTH1130,24032024.TXQTTH1130.0004,Lập kế hoạch khởi nghiệp,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225406,Nguyễn Mạnh,Tuấn,TXQTTH1130,24032024.TXQTTH1130.0004,Lập kế hoạch khởi nghiệp,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225574,Cao Trần Khánh,Hưng,TXQTTH1130,24032024.TXQTTH1130.0004,Lập kế hoạch khởi nghiệp,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225382,Chu Văn,Sơn,TXQTTH1130,24032024.TXQTTH1130.0004,Lập kế hoạch khởi nghiệp,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225381,Cao Xuân,Sơn,TXQTTH1130,24032024.TXQTTH1130.0004,Lập kế hoạch khởi nghiệp,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225372,Nguyễn Trọng,Nghĩa,TXQTTH1130,24032024.TXQTTH1130.0004,Lập kế hoạch khởi nghiệp,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225368,Lê Nhật,Minh,TXQTTH1130,24032024.TXQTTH1130.0004,Lập kế hoạch khởi nghiệp,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225356,Vũ Duy,Khanh,TXQTTH1130,24032024.TXQTTH1130.0004,Lập kế hoạch khởi nghiệp,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225352,Nguyễn Sỹ,Hùng,TXQTTH1130,24032024.TXQTTH1130.0004,Lập kế hoạch khởi nghiệp,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225343,Trương,Hiền,TXQTTH1130,24032024.TXQTTH1130.0004,Lập kế hoạch khởi nghiệp,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225335,Trần Thị,Diệu,TXQTTH1130,24032024.TXQTTH1130.0004,Lập kế hoạch khởi nghiệp,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225383,Đỗ Cao,Sơn,TXQTTH1130,24032024.TXQTTH1130.0004,Lập kế hoạch khởi nghiệp,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225577,Đỗ,Kiên,TXQTTH1130,24032024.TXQTTH1130.0004,Lập kế hoạch khởi nghiệp,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225581,Đàm Thị,Liên,TXQTTH1130,24032024.TXQTTH1130.0004,Lập kế hoạch khởi nghiệp,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225586,Bùi Thị Hồng,My,TXQTTH1130,24032024.TXQTTH1130.0004,Lập kế hoạch khởi nghiệp,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225333,Huỳnh Từ Phương,Đang,TXQTTH1130,24032024.TXQTTH1130.0004,Lập kế hoạch khởi nghiệp,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19205110,Hà Thị,Nguyên,TXQTVH04,24032024.TXQTVH04.0001,Giao tiếp kinh doanh và thuyết trình,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19205435,Phan Quốc,Đạt,TXQTVH04,24032024.TXQTVH04.0001,Giao tiếp kinh doanh và thuyết trình,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235283,Nguyễn Thị,Thuỳ,TXQTVH1107,24032024.TXQTVH1107.0004,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235427,Nguyễn Khánh,Chính,TXQTVH1107,24032024.TXQTVH1107.0003,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235434,Phan Thị Mỷ,Duyên,TXQTVH1107,24032024.TXQTVH1107.0004,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235437,Vũ Nguyễn Bảo,Hân,TXQTVH1107,24032024.TXQTVH1107.0004,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235439,Trần Thị Thu,Hiền,TXQTVH1107,24032024.TXQTVH1107.0004,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235441,Lê Thị Thanh,Hòa,TXQTVH1107,24032024.TXQTVH1107.0004,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235448,Phạm Quốc,Huy,TXQTVH1107,24032024.TXQTVH1107.0004,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235457,Nguyễn Duy,Linh,TXQTVH1107,24032024.TXQTVH1107.0003,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235462,Vũ Thị Hồng,Mỹ,TXQTVH1107,24032024.TXQTVH1107.0003,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235463,Hà Ngọc,Nam,TXQTVH1107,24032024.TXQTVH1107.0003,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235467,Nguyễn Thiện,Nghĩa,TXQTVH1107,24032024.TXQTVH1107.0004,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235476,Ngụy Thái,Sang,TXQTVH1107,24032024.TXQTVH1107.0003,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235477,Võ Thanh,Sang,TXQTVH1107,24032024.TXQTVH1107.0004,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235478,Nguyễn Đình,Sơn,TXQTVH1107,24032024.TXQTVH1107.0004,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235490,Trần Thiện,Thống,TXQTVH1107,24032024.TXQTVH1107.0004,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235492,Lê Ngọc Hoài,Thương,TXQTVH1107,24032024.TXQTVH1107.0003,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235493,Quang Đăng Phương,Thuỷ,TXQTVH1107,24032024.TXQTVH1107.0004,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235494,Bùi Thị Thanh,Thủy,TXQTVH1107,24032024.TXQTVH1107.0004,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235500,Lâm Văn,Trí,TXQTVH1107,24032024.TXQTVH1107.0004,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235504,Nguyễn Thị Cẩm,Tú,TXQTVH1107,24032024.TXQTVH1107.0004,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235506,Nguyễn Viết,Tuấn,TXQTVH1107,24032024.TXQTVH1107.0004,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235512,Trần Như,Ý,TXQTVH1107,24032024.TXQTVH1107.0003,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235293,Vũ Khánh,Toàn,TXQTVH1107,24032024.TXQTVH1107.0003,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235291,Lê Mạnh,Toàn,TXQTVH1107,24032024.TXQTVH1107.0004,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235459,Võ Thị Hải,Lý,TXQTVH1107,24032024.TXQTVH1107.0004,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235282,Vũ Anh,Thư,TXQTVH1107,24032024.TXQTVH1107.0004,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19210909,Dương Thị Vân,Anh,TXQTVH1107,24032024.TXQTVH1107.0005,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235284,Mai Thanh,Thúy,TXQTVH1107,24032024.TXQTVH1107.0003,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19215318,Nguyễn Hoàng,Long,TXQTVH1107,24032024.TXQTVH1107.0005,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19215340,Hồ Sỹ,Phong,TXQTVH1107,24032024.TXQTVH1107.0005,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19215362,Nguyễn Ngọc Minh,Thùy,TXQTVH1107,24032024.TXQTVH1107.0005,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225132,Nguyễn Trung,Hiếu,TXQTVH1107,24032024.TXQTVH1107.0004,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225162,Trần Thị Thảo,Nhàn,TXQTVH1107,24032024.TXQTVH1107.0003,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225181,Nguyễn Thị Kim,Quý,TXQTVH1107,24032024.TXQTVH1107.0003,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225214,Nguyễn Duy,Võ,TXQTVH1107,24032024.TXQTVH1107.0003,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225335,Trần Thị,Diệu,TXQTVH1107,24032024.TXQTVH1107.0004,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225339,Nguyễn Hồng,Hạnh,TXQTVH1107,24032024.TXQTVH1107.0003,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19215197,Phùng Diệu,Linh,TXQTVH1107,24032024.TXQTVH1107.0005,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225568,Nguyễn Thị Mỹ,Hạnh,TXQTVH1107,24032024.TXQTVH1107.0005,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225418,Vũ Kim,Yến,TXQTVH1107,24032024.TXQTVH1107.0003,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235176,Phạm Quốc,Chí,TXQTVH1107,24032024.TXQTVH1107.0004,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225774,Phạm Thị Thanh,Loan,TXQTVH1107,24032024.TXQTVH1107.0004,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225733,Nguyễn Thái Quốc,Anh,TXQTVH1107,24032024.TXQTVH1107.0005,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225581,Đàm Thị,Liên,TXQTVH1107,24032024.TXQTVH1107.0005,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235264,Lê Thị,Quỳnh,TXQTVH1107,24032024.TXQTVH1107.0004,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225574,Cao Trần Khánh,Hưng,TXQTVH1107,24032024.TXQTVH1107.0005,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225572,Nguyễn Thị Minh,Hoàng,TXQTVH1107,24032024.TXQTVH1107.0005,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225569,Trần Văn,Hậu,TXQTVH1107,24032024.TXQTVH1107.0005,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225577,Đỗ,Kiên,TXQTVH1107,24032024.TXQTVH1107.0005,Đạo đức kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225397,Lê Đỗ Hoàng Bảo,Trâm,TXQTVH1108,24032024.TXQTVH1108.0005,Đổi mới và sáng tạo,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225343,Trương,Hiền,TXQTVH1108,24032024.TXQTVH1108.0004,Đổi mới và sáng tạo,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225386,Trần Anh Duy,Tâm,TXQTVH1108,24032024.TXQTVH1108.0005,Đổi mới và sáng tạo,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225383,Đỗ Cao,Sơn,TXQTVH1108,24032024.TXQTVH1108.0005,Đổi mới và sáng tạo,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225381,Cao Xuân,Sơn,TXQTVH1108,24032024.TXQTVH1108.0005,Đổi mới và sáng tạo,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225377,Nguyễn Thị Ngọc,Quý,TXQTVH1108,24032024.TXQTVH1108.0004,Đổi mới và sáng tạo,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225368,Lê Nhật,Minh,TXQTVH1108,24032024.TXQTVH1108.0004,Đổi mới và sáng tạo,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225356,Vũ Duy,Khanh,TXQTVH1108,24032024.TXQTVH1108.0005,Đổi mới và sáng tạo,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225352,Nguyễn Sỹ,Hùng,TXQTVH1108,24032024.TXQTVH1108.0005,Đổi mới và sáng tạo,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225335,Trần Thị,Diệu,TXQTVH1108,24032024.TXQTVH1108.0005,Đổi mới và sáng tạo,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19215343,Lữ Minh,Phương,TXQTVH1108,24032024.TXQTVH1108.0005,Đổi mới và sáng tạo,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225184,Phan Thanh,Sang,TXQTVH1108,24032024.TXQTVH1108.0004,Đổi mới và sáng tạo,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225179,Đoàn Lê,Quang,TXQTVH1108,24032024.TXQTVH1108.0005,Đổi mới và sáng tạo,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225117,Lâm Linh,Chi,TXQTVH1108,24032024.TXQTVH1108.0004,Đổi mới và sáng tạo,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19215339,Hoàng Chí,Phát,TXQTVH1108,24032024.TXQTVH1108.0005,Đổi mới và sáng tạo,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19215303,Nguyễn Thị Thu,Hương,TXQTVH1108,24032024.TXQTVH1108.0005,Đổi mới và sáng tạo,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19215291,Vũ Anh,Hai,TXQTVH1108,24032024.TXQTVH1108.0005,Đổi mới và sáng tạo,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19215174,Lê Thị,Xuân,TXQTVH1108,24032024.TXQTVH1108.0005,Đổi mới và sáng tạo,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19215103,Nguyễn Thị Thùy,Linh,TXQTVH1108,24032024.TXQTVH1108.0001,Đổi mới và sáng tạo,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225406,Nguyễn Mạnh,Tuấn,TXQTVH1108,24032024.TXQTVH1108.0005,Đổi mới và sáng tạo,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225189,Nguyễn Duy,Thành,TXQTVH1108,24032024.TXQTVH1108.0005,Đổi mới và sáng tạo,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225814,Vương Khánh,Trung,TXQTVH1108,24032024.TXQTVH1108.0005,Đổi mới và sáng tạo,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225382,Chu Văn,Sơn,TXQTVH1108,24032024.TXQTVH1108.0005,Đổi mới và sáng tạo,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225397,Lê Đỗ Hoàng Bảo,Trâm,TXQTVH1109,24032024.TXQTVH1109.0006,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225612,Huỳnh Thùy,Trang,TXQTVH1109,24032024.TXQTVH1109.0007,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225600,Nguyễn Công,Sơn,TXQTVH1109,24032024.TXQTVH1109.0007,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225599,Trần Thuý,Quỳnh,TXQTVH1109,24032024.TXQTVH1109.0007,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225586,Bùi Thị Hồng,My,TXQTVH1109,24032024.TXQTVH1109.0007,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225575,Phạm Duy,Khang,TXQTVH1109,24032024.TXQTVH1109.0007,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225569,Trần Văn,Hậu,TXQTVH1109,24032024.TXQTVH1109.0007,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225564,Nguyễn Đức,Duy,TXQTVH1109,24032024.TXQTVH1109.0007,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225390,Đặng Huỳnh Anh,Thư,TXQTVH1109,24032024.TXQTVH1109.0006,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225377,Nguyễn Thị Ngọc,Quý,TXQTVH1109,24032024.TXQTVH1109.0006,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225214,Nguyễn Duy,Võ,TXQTVH1109,24032024.TXQTVH1109.0006,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225166,Nguyễn Thị Hồng,Nhung,TXQTVH1109,24032024.TXQTVH1109.0006,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225112,Hoàng Tuấn,Anh,TXQTVH1109,24032024.TXQTVH1109.0006,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19220322,Phan Nguyễn Sông,Hương,TXQTVH1109,24032024.TXQTVH1109.0006,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19215458,Hoàng Hồng,Lê,TXQTVH1109,24032024.TXQTVH1109.0001,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19215171,Phan Thị,Tím,TXQTVH1109,24032024.TXQTVH1109.0006,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225613,Mai Thị Huyền,Trang,TXQTVH1109,24032024.TXQTVH1109.0007,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19228013,Nguyễn Thị Diệu,Vê,TXQTVH1109,24032024.TXQTVH1109.0007,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225605,Lê Thị Kim,Thảo,TXQTVH1109,24032024.TXQTVH1109.0007,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235282,Vũ Anh,Thư,TXQTVH1109,24032024.TXQTVH1109.0006,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235736,Lê  Mạnh,Tuấn,TXQTVH1109,24032024.TXQTVH1109.0003,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235731,Nguyễn Ngọc,Tấn,TXQTVH1109,24032024.TXQTVH1109.0003,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235240,Trần Chí,Nguyên,TXQTVH1109,24032024.TXQTVH1109.0006,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235720,Đặng Thị Trúc,Linh,TXQTVH1109,24032024.TXQTVH1109.0003,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235719,Trần Như,Lai,TXQTVH1109,24032024.TXQTVH1109.0003,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235717,Lê Thế,Hưng,TXQTVH1109,24032024.TXQTVH1109.0003,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235730,Trịnh Minh,Quốc,TXQTVH1109,24032024.TXQTVH1109.0003,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235710,NGUYỄN TẤN,ĐÔNG,TXQTVH1109,24032024.TXQTVH1109.0003,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235706,Nguyễn Văn,Chiến,TXQTVH1109,24032024.TXQTVH1109.0003,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235704,Phạm Thị Vân,Anh,TXQTVH1109,24032024.TXQTVH1109.0003,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235536,Cao Trần Quỳnh,Yến,TXQTVH1109,24032024.TXQTVH1109.0006,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235711,Phạm Tiến,Dũng,TXQTVH1109,24032024.TXQTVH1109.0003,Giao tiếp kinh doanh,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225368,Lê Nhật,Minh,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225184,Phan Thanh,Sang,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225372,Nguyễn Trọng,Nghĩa,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225381,Cao Xuân,Sơn,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225382,Chu Văn,Sơn,TXQTVH1110,24032024.TXQTVH1110.0006,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225383,Đỗ Cao,Sơn,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225356,Vũ Duy,Khanh,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225343,Trương,Hiền,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225335,Trần Thị,Diệu,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225333,Huỳnh Từ Phương,Đang,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225181,Nguyễn Thị Kim,Quý,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225352,Nguyễn Sỹ,Hùng,TXQTVH1110,24032024.TXQTVH1110.0006,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225126,Nguyễn Hoàng,Duy,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225117,Lâm Linh,Chi,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19215629,Nguyễn Hoàng Đức,Duy,TXQTVH1110,24032024.TXQTVH1110.0001,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19215297,Đinh Tiến,Hoàng,TXQTVH1110,24032024.TXQTVH1110.0006,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19215291,Vũ Anh,Hai,TXQTVH1110,24032024.TXQTVH1110.0006,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19215157,Đặng Thanh,Hải,TXQTVH1110,24032024.TXQTVH1110.0006,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225386,Trần Anh Duy,Tâm,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19215101,Lê Đình,Khả,TXQTVH1110,24032024.TXQTVH1110.0001,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19215098,Nguyễn Thanh,Hải,TXQTVH1110,24032024.TXQTVH1110.0001,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19211738,Bùi Thị,Huyền,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19210173,Mai Văn,Đoàn,TXQTVH1110,24032024.TXQTVH1110.0001,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225127,Trần Thanh,Duyên,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225397,Lê Đỗ Hoàng Bảo,Trâm,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225412,Cao Thúy,Vi,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235429,Vũ Việt,Cường,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235446,Nguyễn Quang,Huy,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235435,Trần Lê Mỹ,Duyên,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235418,Đàm Thị Kim,Anh,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235302,Nguyễn Minh,Tuấn,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235293,Vũ Khánh,Toàn,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235292,Trần Văn,Toàn,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235251,Nguyễn Thành,Ninh,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235196,Đỗ Thị Thu,Hiền,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235193,Hoàng Thị Bảo,Hân,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235273,Phạm Văn,Thại,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225568,Nguyễn Thị Mỹ,Hạnh,TXQTVH1110,24032024.TXQTVH1110.0006,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225549,Huỳnh Ngọc,Anh,TXQTVH1110,24032024.TXQTVH1110.0006,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19235178,Phạm Văn,Cường,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225574,Cao Trần Khánh,Hưng,TXQTVH1110,24032024.TXQTVH1110.0006,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225733,Nguyễn Thái Quốc,Anh,TXQTVH1110,24032024.TXQTVH1110.0006,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225406,Nguyễn Mạnh,Tuấn,TXQTVH1110,24032024.TXQTVH1110.0006,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225785,Lê Ngọc,Ngân,TXQTVH1110,24032024.TXQTVH1110.0006,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19231270,Nguyễn Võ Nguyệt,Tú,TXQTVH1110,24032024.TXQTVH1110.0005,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19225756,Nguyễn Quang,Hiếu,TXQTVH1110,24032024.TXQTVH1110.0006,Quản trị đa văn hóa,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh
+HCM,19215174,Lê Thị,Xuân,TXTKKD1112,24032024.TXTKKD1112.0003,Thống kê chất lượng,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19225586,Bùi Thị Hồng,My,TXTKKD1112,24032024.TXTKKD1112.0003,Thống kê chất lượng,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19215171,Phan Thị,Tím,TXTKKD1112,24032024.TXTKKD1112.0003,Thống kê chất lượng,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19215103,Nguyễn Thị Thùy,Linh,TXTKKD1112,24032024.TXTKKD1112.0001,Thống kê chất lượng,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19215101,Lê Đình,Khả,TXTKKD1112,24032024.TXTKKD1112.0001,Thống kê chất lượng,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19215098,Nguyễn Thanh,Hải,TXTKKD1112,24032024.TXTKKD1112.0001,Thống kê chất lượng,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19225581,Đàm Thị,Liên,TXTKKD1112,24032024.TXTKKD1112.0003,Thống kê chất lượng,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19215473,Phạm Thị Ngọc,Quỳnh,TXTKKD1112,24032024.TXTKKD1112.0001,Thống kê chất lượng,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19225577,Đỗ,Kiên,TXTKKD1112,24032024.TXTKKD1112.0003,Thống kê chất lượng,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19225179,Đoàn Lê,Quang,TXTKKD1112,24032024.TXTKKD1112.0003,Thống kê chất lượng,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19225189,Nguyễn Duy,Thành,TXTKKD1112,24032024.TXTKKD1112.0003,Thống kê chất lượng,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19225397,Lê Đỗ Hoàng Bảo,Trâm,TXTKKD1112,24032024.TXTKKD1112.0003,Thống kê chất lượng,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19225574,Cao Trần Khánh,Hưng,TXTKKD1112,24032024.TXTKKD1112.0003,Thống kê chất lượng,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19225549,Huỳnh Ngọc,Anh,TXTKKD1112,24032024.TXTKKD1112.0003,Thống kê chất lượng,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19215629,Nguyễn Hoàng Đức,Duy,TXTKKD1112,24032024.TXTKKD1112.0001,Thống kê chất lượng,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19225572,Nguyễn Thị Minh,Hoàng,TXTKKD1112,24032024.TXTKKD1112.0003,Thống kê chất lượng,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19225813,Nguyễn Thành,Trung,TXTKKD1112,24032024.TXTKKD1112.0003,Thống kê chất lượng,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19225122,Cao Thuỳ Thục,Đoan,TXTKKD1112,24032024.TXTKKD1112.0003,Thống kê chất lượng,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235209,Nguyễn Thị Mỹ,Huyền,TXTKKD1129,24032024.TXTKKD1129.0008,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235222,Phan Thị Phương,Linh,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235221,Nguyễn Thị Thùy,Linh,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235217,Phạm Thị,Lan,TXTKKD1129,24032024.TXTKKD1129.0008,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235214,Nguyễn Đăng,Khương,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235223,Tạ Nguyễn Mai,Linh,TXTKKD1129,24032024.TXTKKD1129.0008,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235220,Nguyễn Thị Mỹ,Linh,TXTKKD1129,24032024.TXTKKD1129.0008,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235236,Nguyễn Thị Y,Nga,TXTKKD1129,24032024.TXTKKD1129.0008,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235235,Nguyễn Phùng Hoàng,Nam,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235244,Phan Thị Yến,Nhi,TXTKKD1129,24032024.TXTKKD1129.0008,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235253,La Cơ,Phát,TXTKKD1129,24032024.TXTKKD1129.0008,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235279,Lê Nhật,Thiên,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235278,Phạm Thị Thanh,Thảo,TXTKKD1129,24032024.TXTKKD1129.0008,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235272,Vũ Duy,Thái,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235269,Đinh Trường,Sơn,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235254,Phạm Anh Thành,Phát,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235231,Vũ Đức,Mạnh,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235203,Phùng Ngô Trung,Hưng,TXTKKD1129,24032024.TXTKKD1129.0008,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235201,Tô Vũ,Hoàng,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235194,Nguyễn Mỹ,Hạnh,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19225001,Nguyễn Đức,Anh,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19225222,Huỳnh Thị Mỹ,Duyên,TXTKKD1129,24032024.TXTKKD1129.0008,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19225223,Phạm Thị Trà,Giang,TXTKKD1129,24032024.TXTKKD1129.0008,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19225235,Nguyễn Thị Kim,Quyên,TXTKKD1129,24032024.TXTKKD1129.0008,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235280,Nguyễn Phụng,Thiên,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19225238,Nguyễn Thị,Thanh,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19225467,Trần Quốc,Võ,TXTKKD1129,24032024.TXTKKD1129.0013,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235200,Lê Huy,Hoàng,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19231270,Nguyễn Võ Nguyệt,Tú,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235137,Trần Thị,Gấm,TXTKKD1129,24032024.TXTKKD1129.0008,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235141,Nguyễn Ngọc,Hiền,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235149,Huỳnh Lê Bảo,Khang,TXTKKD1129,24032024.TXTKKD1129.0008,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235181,Đặng Văn,Điệp,TXTKKD1129,24032024.TXTKKD1129.0008,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235182,Hoàng Văn,Diệu,TXTKKD1129,24032024.TXTKKD1129.0008,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235189,Phạm Hồng,Duy,TXTKKD1129,24032024.TXTKKD1129.0008,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235192,Đỗ Thị Minh,Giang,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235018,Nguyễn Quang Thanh,Lâm,TXTKKD1129,24032024.TXTKKD1129.0008,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235282,Vũ Anh,Thư,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235745,Mai Thị,Lĩnh,TXTKKD1129,24032024.TXTKKD1129.0001,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235284,Mai Thanh,Thúy,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235739,Đồng Thị Vân,Anh,TXTKKD1129,24032024.TXTKKD1129.0002,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235572,Trần Thị,Toán,TXTKKD1129,24032024.TXTKKD1129.0002,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235754,Nguyễn Thị,Tho,TXTKKD1129,24032024.TXTKKD1129.0001,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19215132,Đặng Thị,Thắm,TXTKKD1129,24032024.TXTKKD1129.0012,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235743,Lê Thị Thúy,Hằng,TXTKKD1129,24032024.TXTKKD1129.0001,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235571,Phan Thị,Thúy,TXTKKD1129,24032024.TXTKKD1129.0002,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235568,Lê Ngọc Thạch,Thảo,TXTKKD1129,24032024.TXTKKD1129.0002,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235563,Võ Đức,Phường,TXTKKD1129,24032024.TXTKKD1129.0001,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235559,Phạm Thị Kiều,Ngân,TXTKKD1129,24032024.TXTKKD1129.0001,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235556,Lục Thị Mỹ,Lợi,TXTKKD1129,24032024.TXTKKD1129.0001,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235553,Trần Thị Hoài,Linh,TXTKKD1129,24032024.TXTKKD1129.0001,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235549,Nguyễn Thị Bích,Hường,TXTKKD1129,24032024.TXTKKD1129.0001,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235545,Phan Hồng,Hạnh,TXTKKD1129,24032024.TXTKKD1129.0001,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235283,Nguyễn Thị,Thuỳ,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235527,Nguyễn Xuân,Phong,TXTKKD1129,24032024.TXTKKD1129.0008,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235538,Lê Lâm Tuyết,Anh,TXTKKD1129,24032024.TXTKKD1129.0001,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235521,Lê Thị Huỳnh,Loan,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235286,Lê Bích,Thụy,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235288,Phạm Thị Kim,Tiền,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235295,Nguyễn Mộng Thiên,Trang,TXTKKD1129,24032024.TXTKKD1129.0008,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235296,Nguyễn Phú Huỳnh,Trang,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235523,Huỳnh Thị,Muội,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235308,Vương Thế,Vinh,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235310,Trần Thị Thảo,Vy,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235307,Nguyễn Quang,Vinh,TXTKKD1129,24032024.TXTKKD1129.0008,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235489,Hồ Minh,Thông,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235497,Phan Chí,Tình,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235501,Nguyễn Lê Thuỷ,Trúc,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235507,Đào Duy,Tùng,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235514,Lê Thị,Ánh,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235518,Nguyễn Minh,Hà,TXTKKD1129,24032024.TXTKKD1129.0008,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19235475,Trần Chu,Sa,TXTKKD1129,24032024.TXTKKD1129.0009,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19205890,Mai Thị Cẩm,Ly,TXTKKD1129,24032024.TXTKKD1129.0001,Thống kê trong kinh tế và kinh doanh,3,Bộ môn Thống kê kinh doanh,Khoa Thống kê
+HCM,19205609,Lê Hoàng,Tâm,TXTMKD02,24032024.TXTMKD02.0001,Kinh doanh quốc tế 1,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19205601,Lư Hà,Long,TXTMKD02,24032024.TXTMKD02.0001,Kinh doanh quốc tế 1,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19205582,Cao Tiến,Anh,TXTMKD02,24032024.TXTMKD02.0001,Kinh doanh quốc tế 1,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19191272,Lê Hồng,Phúc,TXTMKD02,24032024.TXTMKD02.0001,Kinh doanh quốc tế 1,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225182,Nguyễn Tố,Quyên,TXTMKD1128,24032024.TXTMKD1128.0004,Kinh doanh quốc tế,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225165,Ngô Thị Huỳnh,Như,TXTMKD1128,24032024.TXTMKD1128.0004,Kinh doanh quốc tế,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225107,Võ Thành,Trung,TXTMKD1128,24032024.TXTMKD1128.0004,Kinh doanh quốc tế,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225132,Nguyễn Trung,Hiếu,TXTMKD1128,24032024.TXTMKD1128.0004,Kinh doanh quốc tế,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225143,Đào Trần Đăng,Khoa,TXTMKD1128,24032024.TXTMKD1128.0004,Kinh doanh quốc tế,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225154,Lê Thị Trà,My,TXTMKD1128,24032024.TXTMKD1128.0004,Kinh doanh quốc tế,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225157,Trương Thị Thu,Ngân,TXTMKD1128,24032024.TXTMKD1128.0004,Kinh doanh quốc tế,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225167,Nguyễn Thị Kim,Oanh,TXTMKD1128,24032024.TXTMKD1128.0004,Kinh doanh quốc tế,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225329,Nguyễn Trần Hoài,Anh,TXTMKD1128,24032024.TXTMKD1128.0004,Kinh doanh quốc tế,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225527,Dương Vân,Anh,TXTMKD1128,24032024.TXTMKD1128.0005,Kinh doanh quốc tế,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225723,Lê Thị Hà,Thanh,TXTMKD1128,24032024.TXTMKD1128.0005,Kinh doanh quốc tế,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225733,Nguyễn Thái Quốc,Anh,TXTMKD1128,24032024.TXTMKD1128.0005,Kinh doanh quốc tế,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225758,Đào Thị,Hoa,TXTMKD1128,24032024.TXTMKD1128.0005,Kinh doanh quốc tế,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225785,Lê Ngọc,Ngân,TXTMKD1128,24032024.TXTMKD1128.0005,Kinh doanh quốc tế,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225801,Trần Thị Thiện,Tâm,TXTMKD1128,24032024.TXTMKD1128.0005,Kinh doanh quốc tế,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225818,Lê Thanh,Tuấn,TXTMKD1128,24032024.TXTMKD1128.0005,Kinh doanh quốc tế,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19235132,Nguyễn Ngọc,Anh,TXTMKD1128,24032024.TXTMKD1128.0004,Kinh doanh quốc tế,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19235140,Nguyễn Thị Ngọc,Hạnh,TXTMKD1128,24032024.TXTMKD1128.0004,Kinh doanh quốc tế,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19235184,Nguyễn Minh,Đức,TXTMKD1128,24032024.TXTMKD1128.0004,Kinh doanh quốc tế,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19235240,Trần Chí,Nguyên,TXTMKD1128,24032024.TXTMKD1128.0004,Kinh doanh quốc tế,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19235250,Hồ Trang,Nhung,TXTMKD1128,24032024.TXTMKD1128.0004,Kinh doanh quốc tế,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19235301,Cù Anh,Tuấn,TXTMKD1128,24032024.TXTMKD1128.0005,Kinh doanh quốc tế,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19235515,Phan Nam,Bình,TXTMKD1128,24032024.TXTMKD1128.0004,Kinh doanh quốc tế,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225096,Lê Quốc,Bảo,TXTMKD1128,24032024.TXTMKD1128.0004,Kinh doanh quốc tế,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19215562,Nông Thanh,Thuỷ,TXTMKD1128,24032024.TXTMKD1128.0004,Kinh doanh quốc tế,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225126,Nguyễn Hoàng,Duy,TXTMKD1128,24032024.TXTMKD1128.0004,Kinh doanh quốc tế,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19235781,Mai Thị Phương,Thảo,TXTMKD1128,24032024.TXTMKD1128.0001,Kinh doanh quốc tế,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19215064,Võ Văn,Huấn,TXTMKD1128,24032024.TXTMKD1128.0001,Kinh doanh quốc tế,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225492,Lê Ngọc,Lý,TXTMKQ1123,24032024.TXTMKQ1123.0005,Kinh tế quốc tế,3,Bộ môn Kinh tế quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225502,Đào Thị Hồng,Nhung,TXTMKQ1123,24032024.TXTMKQ1123.0005,Kinh tế quốc tế,3,Bộ môn Kinh tế quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225497,Phan Thị,Ngọc,TXTMKQ1123,24032024.TXTMKQ1123.0005,Kinh tế quốc tế,3,Bộ môn Kinh tế quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225496,Phạm Hồng,Ngọc,TXTMKQ1123,24032024.TXTMKQ1123.0005,Kinh tế quốc tế,3,Bộ môn Kinh tế quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225700,Dương Thị Thùy,Trang,TXTMKQ1123,24032024.TXTMKQ1123.0005,Kinh tế quốc tế,3,Bộ môn Kinh tế quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225690,Phạm Hùng,Phát,TXTMKQ1123,24032024.TXTMKQ1123.0005,Kinh tế quốc tế,3,Bộ môn Kinh tế quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225678,Lê Ngọc,Minh,TXTMKQ1123,24032024.TXTMKQ1123.0005,Kinh tế quốc tế,3,Bộ môn Kinh tế quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225525,Đặng Nguyễn Thảo,Vy,TXTMKQ1123,24032024.TXTMKQ1123.0005,Kinh tế quốc tế,3,Bộ môn Kinh tế quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225522,Nguyễn Kim,Việt,TXTMKQ1123,24032024.TXTMKQ1123.0005,Kinh tế quốc tế,3,Bộ môn Kinh tế quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19215218,Nguyễn Thị Tú,Chiêu,TXTMKQ1123,24032024.TXTMKQ1123.0005,Kinh tế quốc tế,3,Bộ môn Kinh tế quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19215602,Bùi Thanh,Nga,TXTMKQ1123,24032024.TXTMKQ1123.0001,Kinh tế quốc tế,3,Bộ môn Kinh tế quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19221190,Nguyễn Đình,Hùng,TXTMKQ1123,24032024.TXTMKQ1123.0005,Kinh tế quốc tế,3,Bộ môn Kinh tế quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225072,Ngô Thị Ánh,Nguyệt,TXTMKQ1123,24032024.TXTMKQ1123.0005,Kinh tế quốc tế,3,Bộ môn Kinh tế quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225096,Lê Quốc,Bảo,TXTMKQ1123,24032024.TXTMKQ1123.0005,Kinh tế quốc tế,3,Bộ môn Kinh tế quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225274,Nguyễn Đỗ Huỳnh,Mai,TXTMKQ1123,24032024.TXTMKQ1123.0005,Kinh tế quốc tế,3,Bộ môn Kinh tế quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225495,Nguyễn Đăng,Nam,TXTMKQ1123,24032024.TXTMKQ1123.0005,Kinh tế quốc tế,3,Bộ môn Kinh tế quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225323,Nguyễn Thị,Thơi,TXTMKQ1123,24032024.TXTMKQ1123.0005,Kinh tế quốc tế,3,Bộ môn Kinh tế quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225521,Đoàn Thanh,Việt,TXTMKQ1123,24032024.TXTMKQ1123.0005,Kinh tế quốc tế,3,Bộ môn Kinh tế quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225469,Đặng Thùy,Anh,TXTMKQ1123,24032024.TXTMKQ1123.0005,Kinh tế quốc tế,3,Bộ môn Kinh tế quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225478,Đào Lâm Mỹ,Duyên,TXTMKQ1123,24032024.TXTMKQ1123.0005,Kinh tế quốc tế,3,Bộ môn Kinh tế quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225479,Phạm Thuỳ Long,Giang,TXTMKQ1123,24032024.TXTMKQ1123.0005,Kinh tế quốc tế,3,Bộ môn Kinh tế quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225484,Lê Thị Thuý,Hoa,TXTMKQ1123,24032024.TXTMKQ1123.0005,Kinh tế quốc tế,3,Bộ môn Kinh tế quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225512,Lê Thanh,Thủy,TXTMKQ1123,24032024.TXTMKQ1123.0005,Kinh tế quốc tế,3,Bộ môn Kinh tế quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225486,Vũ Nhật,Hồng,TXTMKQ1123,24032024.TXTMKQ1123.0005,Kinh tế quốc tế,3,Bộ môn Kinh tế quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19221288,Lê Huy,Vũ,TXTMKQ1123,24032024.TXTMKQ1123.0005,Kinh tế quốc tế,3,Bộ môn Kinh tế quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225518,Hồ Văn,Út,TXTMKQ1123,24032024.TXTMKQ1123.0005,Kinh tế quốc tế,3,Bộ môn Kinh tế quốc tế,Viện Thương mại và Kinh tế quốc tế
+HCM,19225475,Đào Thị Bích,Diễm,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235734,Nguyễn Hoàng Nhật,Tiến,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235623,Huỳnh Thị Tiểu,My,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235606,Nguyễn Ngọc Mai,Hoa,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235601,Phạm Thị Thu,Hậu,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235595,Phạm Thị,Hà,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235591,Phạm Khánh,Duy,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235590,Nguyễn Khương,Duy,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235589,Nguyễn Hoàng Anh,Duy,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235582,Lương Hoàng,Danh,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235729,Ngô Đỗ Nhật,Quang,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235723,Dương Thị Trà,Mi,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235678,Huỳnh Thị Vũ,Trinh,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235715,Trương Thị Bé,Hoài,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235641,Nguyễn Thị Thảo,Phương,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19225549,Huỳnh Ngọc,Anh,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235780,Trang Thị Hồng,Thắm,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235779,Hồ Thị Thanh,Tâm,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235776,Lê Thảo,Nguyên,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235775,Trịnh Hoàng,Long,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235773,Trần Anh,Kiệt,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235650,Vạn Trúc,Quỳnh,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235770,Nguyễn Xuân,Hưng,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235759,Trương Thị Hồng,Yến,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235757,Trần Thị Thanh,Thủy,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235753,Nguyễn Minh,Phú,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235745,Mai Thị,Lĩnh,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235639,Võ Đông Mỹ,Nhung,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235638,Hà Nguyễn Tâm,Như,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235637,Trần Yến,Nhi,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235762,Nguyễn Phương,Bình,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235720,Đặng Thị Trúc,Linh,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235609,Dương Gia,Huy,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235652,Võ Phú,Tài,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235712,Lê Văn,Giáp,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235709,Phan Mạnh,Diệu,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235708,Nông Quảng,Đạt,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235703,Nguyễn Đức,Anh,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235695,Phan Thị Gia,Vy,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235694,Phan Ngọc Tường,Vy,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235693,Dương,Vy,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235651,Đặng Hoài,Sâm,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235691,Quách Hữu,Vinh,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235688,Lương Quốc,Vinh,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235687,Vũ Thị,Uyên,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235613,Nguyễn Minh,Khôi,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235667,Lâm Ngọc Ái,Thy,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235659,Trần Anh,Thảo,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235579,Nguyễn Thị Kiều,Anh,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235656,Từ Ngọc,Thạch,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235690,Nguyễn Toàn,Vinh,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235577,Lê Quốc,Anh,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19225107,Võ Thành,Trung,TXTOCB01,24032024.TXTOCB01.0003,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235571,Phan Thị,Thúy,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235132,Nguyễn Ngọc,Anh,TXTOCB01,24032024.TXTOCB01.0003,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235130,Trịnh Thị,Yến,TXTOCB01,24032024.TXTOCB01.0003,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235094,Nguyễn Quỳnh,Nhi,TXTOCB01,24032024.TXTOCB01.0003,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235076,Trần Thị Giao,Linh,TXTOCB01,24032024.TXTOCB01.0003,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19225780,Nguyễn Thị,Lý,TXTOCB01,24032024.TXTOCB01.0004,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235739,Đồng Thị Vân,Anh,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19225733,Nguyễn Thái Quốc,Anh,TXTOCB01,24032024.TXTOCB01.0004,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235153,Lê Nguyễn Anh,Khôi,TXTOCB01,24032024.TXTOCB01.0003,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19225676,Lê Phước,Lợi,TXTOCB01,24032024.TXTOCB01.0004,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19225225,Lương Thúy,Hằng,TXTOCB01,24032024.TXTOCB01.0003,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19225126,Nguyễn Hoàng,Duy,TXTOCB01,24032024.TXTOCB01.0003,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235575,Đặng Ngọc Tuấn,Anh,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19215098,Nguyễn Thanh,Hải,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19215174,Lê Thị,Xuân,TXTOCB01,24032024.TXTOCB01.0004,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19215586,Dương Yến,Vy,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19225016,Nguyễn Ngọc Kim,Ngân,TXTOCB01,24032024.TXTOCB01.0003,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19225502,Đào Thị Hồng,Nhung,TXTOCB01,24032024.TXTOCB01.0005,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235239,Phan Nhiên,Ngọc,TXTOCB01,24032024.TXTOCB01.0003,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235735,Phạm Huyền,Trang,TXTOCB01,24032024.TXTOCB01.0002,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235336,Ngô Duy,Thắng,TXTOCB01,24032024.TXTOCB01.0003,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235283,Nguyễn Thị,Thuỳ,TXTOCB01,24032024.TXTOCB01.0003,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235566,Lê Tùng,Sơn,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235567,Đinh Thu,Thảo,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235570,Ngô Quỳnh Diễm,Thi,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235561,Phan Thị Cẩm,Nhi,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235560,Huỳnh Thị Như,Ngọc,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235557,Bùi Khải,Minh,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19225118,Nguyễn Cao Quốc,Cường,TXTOCB01,24032024.TXTOCB01.0003,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235564,Chí Ngọc,Phượng,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235551,Lưu Thị,Linh,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235539,Lê Thị Vân,Anh,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235553,Trần Thị Hoài,Linh,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235540,Kha Ngọc,Dinh,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235562,Trần Diệp Hoàng,Oanh,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235542,Trần Nam Thiên Bảo,Duy,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235543,Nguyễn Thị Bé,Giang,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235546,Phạm Thị,Hồng,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19235541,Huỳnh Tấn,Đông,TXTOCB01,24032024.TXTOCB01.0001,Toán cho các nhà kinh tế,3,Bộ môn Toán cơ bản,Khoa Toán kinh tế
+HCM,19225540,Nguyễn Thị,Thắm,TXTOKT04,24032024.TXTOKT04.0003,Kinh tế lượng 1,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225625,Huỳnh Như,Hảo,TXTOKT04,24032024.TXTOKT04.0002,Kinh tế lượng 1,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225644,Phan Thị Ánh,Tuyết,TXTOKT04,24032024.TXTOKT04.0002,Kinh tế lượng 1,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235008,Nguyễn Trí,Đạt,TXTOKT04,24032024.TXTOKT04.0002,Kinh tế lượng 1,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235020,Huỳnh Thị Bích,Liên,TXTOKT04,24032024.TXTOKT04.0002,Kinh tế lượng 1,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235321,Nguyễn Thị Diệu,Hoa,TXTOKT04,24032024.TXTOKT04.0002,Kinh tế lượng 1,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235335,Lưu Thị,Tâm,TXTOKT04,24032024.TXTOKT04.0002,Kinh tế lượng 1,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235706,Nguyễn Văn,Chiến,TXTOKT04,24032024.TXTOKT04.0001,Kinh tế lượng 1,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235711,Phạm Tiến,Dũng,TXTOKT04,24032024.TXTOKT04.0001,Kinh tế lượng 1,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235717,Lê Thế,Hưng,TXTOKT04,24032024.TXTOKT04.0001,Kinh tế lượng 1,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235730,Trịnh Minh,Quốc,TXTOKT04,24032024.TXTOKT04.0001,Kinh tế lượng 1,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225538,Phạm Thị Hồng,Nhung,TXTOKT04,24032024.TXTOKT04.0003,Kinh tế lượng 1,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235334,Nguyễn Vũ Như,Quỳnh,TXTOKT04,24032024.TXTOKT04.0002,Kinh tế lượng 1,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235704,Phạm Thị Vân,Anh,TXTOKT04,24032024.TXTOKT04.0001,Kinh tế lượng 1,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225431,Bùi Thị,Hoài,TXTOKT04,24032024.TXTOKT04.0003,Kinh tế lượng 1,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225457,Đặng Thị Minh,Thư,TXTOKT04,24032024.TXTOKT04.0003,Kinh tế lượng 1,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225107,Võ Thành,Trung,TXTOKT04,24032024.TXTOKT04.0002,Kinh tế lượng 1,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225427,Lý Thị Thu,Hà,TXTOKT04,24032024.TXTOKT04.0003,Kinh tế lượng 1,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225462,Phan Phạm Thùy,Trang,TXTOKT04,24032024.TXTOKT04.0003,Kinh tế lượng 1,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225428,Bùi Thị Thanh,Hải,TXTOKT04,24032024.TXTOKT04.0003,Kinh tế lượng 1,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235736,Lê  Mạnh,Tuấn,TXTOKT04,24032024.TXTOKT04.0001,Kinh tế lượng 1,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235731,Nguyễn Ngọc,Tấn,TXTOKT04,24032024.TXTOKT04.0001,Kinh tế lượng 1,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225438,Nông Thị,Minh,TXTOKT04,24032024.TXTOKT04.0003,Kinh tế lượng 1,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225441,Trần Bảo,Ngọc,TXTOKT04,24032024.TXTOKT04.0003,Kinh tế lượng 1,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225448,Nguyễn Thị,Thanh,TXTOKT04,24032024.TXTOKT04.0003,Kinh tế lượng 1,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225455,Thái Trần Tiểu,Thiên,TXTOKT04,24032024.TXTOKT04.0003,Kinh tế lượng 1,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225435,Lê Thị Lăng,Linh,TXTOKT04,24032024.TXTOKT04.0003,Kinh tế lượng 1,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235732,Nguyễn Đình,Thắng,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235733,Trần Hoàng Anh,Thư,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235734,Nguyễn Hoàng Nhật,Tiến,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235736,Lê  Mạnh,Tuấn,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235730,Trịnh Minh,Quốc,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235715,Trương Thị Bé,Hoài,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235723,Dương Thị Trà,Mi,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225586,Bùi Thị Hồng,My,TXTOKT1145,24032024.TXTOKT1145.0005,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225577,Đỗ,Kiên,TXTOKT1145,24032024.TXTOKT1145.0005,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225574,Cao Trần Khánh,Hưng,TXTOKT1145,24032024.TXTOKT1145.0005,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225572,Nguyễn Thị Minh,Hoàng,TXTOKT1145,24032024.TXTOKT1145.0005,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225569,Trần Văn,Hậu,TXTOKT1145,24032024.TXTOKT1145.0005,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225397,Lê Đỗ Hoàng Bảo,Trâm,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225733,Nguyễn Thái Quốc,Anh,TXTOKT1145,24032024.TXTOKT1145.0005,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225214,Nguyễn Duy,Võ,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225126,Nguyễn Hoàng,Duy,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225122,Cao Thuỳ Thục,Đoan,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225094,Lê Thị Thu,An,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19215622,Nguyễn Thanh,Phước,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19215537,Nguyễn Quốc,An,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19215458,Hoàng Hồng,Lê,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225181,Nguyễn Thị Kim,Quý,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235728,Phạm Bích,Phượng,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235134,Trần Long,Đỉnh,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235515,Phan Nam,Bình,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235719,Trần Như,Lai,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235717,Lê Thế,Hưng,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235716,Hoàng Văn,Hoàn,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235712,Lê Văn,Giáp,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235710,NGUYỄN TẤN,ĐÔNG,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235707,Hoàng Chí,Cường,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235149,Huỳnh Lê Bảo,Khang,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235706,Nguyễn Văn,Chiến,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235534,Lê Ngọc Phương,Vy,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235530,Vũ Thị Hoài,Thu,TXTOKT1145,24032024.TXTOKT1145.0005,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235528,Trần Thị Tố,Quyên,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235526,Phạm Thanh,Nhi,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235519,Lữ Lê Ngọc,Hậu,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235516,Võ Hoàng,Danh,TXTOKT1145,24032024.TXTOKT1145.0004,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235705,Phùng Thế,Anh,TXTOKT1145,24032024.TXTOKT1145.0001,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19235524,Nguyễn Hồng,Ngọc,TXTOKT1145,24032024.TXTOKT1145.0005,Lý thuyết xác suất và thống kê toán,3,Bộ môn Toán kinh tế,Khoa Toán kinh tế
+HCM,19225423,Nguyễn Thị Kiều,Chinh,TXKTTC07,24032024.TXKTTC07.0002,Phân tích báo cáo tài chính,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán
+HCM,19235003,Trần Thị Kim,Anh,TXKTTC07,24032024.TXKTTC07.0001,Phân tích báo cáo tài chính,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán
+HCM,19235001,Ngô Hoàng Quang,Anh,TXKTTC07,24032024.TXKTTC07.0001,Phân tích báo cáo tài chính,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán
+HCM,19225642,Nguyễn Thu,Trang,TXKTTC07,24032024.TXKTTC07.0002,Phân tích báo cáo tài chính,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán
+HCM,19225639,Trịnh Bá,Thành,TXKTTC07,24032024.TXKTTC07.0002,Phân tích báo cáo tài chính,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán
+HCM,19225637,Nguyễn Vân,Quỳnh,TXKTTC07,24032024.TXKTTC07.0002,Phân tích báo cáo tài chính,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán
+HCM,19225627,Mai Thị,Hồng,TXKTTC07,24032024.TXKTTC07.0002,Phân tích báo cáo tài chính,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán
+HCM,19225624,Lê Thu,Hà,TXKTTC07,24032024.TXKTTC07.0002,Phân tích báo cáo tài chính,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán
+HCM,19225623,Phạm Thị,Giang,TXKTTC07,24032024.TXKTTC07.0002,Phân tích báo cáo tài chính,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán
+HCM,19191230,Lê Thị Liên,Kiều,TXKTTC07,24032024.TXKTTC07.0001,Phân tích báo cáo tài chính,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán
+HCM,19225626,Trần Thị Mỹ,Hòa,TXKTTC07,24032024.TXKTTC07.0002,Phân tích báo cáo tài chính,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán
+HCM,19225030,Nông Thị Phương,Thảo,TXKTTC07,24032024.TXKTTC07.0002,Phân tích báo cáo tài chính,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán
+HCM,19225632,Huỳnh Châu,Long,TXKTTC07,24032024.TXKTTC07.0002,Phân tích báo cáo tài chính,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán
+HCM,19225452,Nguyễn Thị Thu,Thảo,TXKTTC07,24032024.TXKTTC07.0002,Phân tích báo cáo tài chính,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán
+HCM,19225269,Ngô Thị Thanh,Huyền,TXLUKD1176,24032024.TXLUKD1176.0001,Pháp Luật cạnh tranh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235364,Nguyễn Đức,Hải,TXLUKD1176,24032024.TXLUKD1176.0002,Pháp Luật cạnh tranh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235384,Vũ Thuỳ,Linh,TXLUKD1176,24032024.TXLUKD1176.0002,Pháp Luật cạnh tranh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235390,Nguyễn Thị,Oanh,TXLUKD1176,24032024.TXLUKD1176.0002,Pháp Luật cạnh tranh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225271,Hoàng Thùy,Linh,TXLUKD1176,24032024.TXLUKD1176.0001,Pháp Luật cạnh tranh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235130,Trịnh Thị,Yến,TXLUKD1176,24032024.TXLUKD1176.0002,Pháp Luật cạnh tranh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235122,Nguyễn Minh,Tường,TXLUKD1176,24032024.TXLUKD1176.0002,Pháp Luật cạnh tranh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235099,Nguyễn Diệu Hồng,Nhung,TXLUKD1176,24032024.TXLUKD1176.0002,Pháp Luật cạnh tranh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235088,Nguyễn Dương Như,Ngọc,TXLUKD1176,24032024.TXLUKD1176.0002,Pháp Luật cạnh tranh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235076,Trần Thị Giao,Linh,TXLUKD1176,24032024.TXLUKD1176.0002,Pháp Luật cạnh tranh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19230149,Lê Quang,Đăng,TXLUKD1176,24032024.TXLUKD1176.0002,Pháp Luật cạnh tranh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235089,Lê Thị Ánh,Nguyệt,TXLUKD1176,24032024.TXLUKD1176.0002,Pháp Luật cạnh tranh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225307,Nguyễn Minh,Vương,TXLUKD1176,24032024.TXLUKD1176.0002,Pháp Luật cạnh tranh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225267,Trần Thị Thùy,Hương,TXLUKD1176,24032024.TXLUKD1176.0002,Pháp Luật cạnh tranh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225261,Hoàng Thu,Giang,TXLUKD1176,24032024.TXLUKD1176.0001,Pháp Luật cạnh tranh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225255,Trần Thị Vi,Anh,TXLUKD1176,24032024.TXLUKD1176.0002,Pháp Luật cạnh tranh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225254,Trần Thị Minh,Anh,TXLUKD1176,24032024.TXLUKD1176.0002,Pháp Luật cạnh tranh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225070,Phùng Thị Bích,Ngọc,TXLUKD1176,24032024.TXLUKD1176.0002,Pháp Luật cạnh tranh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19220600,Nguyễn Hồng,Hạnh,TXLUKD1176,24032024.TXLUKD1176.0002,Pháp Luật cạnh tranh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19215428,Nguyễn Ngọc Kim,Thoa,TXLUKD1176,24032024.TXLUKD1176.0001,Pháp Luật cạnh tranh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225646,Trần Nguyễn Vân,An,TXLUKD1176,24032024.TXLUKD1176.0002,Pháp Luật cạnh tranh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225276,Nguyễn Thị Trà,Mi,TXLUKD1176,24032024.TXLUKD1176.0002,Pháp Luật cạnh tranh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225273,Lý Thị Khánh,Linh,TXLUKD1176,24032024.TXLUKD1176.0002,Pháp Luật cạnh tranh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225282,Phan Bá,Ngọc,TXLUKD1176,24032024.TXLUKD1176.0002,Pháp Luật cạnh tranh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225285,Nguyễn Thị Quỳnh,Như,TXLUKD1176,24032024.TXLUKD1176.0002,Pháp Luật cạnh tranh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225300,Nguyễn Thị Huỳnh,Trang,TXLUKD1176,24032024.TXLUKD1176.0002,Pháp Luật cạnh tranh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225303,Ngô Duy,Tùng,TXLUKD1176,24032024.TXLUKD1176.0002,Pháp Luật cạnh tranh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225306,Lê Hoàng,Việt,TXLUKD1176,24032024.TXLUKD1176.0002,Pháp Luật cạnh tranh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235162,Nguyễn Phạm Hoàng,Thúc,TXNHTC02,24032024.TXNHTC02.0001,Tài chính doanh nghiệp 1,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính
+HCM,19235169,Ngô Thị Thanh,Thảo,TXNHTC02,24032024.TXNHTC02.0001,Tài chính doanh nghiệp 1,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính
+HCM,19235516,Võ Hoàng,Danh,TXNHTC02,24032024.TXNHTC02.0001,Tài chính doanh nghiệp 1,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính
+HCM,19235157,Lê Hoàng,Sang,TXNHTC02,24032024.TXNHTC02.0001,Tài chính doanh nghiệp 1,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính
+HCM,19235151,Đỗ Thị,Khánh,TXNHTC02,24032024.TXNHTC02.0001,Tài chính doanh nghiệp 1,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính
+HCM,19235733,Trần Hoàng Anh,Thư,TXNHTC02,24032024.TXNHTC02.0001,Tài chính doanh nghiệp 1,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính
+HCM,19235138,Lê Thị Thu,Giang,TXNHTC02,24032024.TXNHTC02.0001,Tài chính doanh nghiệp 1,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính
+HCM,19235137,Trần Thị,Gấm,TXNHTC02,24032024.TXNHTC02.0001,Tài chính doanh nghiệp 1,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính
+HCM,19235136,Lã Thành,Duy,TXNHTC02,24032024.TXNHTC02.0002,Tài chính doanh nghiệp 1,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính
+HCM,19235732,Nguyễn Đình,Thắng,TXNHTC02,24032024.TXNHTC02.0001,Tài chính doanh nghiệp 1,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính
+HCM,19235135,Nguyễn Bá,Đức,TXNHTC02,24032024.TXNHTC02.0002,Tài chính doanh nghiệp 1,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính
+HCM,19235132,Nguyễn Ngọc,Anh,TXNHTC02,24032024.TXNHTC02.0001,Tài chính doanh nghiệp 1,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính
+HCM,19235141,Nguyễn Ngọc,Hiền,TXNHTC02,24032024.TXNHTC02.0001,Tài chính doanh nghiệp 1,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính
+HCM,19225718,Trần Thị Hải,Ly,TXNHTC02,24032024.TXNHTC02.0002,Tài chính doanh nghiệp 1,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính
+HCM,19235716,Hoàng Văn,Hoàn,TXNHTC02,24032024.TXNHTC02.0001,Tài chính doanh nghiệp 1,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính
+HCM,19235707,Hoàng Chí,Cường,TXNHTC02,24032024.TXNHTC02.0001,Tài chính doanh nghiệp 1,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính
+HCM,19235132,Nguyễn Ngọc,Anh,TXNHTM03,24032024.TXNHTM03.0001,Ngân hàng thương mại 1,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính
+HCM,19235733,Trần Hoàng Anh,Thư,TXNHTM03,24032024.TXNHTM03.0001,Ngân hàng thương mại 1,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính
+HCM,19235732,Nguyễn Đình,Thắng,TXNHTM03,24032024.TXNHTM03.0001,Ngân hàng thương mại 1,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính
+HCM,19235707,Hoàng Chí,Cường,TXNHTM03,24032024.TXNHTM03.0001,Ngân hàng thương mại 1,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính
+HCM,19235535,Nguyễn Xuân Thảo,Vy,TXNHTM03,24032024.TXNHTM03.0001,Ngân hàng thương mại 1,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính
+HCM,19235515,Phan Nam,Bình,TXNHTM03,24032024.TXNHTM03.0001,Ngân hàng thương mại 1,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính
+HCM,19235135,Nguyễn Bá,Đức,TXNHTM03,24032024.TXNHTM03.0002,Ngân hàng thương mại 1,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính
+HCM,19235162,Nguyễn Phạm Hoàng,Thúc,TXNHTM03,24032024.TXNHTM03.0001,Ngân hàng thương mại 1,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính
+HCM,19235157,Lê Hoàng,Sang,TXNHTM03,24032024.TXNHTM03.0001,Ngân hàng thương mại 1,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính
+HCM,19235151,Đỗ Thị,Khánh,TXNHTM03,24032024.TXNHTM03.0001,Ngân hàng thương mại 1,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính
+HCM,19235148,Phan Thúy,Huyền,TXNHTM03,24032024.TXNHTM03.0001,Ngân hàng thương mại 1,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính
+HCM,19235138,Lê Thị Thu,Giang,TXNHTM03,24032024.TXNHTM03.0001,Ngân hàng thương mại 1,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính
+HCM,19235527,Nguyễn Xuân,Phong,TXNHTM03,24032024.TXNHTM03.0001,Ngân hàng thương mại 1,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính
+HCM,19235137,Trần Thị,Gấm,TXNHTM03,24032024.TXNHTM03.0001,Ngân hàng thương mại 1,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính
+HCM,19225118,Nguyễn Cao Quốc,Cường,TXQTTH06,24032024.TXQTTH06.0005,Kiểm soát,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19205423,Khưu Nhật,Vy,TXQTTH06,24032024.TXQTTH06.0006,Kiểm soát,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19205784,Lê Phước,Lộc,TXQTTH06,24032024.TXQTTH06.0005,Kiểm soát,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19211765,Mai Tuấn,Nghĩa,TXQTTH06,24032024.TXQTTH06.0005,Kiểm soát,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225112,Hoàng Tuấn,Anh,TXQTTH06,24032024.TXQTTH06.0005,Kiểm soát,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225128,Hoàng Thị Hồng,Hà,TXQTTH06,24032024.TXQTTH06.0005,Kiểm soát,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225613,Mai Thị Huyền,Trang,TXQTTH06,24032024.TXQTTH06.0006,Kiểm soát,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225165,Ngô Thị Huỳnh,Như,TXQTTH06,24032024.TXQTTH06.0005,Kiểm soát,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225155,Đoàn Hải,Nam,TXQTTH06,24032024.TXQTTH06.0005,Kiểm soát,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19235277,Huỳnh Thị Phương,Thảo,TXQTTH06,24032024.TXQTTH06.0005,Kiểm soát,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19235250,Hồ Trang,Nhung,TXQTTH06,24032024.TXQTTH06.0005,Kiểm soát,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19235240,Trần Chí,Nguyên,TXQTTH06,24032024.TXQTTH06.0005,Kiểm soát,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19228013,Nguyễn Thị Diệu,Vê,TXQTTH06,24032024.TXQTTH06.0006,Kiểm soát,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19228011,Hứa Như,Nguyên,TXQTTH06,24032024.TXQTTH06.0006,Kiểm soát,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225814,Vương Khánh,Trung,TXQTTH06,24032024.TXQTTH06.0005,Kiểm soát,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225612,Huỳnh Thùy,Trang,TXQTTH06,24032024.TXQTTH06.0006,Kiểm soát,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225605,Lê Thị Kim,Thảo,TXQTTH06,24032024.TXQTTH06.0006,Kiểm soát,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225600,Nguyễn Công,Sơn,TXQTTH06,24032024.TXQTTH06.0006,Kiểm soát,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225599,Trần Thuý,Quỳnh,TXQTTH06,24032024.TXQTTH06.0006,Kiểm soát,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225586,Bùi Thị Hồng,My,TXQTTH06,24032024.TXQTTH06.0006,Kiểm soát,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225575,Phạm Duy,Khang,TXQTTH06,24032024.TXQTTH06.0006,Kiểm soát,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225564,Nguyễn Đức,Duy,TXQTTH06,24032024.TXQTTH06.0006,Kiểm soát,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225552,Văn Ngọc Quỳnh,Anh,TXQTTH06,24032024.TXQTTH06.0006,Kiểm soát,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225166,Nguyễn Thị Hồng,Nhung,TXQTTH06,24032024.TXQTTH06.0005,Kiểm soát,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225172,Võ Hữu,Phước,TXQTTH06,24032024.TXQTTH06.0005,Kiểm soát,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225203,Lưu Nguyễn Phương,Trang,TXQTTH06,24032024.TXQTTH06.0005,Kiểm soát,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19225548,Lê Thị Thu,Ái,TXQTTH06,24032024.TXQTTH06.0006,Kiểm soát,3,Bộ môn Quản trị kinh doanh tổng hợp,Khoa Quản trị kinh doanh
+HCM,19235101,Trần Thị,Ninh,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19215431,Nguyễn Thị Thanh,Thủy,TXLUKD13,24032024.TXLUKD13.0001,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19215253,Hàng Thanh,Trà,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235401,Đặng Hồng,Thi,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235394,Hoàng Công,Sĩ,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235384,Vũ Thuỳ,Linh,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235372,Vũ Văn,Hùng,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235112,Trần Thu,Thảo,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235074,Đỗ Thị Khánh,Linh,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235066,Vũ Hoàng,Giang,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19235395,Ngô Hồ,Sỹ,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225521,Đoàn Thanh,Việt,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225492,Lê Ngọc,Lý,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225296,Bùi Quang,Thiện,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225274,Nguyễn Đỗ Huỳnh,Mai,TXLUKD13,24032024.TXLUKD13.0002,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225267,Trần Thị Thùy,Hương,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225093,Nguyễn Hoàng,Yến,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225678,Lê Ngọc,Minh,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật
+HCM,19225054,Huỳnh Giang,Huy,TXLUKD13,24032024.TXLUKD13.0003,Luật thương mại quốc tế,3,Bộ môn Pháp luật kinh doanh,Khoa Luật

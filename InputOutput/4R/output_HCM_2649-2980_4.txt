@@ -1,0 +1,736 @@
+Runtime: 214.109
+Exam with its respective room and timeslot:
+
+Exam: 0
+	Room: 0
+		Time slot: 1
+
+	Room: 1
+		Time slot: 1
+
+	Room: 2
+		Time slot: 1
+
+	Room: 3
+		Time slot: 1
+
+Exam: 1
+	Room: 0
+	Room: 1
+	Room: 2
+		Time slot: 0
+
+	Room: 3
+Exam: 2
+	Room: 0
+	Room: 1
+	Room: 2
+		Time slot: 2
+
+	Room: 3
+Exam: 3
+	Room: 0
+		Time slot: 2
+
+	Room: 1
+	Room: 2
+	Room: 3
+Exam: 4
+	Room: 0
+	Room: 1
+	Room: 2
+	Room: 3
+		Time slot: 0
+
+Exam: 5
+	Room: 0
+	Room: 1
+	Room: 2
+		Time slot: 1
+
+	Room: 3
+		Time slot: 2
+
+Exam: 6
+	Room: 0
+	Room: 1
+	Room: 2
+		Time slot: 1
+
+	Room: 3
+Exam: 7
+	Room: 0
+	Room: 1
+	Room: 2
+	Room: 3
+		Time slot: 1
+
+Exam: 8
+	Room: 0
+	Room: 1
+		Time slot: 2
+
+	Room: 2
+	Room: 3
+
+
+Student with their respective room, exam and timeslot:
+Student 0
+Exam: 1 | Room: 2 | Time slot: 0
+Student 1
+Exam: 1 | Room: 2 | Time slot: 0
+Student 2
+Exam: 3 | Room: 0 | Time slot: 2
+Student 3
+Exam: 7 | Room: 3 | Time slot: 1
+Student 4
+Exam: 3 | Room: 0 | Time slot: 2
+Exam: 7 | Room: 3 | Time slot: 1
+Student 5
+Exam: 3 | Room: 0 | Time slot: 2
+Student 6
+Exam: 5 | Room: 3 | Time slot: 2
+Student 7
+Exam: 5 | Room: 3 | Time slot: 2
+Student 8
+Exam: 6 | Room: 2 | Time slot: 1
+Student 9
+Exam: 5 | Room: 3 | Time slot: 2
+Student 10
+Exam: 8 | Room: 1 | Time slot: 2
+Student 11
+Exam: 6 | Room: 2 | Time slot: 1
+Student 12
+Exam: 0 | Room: 0 | Time slot: 1
+Exam: 5 | Room: 3 | Time slot: 2
+Student 13
+Exam: 0 | Room: 0 | Time slot: 1
+Student 14
+Exam: 5 | Room: 3 | Time slot: 2
+Student 15
+Exam: 6 | Room: 2 | Time slot: 1
+Student 16
+Exam: 6 | Room: 2 | Time slot: 1
+Student 17
+Exam: 6 | Room: 2 | Time slot: 1
+Student 18
+Exam: 5 | Room: 3 | Time slot: 2
+Student 19
+Exam: 6 | Room: 2 | Time slot: 1
+Student 20
+Exam: 5 | Room: 3 | Time slot: 2
+Student 21
+Exam: 5 | Room: 3 | Time slot: 2
+Student 22
+Exam: 2 | Room: 2 | Time slot: 2
+Student 23
+Exam: 3 | Room: 0 | Time slot: 2
+Student 24
+Exam: 8 | Room: 1 | Time slot: 2
+Student 25
+Exam: 1 | Room: 2 | Time slot: 0
+Student 26
+Exam: 3 | Room: 0 | Time slot: 2
+Student 27
+Exam: 8 | Room: 1 | Time slot: 2
+Student 28
+Exam: 2 | Room: 2 | Time slot: 2
+Student 29
+Exam: 1 | Room: 2 | Time slot: 0
+Student 30
+Exam: 0 | Room: 0 | Time slot: 1
+Student 31
+Exam: 1 | Room: 2 | Time slot: 0
+Student 32
+Exam: 2 | Room: 2 | Time slot: 2
+Student 33
+Exam: 0 | Room: 3 | Time slot: 1
+Student 34
+Exam: 8 | Room: 1 | Time slot: 2
+Student 35
+Exam: 6 | Room: 2 | Time slot: 1
+Student 36
+Exam: 5 | Room: 3 | Time slot: 2
+Student 37
+Exam: 4 | Room: 3 | Time slot: 0
+Student 38
+Exam: 0 | Room: 0 | Time slot: 1
+Student 39
+Exam: 4 | Room: 3 | Time slot: 0
+Student 40
+Exam: 5 | Room: 2 | Time slot: 1
+Exam: 4 | Room: 3 | Time slot: 0
+Student 41
+Exam: 4 | Room: 3 | Time slot: 0
+Student 42
+Exam: 4 | Room: 3 | Time slot: 0
+Student 43
+Exam: 4 | Room: 3 | Time slot: 0
+Student 44
+Exam: 8 | Room: 1 | Time slot: 2
+Student 45
+Exam: 4 | Room: 3 | Time slot: 0
+Student 46
+Exam: 5 | Room: 3 | Time slot: 2
+Student 47
+Exam: 6 | Room: 2 | Time slot: 1
+Student 48
+Exam: 6 | Room: 2 | Time slot: 1
+Student 49
+Exam: 8 | Room: 1 | Time slot: 2
+Student 50
+Exam: 2 | Room: 2 | Time slot: 2
+Student 51
+Exam: 2 | Room: 2 | Time slot: 2
+Student 52
+Exam: 2 | Room: 2 | Time slot: 2
+Student 53
+Exam: 2 | Room: 2 | Time slot: 2
+Student 54
+Exam: 2 | Room: 2 | Time slot: 2
+Student 55
+Exam: 2 | Room: 2 | Time slot: 2
+Student 56
+Exam: 2 | Room: 2 | Time slot: 2
+Student 57
+Exam: 2 | Room: 2 | Time slot: 2
+Student 58
+Exam: 2 | Room: 2 | Time slot: 2
+Student 59
+Exam: 2 | Room: 2 | Time slot: 2
+Student 60
+Exam: 2 | Room: 2 | Time slot: 2
+Student 61
+Exam: 2 | Room: 2 | Time slot: 2
+Student 62
+Exam: 2 | Room: 2 | Time slot: 2
+Student 63
+Exam: 2 | Room: 2 | Time slot: 2
+Student 64
+Exam: 0 | Room: 3 | Time slot: 1
+Student 65
+Exam: 4 | Room: 3 | Time slot: 0
+Student 66
+Exam: 6 | Room: 2 | Time slot: 1
+Student 67
+Exam: 6 | Room: 2 | Time slot: 1
+Exam: 5 | Room: 3 | Time slot: 2
+Student 68
+Exam: 6 | Room: 2 | Time slot: 1
+Student 69
+Exam: 6 | Room: 2 | Time slot: 1
+Student 70
+Exam: 6 | Room: 2 | Time slot: 1
+Student 71
+Exam: 4 | Room: 3 | Time slot: 0
+Student 72
+Exam: 6 | Room: 2 | Time slot: 1
+Student 73
+Exam: 8 | Room: 1 | Time slot: 2
+Student 74
+Exam: 6 | Room: 2 | Time slot: 1
+Student 75
+Exam: 6 | Room: 2 | Time slot: 1
+Student 76
+Exam: 6 | Room: 2 | Time slot: 1
+Exam: 4 | Room: 3 | Time slot: 0
+Student 77
+Exam: 8 | Room: 1 | Time slot: 2
+Student 78
+Exam: 8 | Room: 1 | Time slot: 2
+Exam: 6 | Room: 2 | Time slot: 1
+Student 79
+Exam: 6 | Room: 2 | Time slot: 1
+Student 80
+Exam: 3 | Room: 0 | Time slot: 2
+Student 81
+Exam: 6 | Room: 2 | Time slot: 1
+Student 82
+Exam: 3 | Room: 0 | Time slot: 2
+Student 83
+Exam: 8 | Room: 1 | Time slot: 2
+Student 84
+Exam: 5 | Room: 3 | Time slot: 2
+Student 85
+Exam: 8 | Room: 1 | Time slot: 2
+Exam: 5 | Room: 2 | Time slot: 1
+Student 86
+Exam: 5 | Room: 3 | Time slot: 2
+Student 87
+Exam: 6 | Room: 2 | Time slot: 1
+Exam: 5 | Room: 3 | Time slot: 2
+Student 88
+Exam: 8 | Room: 1 | Time slot: 2
+Student 89
+Exam: 5 | Room: 3 | Time slot: 2
+Student 90
+Exam: 5 | Room: 3 | Time slot: 2
+Student 91
+Exam: 0 | Room: 3 | Time slot: 1
+Student 92
+Exam: 3 | Room: 0 | Time slot: 2
+Student 93
+Exam: 8 | Room: 1 | Time slot: 2
+Student 94
+Exam: 3 | Room: 0 | Time slot: 2
+Student 95
+Exam: 8 | Room: 1 | Time slot: 2
+Student 96
+Exam: 8 | Room: 1 | Time slot: 2
+Student 97
+Exam: 8 | Room: 1 | Time slot: 2
+Student 98
+Exam: 8 | Room: 1 | Time slot: 2
+Student 99
+Exam: 8 | Room: 1 | Time slot: 2
+Student 100
+Exam: 3 | Room: 0 | Time slot: 2
+Student 101
+Exam: 2 | Room: 2 | Time slot: 2
+Student 102
+Exam: 0 | Room: 3 | Time slot: 1
+Student 103
+Exam: 3 | Room: 0 | Time slot: 2
+Student 104
+Exam: 3 | Room: 0 | Time slot: 2
+Exam: 5 | Room: 2 | Time slot: 1
+Student 105
+Exam: 4 | Room: 3 | Time slot: 0
+Student 106
+Exam: 5 | Room: 3 | Time slot: 2
+Student 107
+Exam: 4 | Room: 3 | Time slot: 0
+Student 108
+Exam: 3 | Room: 0 | Time slot: 2
+Student 109
+Exam: 3 | Room: 0 | Time slot: 2
+Student 110
+Exam: 4 | Room: 3 | Time slot: 0
+Student 111
+Exam: 6 | Room: 2 | Time slot: 1
+Student 112
+Exam: 3 | Room: 0 | Time slot: 2
+Student 113
+Exam: 8 | Room: 1 | Time slot: 2
+Student 114
+Exam: 2 | Room: 2 | Time slot: 2
+Student 115
+Exam: 5 | Room: 2 | Time slot: 1
+Exam: 4 | Room: 3 | Time slot: 0
+Student 116
+Exam: 2 | Room: 2 | Time slot: 2
+Student 117
+Exam: 2 | Room: 2 | Time slot: 2
+Student 118
+Exam: 2 | Room: 2 | Time slot: 2
+Student 119
+Exam: 2 | Room: 2 | Time slot: 2
+Student 120
+Exam: 2 | Room: 2 | Time slot: 2
+Student 121
+Exam: 2 | Room: 2 | Time slot: 2
+Student 122
+Exam: 0 | Room: 1 | Time slot: 1
+Student 123
+Exam: 0 | Room: 0 | Time slot: 1
+Student 124
+Exam: 5 | Room: 2 | Time slot: 1
+Exam: 4 | Room: 3 | Time slot: 0
+Student 125
+Exam: 5 | Room: 3 | Time slot: 2
+Student 126
+Exam: 5 | Room: 2 | Time slot: 1
+Exam: 4 | Room: 3 | Time slot: 0
+Student 127
+Exam: 4 | Room: 3 | Time slot: 0
+Student 128
+Exam: 4 | Room: 3 | Time slot: 0
+Exam: 0 | Room: 3 | Time slot: 1
+Student 129
+Exam: 5 | Room: 3 | Time slot: 2
+Student 130
+Exam: 3 | Room: 0 | Time slot: 2
+Student 131
+Exam: 4 | Room: 3 | Time slot: 0
+Student 132
+Exam: 3 | Room: 0 | Time slot: 2
+Exam: 5 | Room: 2 | Time slot: 1
+Exam: 4 | Room: 3 | Time slot: 0
+Student 133
+Exam: 4 | Room: 3 | Time slot: 0
+Student 134
+Exam: 8 | Room: 1 | Time slot: 2
+Student 135
+Exam: 5 | Room: 2 | Time slot: 1
+Exam: 4 | Room: 3 | Time slot: 0
+Student 136
+Exam: 4 | Room: 3 | Time slot: 0
+Student 137
+Exam: 4 | Room: 3 | Time slot: 0
+Student 138
+Exam: 3 | Room: 0 | Time slot: 2
+Exam: 5 | Room: 2 | Time slot: 1
+Exam: 4 | Room: 3 | Time slot: 0
+Student 139
+Exam: 8 | Room: 1 | Time slot: 2
+Exam: 4 | Room: 3 | Time slot: 0
+Student 140
+Exam: 5 | Room: 3 | Time slot: 2
+Student 141
+Exam: 4 | Room: 3 | Time slot: 0
+Student 142
+Exam: 3 | Room: 0 | Time slot: 2
+Exam: 5 | Room: 2 | Time slot: 1
+Exam: 4 | Room: 3 | Time slot: 0
+Student 143
+Exam: 5 | Room: 2 | Time slot: 1
+Exam: 4 | Room: 3 | Time slot: 0
+Student 144
+Exam: 3 | Room: 0 | Time slot: 2
+Student 145
+Exam: 5 | Room: 2 | Time slot: 1
+Exam: 4 | Room: 3 | Time slot: 0
+Student 146
+Exam: 4 | Room: 3 | Time slot: 0
+Student 147
+Exam: 0 | Room: 1 | Time slot: 1
+Student 148
+Exam: 2 | Room: 2 | Time slot: 2
+Student 149
+Exam: 2 | Room: 2 | Time slot: 2
+Student 150
+Exam: 2 | Room: 2 | Time slot: 2
+Student 151
+Exam: 1 | Room: 2 | Time slot: 0
+Student 152
+Exam: 4 | Room: 3 | Time slot: 0
+Student 153
+Exam: 3 | Room: 0 | Time slot: 2
+Student 154
+Exam: 4 | Room: 3 | Time slot: 0
+Student 155
+Exam: 5 | Room: 3 | Time slot: 2
+Student 156
+Exam: 4 | Room: 3 | Time slot: 0
+Student 157
+Exam: 5 | Room: 3 | Time slot: 2
+Student 158
+Exam: 3 | Room: 0 | Time slot: 2
+Student 159
+Exam: 3 | Room: 0 | Time slot: 2
+Student 160
+Exam: 4 | Room: 3 | Time slot: 0
+Student 161
+Exam: 3 | Room: 0 | Time slot: 2
+Student 162
+Exam: 3 | Room: 0 | Time slot: 2
+Student 163
+Exam: 3 | Room: 0 | Time slot: 2
+Student 164
+Exam: 3 | Room: 0 | Time slot: 2
+Student 165
+Exam: 3 | Room: 0 | Time slot: 2
+Student 166
+Exam: 5 | Room: 3 | Time slot: 2
+Student 167
+Exam: 0 | Room: 0 | Time slot: 1
+Student 168
+Exam: 3 | Room: 0 | Time slot: 2
+Student 169
+Exam: 5 | Room: 2 | Time slot: 1
+Exam: 4 | Room: 3 | Time slot: 0
+Student 170
+Exam: 3 | Room: 0 | Time slot: 2
+Student 171
+Exam: 3 | Room: 0 | Time slot: 2
+Student 172
+Exam: 3 | Room: 0 | Time slot: 2
+Student 173
+Exam: 3 | Room: 0 | Time slot: 2
+Student 174
+Exam: 3 | Room: 0 | Time slot: 2
+Student 175
+Exam: 3 | Room: 0 | Time slot: 2
+Student 176
+Exam: 4 | Room: 3 | Time slot: 0
+Student 177
+Exam: 3 | Room: 0 | Time slot: 2
+Student 178
+Exam: 3 | Room: 0 | Time slot: 2
+Student 179
+Exam: 3 | Room: 0 | Time slot: 2
+Student 180
+Exam: 0 | Room: 0 | Time slot: 1
+Student 181
+Exam: 0 | Room: 1 | Time slot: 1
+Student 182
+Exam: 0 | Room: 0 | Time slot: 1
+Student 183
+Exam: 8 | Room: 1 | Time slot: 2
+Student 184
+Exam: 0 | Room: 1 | Time slot: 1
+Student 185
+Exam: 0 | Room: 1 | Time slot: 1
+Student 186
+Exam: 0 | Room: 3 | Time slot: 1
+Student 187
+Exam: 0 | Room: 0 | Time slot: 1
+Student 188
+Exam: 0 | Room: 3 | Time slot: 1
+Student 189
+Exam: 0 | Room: 1 | Time slot: 1
+Student 190
+Exam: 0 | Room: 1 | Time slot: 1
+Student 191
+Exam: 0 | Room: 3 | Time slot: 1
+Student 192
+Exam: 0 | Room: 3 | Time slot: 1
+Student 193
+Exam: 0 | Room: 1 | Time slot: 1
+Student 194
+Exam: 0 | Room: 0 | Time slot: 1
+Student 195
+Exam: 0 | Room: 3 | Time slot: 1
+Student 196
+Exam: 0 | Room: 1 | Time slot: 1
+Student 197
+Exam: 0 | Room: 0 | Time slot: 1
+Student 198
+Exam: 0 | Room: 0 | Time slot: 1
+Student 199
+Exam: 0 | Room: 0 | Time slot: 1
+Student 200
+Exam: 0 | Room: 1 | Time slot: 1
+Student 201
+Exam: 0 | Room: 0 | Time slot: 1
+Student 202
+Exam: 0 | Room: 1 | Time slot: 1
+Student 203
+Exam: 0 | Room: 3 | Time slot: 1
+Student 204
+Exam: 0 | Room: 0 | Time slot: 1
+Student 205
+Exam: 0 | Room: 1 | Time slot: 1
+Student 206
+Exam: 0 | Room: 0 | Time slot: 1
+Student 207
+Exam: 0 | Room: 0 | Time slot: 1
+Student 208
+Exam: 0 | Room: 0 | Time slot: 1
+Student 209
+Exam: 0 | Room: 2 | Time slot: 1
+Student 210
+Exam: 0 | Room: 3 | Time slot: 1
+Student 211
+Exam: 0 | Room: 0 | Time slot: 1
+Student 212
+Exam: 0 | Room: 3 | Time slot: 1
+Student 213
+Exam: 0 | Room: 1 | Time slot: 1
+Student 214
+Exam: 0 | Room: 1 | Time slot: 1
+Student 215
+Exam: 0 | Room: 0 | Time slot: 1
+Student 216
+Exam: 0 | Room: 1 | Time slot: 1
+Student 217
+Exam: 0 | Room: 0 | Time slot: 1
+Student 218
+Exam: 0 | Room: 3 | Time slot: 1
+Student 219
+Exam: 0 | Room: 3 | Time slot: 1
+Student 220
+Exam: 0 | Room: 0 | Time slot: 1
+Student 221
+Exam: 0 | Room: 1 | Time slot: 1
+Student 222
+Exam: 0 | Room: 1 | Time slot: 1
+Student 223
+Exam: 0 | Room: 3 | Time slot: 1
+Student 224
+Exam: 0 | Room: 0 | Time slot: 1
+Student 225
+Exam: 0 | Room: 1 | Time slot: 1
+Student 226
+Exam: 0 | Room: 1 | Time slot: 1
+Student 227
+Exam: 0 | Room: 1 | Time slot: 1
+Student 228
+Exam: 0 | Room: 3 | Time slot: 1
+Student 229
+Exam: 0 | Room: 0 | Time slot: 1
+Student 230
+Exam: 0 | Room: 1 | Time slot: 1
+Student 231
+Exam: 0 | Room: 3 | Time slot: 1
+Student 232
+Exam: 0 | Room: 3 | Time slot: 1
+Student 233
+Exam: 0 | Room: 1 | Time slot: 1
+Student 234
+Exam: 0 | Room: 1 | Time slot: 1
+Student 235
+Exam: 0 | Room: 0 | Time slot: 1
+Student 236
+Exam: 0 | Room: 1 | Time slot: 1
+Student 237
+Exam: 0 | Room: 1 | Time slot: 1
+Student 238
+Exam: 0 | Room: 0 | Time slot: 1
+Student 239
+Exam: 0 | Room: 0 | Time slot: 1
+Student 240
+Exam: 0 | Room: 3 | Time slot: 1
+Student 241
+Exam: 0 | Room: 2 | Time slot: 1
+Student 242
+Exam: 0 | Room: 3 | Time slot: 1
+Student 243
+Exam: 0 | Room: 3 | Time slot: 1
+Student 244
+Exam: 0 | Room: 1 | Time slot: 1
+Student 245
+Exam: 0 | Room: 1 | Time slot: 1
+Student 246
+Exam: 0 | Room: 1 | Time slot: 1
+Student 247
+Exam: 0 | Room: 3 | Time slot: 1
+Student 248
+Exam: 0 | Room: 1 | Time slot: 1
+Student 249
+Exam: 0 | Room: 1 | Time slot: 1
+Student 250
+Exam: 0 | Room: 0 | Time slot: 1
+Student 251
+Exam: 0 | Room: 3 | Time slot: 1
+Student 252
+Exam: 0 | Room: 3 | Time slot: 1
+Student 253
+Exam: 0 | Room: 3 | Time slot: 1
+Student 254
+Exam: 0 | Room: 1 | Time slot: 1
+Student 255
+Exam: 0 | Room: 0 | Time slot: 1
+Student 256
+Exam: 0 | Room: 0 | Time slot: 1
+Student 257
+Exam: 0 | Room: 3 | Time slot: 1
+Student 258
+Exam: 0 | Room: 0 | Time slot: 1
+Student 259
+Exam: 0 | Room: 0 | Time slot: 1
+Student 260
+Exam: 0 | Room: 1 | Time slot: 1
+Student 261
+Exam: 0 | Room: 0 | Time slot: 1
+Student 262
+Exam: 0 | Room: 1 | Time slot: 1
+Student 263
+Exam: 0 | Room: 1 | Time slot: 1
+Student 264
+Exam: 0 | Room: 3 | Time slot: 1
+Student 265
+Exam: 0 | Room: 3 | Time slot: 1
+Student 266
+Exam: 0 | Room: 3 | Time slot: 1
+Student 267
+Exam: 0 | Room: 0 | Time slot: 1
+Student 268
+Exam: 8 | Room: 1 | Time slot: 2
+Student 269
+Exam: 8 | Room: 1 | Time slot: 2
+Exam: 0 | Room: 2 | Time slot: 1
+Student 270
+Exam: 8 | Room: 1 | Time slot: 2
+Student 271
+Exam: 8 | Room: 1 | Time slot: 2
+Student 272
+Exam: 8 | Room: 1 | Time slot: 2
+Student 273
+Exam: 8 | Room: 1 | Time slot: 2
+Student 274
+Exam: 8 | Room: 1 | Time slot: 2
+Student 275
+Exam: 0 | Room: 1 | Time slot: 1
+Student 276
+Exam: 0 | Room: 0 | Time slot: 1
+Exam: 8 | Room: 1 | Time slot: 2
+Student 277
+Exam: 8 | Room: 1 | Time slot: 2
+Student 278
+Exam: 8 | Room: 1 | Time slot: 2
+Student 279
+Exam: 0 | Room: 1 | Time slot: 1
+Student 280
+Exam: 0 | Room: 3 | Time slot: 1
+Student 281
+Exam: 0 | Room: 3 | Time slot: 1
+Student 282
+Exam: 0 | Room: 1 | Time slot: 1
+Student 283
+Exam: 0 | Room: 1 | Time slot: 1
+Student 284
+Exam: 0 | Room: 0 | Time slot: 1
+Student 285
+Exam: 0 | Room: 0 | Time slot: 1
+Student 286
+Exam: 0 | Room: 3 | Time slot: 1
+Student 287
+Exam: 0 | Room: 0 | Time slot: 1
+Student 288
+Exam: 0 | Room: 3 | Time slot: 1
+Student 289
+Exam: 0 | Room: 2 | Time slot: 1
+Student 290
+Exam: 0 | Room: 0 | Time slot: 1
+Student 291
+Exam: 0 | Room: 3 | Time slot: 1
+Student 292
+Exam: 0 | Room: 3 | Time slot: 1
+Student 293
+Exam: 0 | Room: 0 | Time slot: 1
+Student 294
+Exam: 0 | Room: 3 | Time slot: 1
+Student 295
+Exam: 0 | Room: 1 | Time slot: 1
+Student 296
+Exam: 0 | Room: 1 | Time slot: 1
+Exam: 5 | Room: 3 | Time slot: 2
+
+
+
+Room -> Timeslot -> Exam -> Student in that exam: 
+Room: 0
+Time slot: 1 | Exam: 0
+12 13 30 38 123 167 180 182 187 194 197 198 199 201 204 206 207 208 211 215 217 220 224 229 235 238 239 250 255 256 258 259 261 267 276 284 285 287 290 293 
+Time slot: 2 | Exam: 3
+2 4 5 23 26 80 82 92 94 100 103 104 108 109 112 130 132 138 142 144 153 158 159 161 162 163 164 165 168 170 171 172 173 174 175 177 178 179 
+
+Room: 1
+Time slot: 1 | Exam: 0
+122 147 181 184 185 189 190 193 196 200 202 205 213 214 216 221 222 225 226 227 230 233 234 236 237 244 245 246 248 249 254 260 262 263 275 279 282 283 295 296 
+Time slot: 2 | Exam: 8
+10 24 27 34 44 49 73 77 78 83 85 88 93 95 96 97 98 99 113 134 139 183 268 269 270 271 272 273 274 276 277 278 
+
+Room: 2
+Time slot: 0 | Exam: 1
+0 1 25 29 31 151 
+Time slot: 1 | Exam: 0
+209 241 269 289 
+Time slot: 1 | Exam: 5
+40 85 104 115 124 126 132 135 138 142 143 145 169 
+Time slot: 1 | Exam: 6
+8 11 15 16 17 19 35 47 48 66 67 68 69 70 72 74 75 76 78 79 81 87 111 
+Time slot: 2 | Exam: 2
+22 28 32 50 51 52 53 54 55 56 57 58 59 60 61 62 63 101 114 116 117 118 119 120 121 148 149 150 
+
+Room: 3
+Time slot: 0 | Exam: 4
+37 39 40 41 42 43 45 65 71 76 105 107 110 115 124 126 127 128 131 132 133 135 136 137 138 139 141 142 143 145 146 152 154 156 160 169 176 
+Time slot: 1 | Exam: 0
+33 64 91 102 128 186 188 191 192 195 203 210 212 218 219 223 228 231 232 240 242 243 247 251 252 253 257 264 265 266 280 281 286 288 291 292 294 
+Time slot: 1 | Exam: 7
+3 4 
+Time slot: 2 | Exam: 5
+6 7 9 12 14 18 20 21 36 46 67 84 86 87 89 90 106 125 129 140 155 157 166 296 
+

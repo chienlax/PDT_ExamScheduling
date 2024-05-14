@@ -27,11 +27,12 @@ public:
     map<int, string> decoding_exam;
     map<int, string> decoding_student;
 
-    void fourIndexFormular();
+    void fourIndexFormular(string outputFile);
     void test();
-    void threeIndexFormular();
+    void threeIndexFormular(string outputFile);
     void Test();
     void Simple3DModel();
+    //void mixedModel();
 };
 
 #endif

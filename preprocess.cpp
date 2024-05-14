@@ -60,8 +60,8 @@ void Process::process_input(string inputFile)
 
 	while (getline(instream, input)) {
 
-	//for (int i = 0; i<input_line; i++){
-		//getline(instream, input);
+		//for (int i = 0; i<input_line; i++){
+			//getline(instream, input);
 		vector<string> lines;
 		stringstream ss(input);
 		string line;
@@ -149,7 +149,7 @@ void Process::process_input(string inputFile)
 	int num_slot = 12;
 	int num_course = exam_and_infor.size();
 
-	cout << "Number of exam: " << num_exam << "\n" << "Number of student: " << num_student 
+	cout << "Number of exam: " << num_exam << "\n" << "Number of student: " << num_student
 		<< "\nNumber of course: " << num_course << endl;
 
 	// Write file
@@ -169,7 +169,7 @@ void Process::process_input(string inputFile)
 
 	for (auto it1 : output_student_and_exam) {
 		outstream << it1.first << ":";
-		for (auto it2 : it1.second){
+		for (auto it2 : it1.second) {
 			outstream << it2 << " ";
 		}
 		outstream << endl;
@@ -316,8 +316,8 @@ void Process::Test(string inputFile)
 
 	int num_exam = exam_input.size();
 	int num_student = student_input.size();
-	int num_room = 15; 
-	int num_slot = 24;
+	int num_room = 4;
+	int num_slot = 3;
 	int num_course = exam_and_infor.size();
 
 	cout << "Number of exam: " << num_exam << "\n" << "Number of student: " << num_student
@@ -326,6 +326,8 @@ void Process::Test(string inputFile)
 	// Write file
 	cout << "\nWriting File";
 	ofstream outstream("input.txt", ofstream::trunc);
+	cout << inputFile << endl;
+	
 
 	outstream << num_exam << " " << num_student << " " << num_room << " " << num_slot << " " << num_course << endl;
 

@@ -22,7 +22,7 @@ Solver::Solver(Instance* instance) : instance(instance) {
 	void run();
 }
 
-void Solver::fourIndexFormular() {
+void Solver::fourIndexFormular(string outputFile) {
 	cout << "\n-----------------------\n\nStart of solver\n\n";
 
 	IloEnv env;
@@ -514,7 +514,7 @@ void Solver::fourIndexFormular() {
 
 	cout << "Solution status: " << cplex.getStatus() << endl;
 
-	ofstream outFile("output.txt", ofstream::trunc);
+	ofstream outFile(outputFile, ofstream::trunc);
 
 	cout << "\n\nResult starts here:\n\n";
 	cout << "Exam with its respective room and timeslot:\n";
@@ -727,7 +727,7 @@ void Solver::test() {
 	cout << "Objective = " << cplex.getObjValue() << endl;
 }
 
-void Solver::threeIndexFormular() {
+void Solver::threeIndexFormular(string outputFile) {
 	cout << "\n-----------------------\n\nStart of 3D model solver\n\n";
 
 	IloEnv env;
@@ -1206,7 +1206,7 @@ void Solver::threeIndexFormular() {
 
 	cout << "Solution status: " << cplex.getStatus() << endl;
 
-	ofstream outFile("output.txt", ofstream::trunc);
+	ofstream outFile(outputFile, ofstream::trunc);
 
 	cout << "\n\nResult starts here:\n\n";
 	cout << "Exam with its respective room and timeslot:\n";
@@ -1835,6 +1835,7 @@ void Solver::Test() {
 	}
 }
 
+//void Solver::Simple3DModel(string outputFile) {
 void Solver::Simple3DModel() {
 	cout << "\n-----------------------\n\nStart of New Simplified 3D model solver\n\n";
 
@@ -2112,7 +2113,6 @@ void Solver::Simple3DModel() {
 		if (examOfStudent[i].size())
 		{
 			{
-				//cai t/6 * 10 là để "phạt" nếu thi ở 2 ngày khác nhau
 				for (int t = 0; t < T; t++) {
 					model.add(wi_s[i] <= (t + (int)(t / 6) * 10) + 100 * (1 - w_it[i][t])).setName(("C11s_i_t" + to_string(i)
 						+ "," + to_string(t)).c_str());
@@ -2134,8 +2134,8 @@ void Solver::Simple3DModel() {
 					+ to_string(t)).c_str());
 			}
 		}
-		model.add(zi_e[i] - zi_s[i] == 0).setName(("C20d_i_" + to_string(i)).c_str());
-		//model.add(zi_e[i] - zi_s[i] <= 1).setName(("C20d_i_" + to_string(i)).c_str());
+		//model.add(zi_e[i] - zi_s[i] == 0).setName(("C20d_i_" + to_string(i)).c_str());
+		model.add(zi_e[i] - zi_s[i] <= 1).setName(("C20d_i_" + to_string(i)).c_str());
 	}
 	cout << "Done 20\n";
 	
@@ -2143,20 +2143,20 @@ void Solver::Simple3DModel() {
 	// Objective function:
 	IloExpr obj1(env); // penalty for duration of each exam
 	for (int j = 0; j < E; j++) {
-		obj1 += 1e6 * (zi_e[j] - zi_s[j]);
+		obj1 += 1e4 * (zi_e[j] - zi_s[j]);
 	}
 
 
 	IloExpr obj2(env); // penalty for duration of each student
 	for (int j = 0; j < S; j++) {
-		obj1 += 1e3 * (wi_e[j] - wi_s[j]);
+		obj2 += 1e3 * (wi_e[j] - wi_s[j]);
 	}
 
 	IloExpr obj3(env); // penalty cho so phong phai su dung
 	for (int j = 0; j < E; j++) {
 		for (int r = 0; r < R; r++) {
 			for (int t = 0; t < T; t++) {
-				obj3 += 1e4 * x_jrt[j][r][t];
+				obj3 += 1e6 * x_jrt[j][r][t];
 			}
 		}
 	}
@@ -2168,8 +2168,11 @@ void Solver::Simple3DModel() {
 	IloCplex cplex(model);
 	double startTime = cplex.getTime();
 
-	cplex.setParam(IloCplex::EpGap, 0.05); // Set the gap limit to 5%
-	cplex.setParam(IloCplex::Param::TimeLimit, 600);
+	//cplex.setParam(IloCplex::EpGap, 0.2); // Set the gap limit to 90%
+	//cplex.setParam(IloCplex::Param::TimeLimit, 1200);
+
+	//cplex.setParam(IloCplex::Param::Emphasis::MIP, 1);
+	//cplex.setParam(IloCplex::Param::Simplex::Limits::LowerObj, 1e+8);
 
 	if (!cplex.solve()) {
 		cerr << "Failed to solve the problem" << endl;
@@ -2183,6 +2186,9 @@ void Solver::Simple3DModel() {
 
 	double endTime = cplex.getTime();
 	cout << "Runtime: " << endTime - startTime << endl;
+
+	//ofstream outFile(outputFile, ofstream::trunc);
+
 
 	ofstream outFile("output.txt", ofstream::trunc);
 	outFile << "Runtime: " << endTime - startTime << endl;
@@ -2247,7 +2253,7 @@ void Solver::Simple3DModel() {
 					outFile << "Time slot: " << t << " | Exam: " << j << endl;
 					cout << "Time slot: " << t << " | Exam: " << j << endl;
 					for (int i = 0; i < S; i++) {
-						if (examOfStudent[i].count(j) == 1 && cplex.getValue(w_ijt[i][j][t]) == 1) {
+						if (examOfStudent[i].count(j) == 1 && cplex.getValue(w_ijt[i][j][t]) == 1 && cplex.getValue(w_irt[i][r][t]) == 1) {
 							cout << i << " ";
 							outFile << i << " ";
 						}
